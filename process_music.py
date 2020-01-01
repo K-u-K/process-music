@@ -169,3 +169,5 @@ if __name__ == '__main__':
                 result["order"],
                 result["is_chord"]
             ))
+
+    print(f"Logfile generated at {output}")
