@@ -14,6 +14,10 @@ import xes
 # TODO: dynamic deviation adaptation in ratio / upper / lower bound
 # TODO: use argparse instead of sys.argv
 # TODO: create man page <3
+# TODO: chord & interval names instead of an own entry for each note in a chord
+# TODO: implement triplets, quintuplets, etc.
+# TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
+#       how should it be implemented in the log 
 
 if __name__ == '__main__':
     filename   = sys.argv[1] if len(sys.argv) > 1 else ""
