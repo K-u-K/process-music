@@ -68,7 +68,7 @@ if __name__ == '__main__':
                 continue
 
             # prepend pauses
-            if msg.type == "note_on" and msg.time != 0:
+            if msg.type == "note_on" and msg.time != 0 and msg.velocity != 0:
                 results.append({
                     "case":     case_number,
                     "key":      "Pause",
