@@ -3,1125 +3,568 @@ Case_ID;Event;Type;Order;Is_Chord
 1;E4;eighth note;1;True
 1;A5;eighth note;1;True
 1;C5;eighth note;1;True
-1;Pause;unknown;2;False
 1;E4;eighth note;2;False
-1;Pause;unknown;3;False
 1;A5;eighth note;3;False
-1;Pause;unknown;4;False
 1;C5;quarter note;4;False
-1;Pause;unknown;5;False
 1;E4;eighth note;5;False
-1;Pause;unknown;6;False
 2;A5;eighth note;6;False
-2;Pause;unknown;7;False
 1;C3;eighth note;1;True
-2;C5;unknown;7;False
-2;Pause;unknown;8;False
+2;C5;eighth note;7;False
 2;C4;whole note;8;False
-2;Pause;unknown;9;False
 2;C4;eighth note;9;False
-2;Pause;unknown;10;False
 2;E4;eighth note;10;False
-2;Pause;unknown;11;False
 2;A5;eighth note;11;False
-2;Pause;unknown;12;False
 2;C5;eighth note;12;False
-2;Pause;unknown;13;False
 2;C4;eighth note;13;False
-2;Pause;unknown;14;False
 2;E4;eighth note;14;False
-2;Pause;unknown;15;False
 2;A5;eighth note;15;False
-2;Pause;unknown;16;False
 2;C5;eighth note;16;False
-2;Pause;unknown;17;False
 2;C4;eighth note;17;False
-2;Pause;unknown;18;False
 2;E4;eighth note;18;False
-2;Pause;unknown;19;False
 2;A5;eighth note;19;False
-2;Pause;unknown;20;False
 2;B5;eighth note;20;False
-2;Pause;unknown;21;False
 2;C4;eighth note;21;False
-2;Pause;unknown;22;False
 2;E4;eighth note;22;False
-2;Pause;unknown;23;False
 2;A5;eighth note;23;False
-2;Pause;unknown;24;False
 2;B5;eighth note;24;False
-2;Pause;unknown;25;False
 2;B4;eighth note;25;False
-2;Pause;unknown;26;False
 2;D4;eighth note;26;False
-2;Pause;unknown;27;False
 2;G4;eighth note;27;False
-2;Pause;unknown;28;False
 2;B5;eighth note;28;False
-2;Pause;unknown;29;False
 2;B4;eighth note;29;False
-2;Pause;unknown;30;False
 2;D4;eighth note;30;False
-2;Pause;unknown;31;False
 2;G4;eighth note;31;False
-2;Pause;unknown;32;False
 2;B5;eighth note;32;False
-2;Pause;unknown;33;False
 2;B4;eighth note;33;False
-2;Pause;unknown;34;False
 2;D4;eighth note;34;False
-2;Pause;unknown;35;False
 2;G4;eighth note;35;False
-2;Pause;unknown;36;False
 2;B5;eighth note;36;False
-2;Pause;unknown;37;False
 2;B4;eighth note;37;False
-2;Pause;unknown;38;False
 2;D4;eighth note;38;False
-2;Pause;unknown;39;False
 2;G4;eighth note;39;False
-2;Pause;unknown;40;False
 2;B5;eighth note;40;False
-2;Pause;unknown;41;False
 2;E4;eighth note;41;False
-2;Pause;unknown;42;False
 2;G4;eighth note;42;False
-2;Pause;unknown;43;False
 2;B5;eighth note;43;False
-2;Pause;unknown;44;False
 2;B5;eighth note;44;False
-2;Pause;unknown;45;False
 2;E4;eighth note;45;False
-2;Pause;unknown;46;False
 2;G4;eighth note;46;False
-2;Pause;unknown;47;False
 2;B5;eighth note;47;False
-2;Pause;unknown;48;False
 2;B5;eighth note;48;False
-2;Pause;unknown;49;False
 2;E4;eighth note;49;False
-2;Pause;unknown;50;False
 2;G4;eighth note;50;False
-2;Pause;unknown;51;False
 2;B5;eighth note;51;False
-2;Pause;unknown;52;False
 2;B5;eighth note;52;False
-2;Pause;unknown;53;False
 2;E4;eighth note;53;False
-2;Pause;unknown;54;False
 2;G4;eighth note;54;False
-2;Pause;unknown;55;False
 2;B5;eighth note;55;False
-2;Pause;unknown;56;False
 2;C5;eighth note;56;False
-2;Pause;unknown;57;False
 2;C4;eighth note;57;False
-2;Pause;unknown;58;False
 2;E4;eighth note;58;False
-2;Pause;unknown;59;False
 2;A5;eighth note;59;False
-2;Pause;unknown;60;False
 2;C5;eighth note;60;False
-2;Pause;unknown;61;False
 2;C4;eighth note;61;False
-2;Pause;unknown;62;False
 2;E4;eighth note;62;False
-2;Pause;unknown;63;False
 2;A5;eighth note;63;False
-2;Pause;unknown;64;False
 2;C5;eighth note;64;False
-2;Pause;unknown;65;False
 2;C4;eighth note;65;False
-2;Pause;unknown;66;False
 2;E4;eighth note;66;False
-2;Pause;unknown;67;False
 2;A5;eighth note;67;False
-2;Pause;unknown;68;False
 2;B5;eighth note;68;False
-2;Pause;unknown;69;False
 2;C4;eighth note;69;False
-2;Pause;unknown;70;False
 2;E4;eighth note;70;False
-2;Pause;unknown;71;False
 2;A5;eighth note;71;False
-2;Pause;unknown;72;False
 2;B5;eighth note;72;False
-2;Pause;unknown;73;False
 2;C4;eighth note;73;False
-2;Pause;unknown;74;False
 2;E4;eighth note;74;False
-2;Pause;unknown;75;False
 2;A5;eighth note;75;False
-2;Pause;unknown;76;False
 2;C5;eighth note;76;False
-2;Pause;unknown;77;False
 2;C4;eighth note;77;False
-2;Pause;unknown;78;False
 2;E4;eighth note;78;False
-2;Pause;unknown;79;False
 2;A5;eighth note;79;False
-2;Pause;unknown;80;False
 2;C5;eighth note;80;False
-2;Pause;unknown;81;False
 2;C4;eighth note;81;False
-2;Pause;unknown;82;False
 2;E4;eighth note;82;False
-2;Pause;unknown;83;False
 2;A5;eighth note;83;False
-2;Pause;unknown;84;False
 2;B5;eighth note;84;False
-2;Pause;unknown;85;False
 2;C4;eighth note;85;False
-2;Pause;unknown;86;False
 2;E4;eighth note;86;False
-2;Pause;unknown;87;False
 2;A5;eighth note;87;False
-2;Pause;unknown;88;False
 2;B5;eighth note;88;False
-2;Pause;unknown;89;False
 2;B4;eighth note;89;False
-2;Pause;unknown;90;False
 2;D4;eighth note;90;False
-2;Pause;unknown;91;False
 2;G4;eighth note;91;False
-2;Pause;unknown;92;False
 2;B5;eighth note;92;False
-2;Pause;unknown;93;False
 2;B4;eighth note;93;False
-2;Pause;unknown;94;False
 2;D4;eighth note;94;False
-2;Pause;unknown;95;False
 2;G4;eighth note;95;False
-2;Pause;unknown;96;False
 2;B5;eighth note;96;False
-2;Pause;unknown;97;False
 2;B4;eighth note;97;False
-2;Pause;unknown;98;False
 2;D4;eighth note;98;False
-2;Pause;unknown;99;False
 2;G4;eighth note;99;False
-2;Pause;unknown;100;False
 2;C5;eighth note;100;False
-2;Pause;unknown;101;False
 2;B4;eighth note;101;False
-2;Pause;unknown;102;False
 2;D4;eighth note;102;False
-2;Pause;unknown;103;False
 2;G4;eighth note;103;False
-2;Pause;unknown;104;False
 2;B5;eighth note;104;False
-2;Pause;unknown;105;False
 2;E4;eighth note;105;False
-2;Pause;unknown;106;False
 2;G4;eighth note;106;False
-2;Pause;unknown;107;False
 2;B5;eighth note;107;False
-2;Pause;unknown;108;False
 2;B5;eighth note;108;False
-2;Pause;unknown;109;False
 2;E4;eighth note;109;False
-2;Pause;unknown;110;False
 2;G4;eighth note;110;False
-2;Pause;unknown;111;False
 2;B5;eighth note;111;False
-2;Pause;unknown;112;False
 2;B5;eighth note;112;False
-2;Pause;unknown;113;False
 2;E4;eighth note;113;False
-2;Pause;unknown;114;False
 2;G4;eighth note;114;False
-2;Pause;unknown;115;False
 2;B5;eighth note;115;False
-2;Pause;unknown;116;False
 2;B5;eighth note;116;False
-2;Pause;unknown;117;False
 2;E4;eighth note;117;False
-2;Pause;unknown;118;False
 2;G4;eighth note;118;False
-2;Pause;unknown;119;False
 2;B5;eighth note;119;False
-2;Pause;unknown;120;False
 2;C5;eighth note;120;False
-2;Pause;unknown;121;False
 2;C4;eighth note;121;False
-2;Pause;unknown;122;False
 2;E4;eighth note;122;False
-2;Pause;unknown;123;False
 2;A5;eighth note;123;False
-2;Pause;unknown;124;False
 2;C5;eighth note;124;False
-2;Pause;unknown;125;False
 2;C4;eighth note;125;False
-2;Pause;unknown;126;False
 2;E4;eighth note;126;False
-2;Pause;unknown;127;False
 2;A5;eighth note;127;False
-2;Pause;unknown;128;False
 2;C5;eighth note;128;False
-2;Pause;unknown;129;False
 2;C4;eighth note;129;False
-2;Pause;unknown;130;False
 2;E4;eighth note;130;False
-2;Pause;unknown;131;False
 2;A5;eighth note;131;False
-2;Pause;unknown;132;False
 2;F5;eighth note;132;False
-2;Pause;unknown;133;False
 2;C4;eighth note;133;False
-2;Pause;unknown;134;False
 2;E4;eighth note;134;False
-2;Pause;unknown;135;False
 2;A5;eighth note;135;False
-2;Pause;unknown;136;False
 2;E5;eighth note;136;False
-2;Pause;unknown;137;False
 2;C4;eighth note;137;False
-2;Pause;unknown;138;False
 2;E4;eighth note;138;False
-2;Pause;unknown;139;False
 2;A5;eighth note;139;False
-2;Pause;unknown;140;False
 2;C5;eighth note;140;False
-2;Pause;unknown;141;False
 2;C4;eighth note;141;False
-2;Pause;unknown;142;False
 2;E4;eighth note;142;False
-2;Pause;unknown;143;False
 2;A5;eighth note;143;False
-2;Pause;unknown;144;False
 2;C5;eighth note;144;False
-2;Pause;unknown;145;False
 2;C4;eighth note;145;False
-2;Pause;unknown;146;False
 2;E4;eighth note;146;False
-2;Pause;unknown;147;False
 2;A5;eighth note;147;False
-2;Pause;unknown;148;False
 2;E5;eighth note;148;False
-2;Pause;unknown;149;False
 2;C4;eighth note;149;False
-2;Pause;unknown;150;False
 2;E4;eighth note;150;False
-2;Pause;unknown;151;False
 2;A5;eighth note;151;False
-2;Pause;unknown;152;False
 2;D5;eighth note;152;False
-2;Pause;unknown;153;False
 2;B4;eighth note;153;False
-2;Pause;unknown;154;False
 2;D4;eighth note;154;False
-2;Pause;unknown;155;False
 2;G4;eighth note;155;False
-2;Pause;unknown;156;False
 2;B5;eighth note;156;False
-2;Pause;unknown;157;False
 2;B4;eighth note;157;False
-2;Pause;unknown;158;False
 2;D4;eighth note;158;False
-2;Pause;unknown;159;False
 2;G4;eighth note;159;False
-2;Pause;unknown;160;False
 2;B5;eighth note;160;False
-2;Pause;unknown;161;False
 2;B4;eighth note;161;False
-2;Pause;unknown;162;False
 2;D4;eighth note;162;False
-2;Pause;unknown;163;False
 2;G4;eighth note;163;False
-2;Pause;unknown;164;False
 2;C5;eighth note;164;False
-2;Pause;unknown;165;False
 2;B4;eighth note;165;False
-2;Pause;unknown;166;False
 2;D4;eighth note;166;False
-2;Pause;unknown;167;False
 2;G4;eighth note;167;False
-2;Pause;unknown;168;False
 2;B5;eighth note;168;False
-2;Pause;unknown;169;False
 2;E4;eighth note;169;False
-2;Pause;unknown;170;False
 2;G4;eighth note;170;False
-2;Pause;unknown;171;False
 2;B5;eighth note;171;False
-2;Pause;unknown;172;False
 2;C5;eighth note;172;False
-2;Pause;unknown;173;False
 2;E4;eighth note;173;False
-2;Pause;unknown;174;False
 2;G4;eighth note;174;False
-2;Pause;unknown;175;False
 2;D5;eighth note;175;False
-2;Pause;unknown;176;False
 2;E5;eighth note;176;False
-2;Pause;unknown;177;False
 2;E4;eighth note;177;False
-2;Pause;unknown;178;False
 2;G4;eighth note;178;False
-2;Pause;unknown;179;False
 2;F5;eighth note;179;False
-2;Pause;unknown;180;False
 2;E5;eighth note;180;False
-2;Pause;unknown;181;False
 2;E4;eighth note;181;False
-2;Pause;unknown;182;False
 2;G4;eighth note;182;False
-2;Pause;unknown;183;False
 2;D5;eighth note;183;False
-2;Pause;unknown;184;False
 2;C5;eighth note;184;False
-2;Pause;unknown;185;False
 2;C4;eighth note;185;False
-2;Pause;unknown;186;False
 2;E4;eighth note;186;False
-2;Pause;unknown;187;False
 2;A5;eighth note;187;False
-2;Pause;unknown;188;False
 2;C5;eighth note;188;False
-2;Pause;unknown;189;False
 2;C4;eighth note;189;False
-2;Pause;unknown;190;False
 2;E4;eighth note;190;False
-2;Pause;unknown;191;False
 2;A5;eighth note;191;False
-2;Pause;unknown;192;False
 2;C5;eighth note;192;False
-2;Pause;unknown;193;False
 2;C4;eighth note;193;False
-2;Pause;unknown;194;False
 2;E4;eighth note;194;False
-2;Pause;unknown;195;False
 2;A5;eighth note;195;False
-2;Pause;unknown;196;False
 2;F5;eighth note;196;False
-2;Pause;unknown;197;False
 2;C4;eighth note;197;False
-2;Pause;unknown;198;False
 2;E4;eighth note;198;False
-2;Pause;unknown;199;False
 2;A5;eighth note;199;False
-2;Pause;unknown;200;False
 2;E5;eighth note;200;False
-2;Pause;unknown;201;False
 2;C4;eighth note;201;False
-2;Pause;unknown;202;False
 2;E4;eighth note;202;False
-2;Pause;unknown;203;False
 2;A5;eighth note;203;False
-2;Pause;unknown;204;False
 2;C5;eighth note;204;False
-2;Pause;unknown;205;False
 2;C4;eighth note;205;False
-2;Pause;unknown;206;False
 2;E4;eighth note;206;False
-2;Pause;unknown;207;False
 2;A5;eighth note;207;False
-2;Pause;unknown;208;False
 2;C5;eighth note;208;False
-2;Pause;unknown;209;False
 2;C4;eighth note;209;False
-2;Pause;unknown;210;False
 2;E4;eighth note;210;False
-2;Pause;unknown;211;False
 2;A5;eighth note;211;False
-2;Pause;unknown;212;False
 2;E5;eighth note;212;False
-2;Pause;unknown;213;False
 2;C4;eighth note;213;False
-2;Pause;unknown;214;False
 2;E4;eighth note;214;False
-2;Pause;unknown;215;False
 2;A5;eighth note;215;False
-2;Pause;unknown;216;False
 2;D5;eighth note;216;False
-2;Pause;unknown;217;False
 2;B4;eighth note;217;False
-2;Pause;unknown;218;False
 2;D4;eighth note;218;False
-2;Pause;unknown;219;False
 2;G4;eighth note;219;False
-2;Pause;unknown;220;False
 2;D5;eighth note;220;False
-2;Pause;unknown;221;False
 2;B4;eighth note;221;False
-2;Pause;unknown;222;False
 2;D4;eighth note;222;False
-2;Pause;unknown;223;False
 2;G4;eighth note;223;False
-2;Pause;unknown;224;False
 2;C5;eighth note;224;False
-2;Pause;unknown;225;False
 2;B4;eighth note;225;False
-2;Pause;unknown;226;False
 2;D4;eighth note;226;False
-2;Pause;unknown;227;False
 2;G4;eighth note;227;False
-2;Pause;unknown;228;False
 2;B5;eighth note;228;False
-2;Pause;unknown;229;False
 2;B4;eighth note;229;False
-2;Pause;unknown;230;False
 2;D4;eighth note;230;False
-2;Pause;unknown;231;False
 2;G4;eighth note;231;False
-2;Pause;unknown;232;False
 2;B5;eighth note;232;False
-2;Pause;unknown;233;False
 2;E4;eighth note;233;False
-2;Pause;unknown;234;False
 2;G4;eighth note;234;False
-2;Pause;unknown;235;False
 2;B5;eighth note;235;False
-2;Pause;unknown;236;False
 2;C5;eighth note;236;False
-2;Pause;unknown;237;False
 2;E4;eighth note;237;False
-2;Pause;unknown;238;False
 2;G4;eighth note;238;False
-2;Pause;unknown;239;False
 2;C5;eighth note;239;False
-2;Pause;unknown;240;False
 2;D5;eighth note;240;False
-2;Pause;unknown;241;False
 2;E4;eighth note;241;False
-2;Pause;unknown;242;False
 2;G4;eighth note;242;False
-2;Pause;unknown;243;False
 2;E5;eighth note;243;False
-2;Pause;unknown;244;False
 2;F5;eighth note;244;False
-2;Pause;unknown;245;False
 2;E4;eighth note;245;False
-2;Pause;unknown;246;False
 2;G4;eighth note;246;False
-2;Pause;unknown;247;False
 2;G5;eighth note;247;False
-2;Pause;unknown;248;False
 2;E5;eighth note;248;False
-2;Pause;unknown;249;False
 2;C4;eighth note;249;False
-2;Pause;unknown;250;False
 2;E4;eighth note;250;False
-2;Pause;unknown;251;False
 2;A5;eighth note;251;False
-2;Pause;unknown;252;False
 2;C5;eighth note;252;False
-2;Pause;unknown;253;False
 2;C4;eighth note;253;False
-2;Pause;unknown;254;False
 2;E4;eighth note;254;False
-2;Pause;unknown;255;False
 2;A5;eighth note;255;False
-2;Pause;unknown;256;False
 2;C5;eighth note;256;False
-2;Pause;unknown;257;False
 2;C4;eighth note;257;False
-2;Pause;unknown;258;False
 2;E4;eighth note;258;False
-2;Pause;unknown;259;False
 2;A5;eighth note;259;False
-2;Pause;unknown;260;False
 2;C5;eighth note;260;False
-2;Pause;unknown;261;False
 2;C4;eighth note;261;False
-2;Pause;unknown;262;False
 2;E4;eighth note;262;False
-2;Pause;unknown;263;False
 2;A5;eighth note;263;False
-2;Pause;unknown;264;False
 2;C5;eighth note;264;False
-2;Pause;unknown;265;False
 2;C4;eighth note;265;False
-2;Pause;unknown;266;False
 2;E4;eighth note;266;False
-2;Pause;unknown;267;False
 2;A5;eighth note;267;False
-2;Pause;unknown;268;False
 2;C5;eighth note;268;False
-2;Pause;unknown;269;False
 2;C4;eighth note;269;False
-2;Pause;unknown;270;False
 2;E4;eighth note;270;False
-2;Pause;unknown;271;False
 2;A5;eighth note;271;False
-2;Pause;unknown;272;False
 2;C5;eighth note;272;False
-2;Pause;unknown;273;False
 2;C4;eighth note;273;False
-2;Pause;unknown;274;False
 2;E4;eighth note;274;False
-2;Pause;unknown;275;False
 2;A5;eighth note;275;False
-2;Pause;unknown;276;False
 2;E5;eighth note;276;False
-2;Pause;unknown;277;False
 2;B5;whole note;277;False
-2;Pause;unknown;278;False
 2;C4;quarter note;278;True
 2;E4;quarter note;278;True
 2;G#4;quarter note;278;True
 2;C5;quarter note;278;True
 2;Pause;dotted quarter note;279;False
 2;F4;eighth note;279;False
-2;Pause;unknown;280;False
 2;A5;eighth note;280;False
-2;Pause;unknown;281;False
 2;C5;eighth note;281;False
-2;Pause;unknown;282;False
 2;E5;eighth note;282;False
-2;Pause;unknown;283;False
 2;F4;eighth note;283;False
-2;Pause;unknown;284;False
 2;A5;eighth note;284;False
-2;Pause;unknown;285;False
 2;C5;eighth note;285;False
-2;Pause;unknown;286;False
 2;E5;eighth note;286;False
-2;Pause;unknown;287;False
 2;F4;eighth note;287;False
-2;Pause;unknown;288;False
 2;A5;eighth note;288;False
-2;Pause;unknown;289;False
 2;C5;eighth note;289;False
-2;Pause;unknown;290;False
 2;G5;eighth note;290;False
-2;Pause;unknown;291;False
 2;F4;eighth note;291;False
-2;Pause;unknown;292;False
 2;A5;eighth note;292;False
-2;Pause;unknown;293;False
 2;F5;eighth note;293;False
-2;Pause;unknown;294;False
 2;E5;eighth note;294;False
-2;Pause;unknown;295;False
 2;F4;eighth note;295;False
-2;Pause;unknown;296;False
 2;A5;eighth note;296;False
-2;Pause;unknown;297;False
 2;C5;eighth note;297;False
-2;Pause;unknown;298;False
 2;E5;eighth note;298;False
-2;Pause;unknown;299;False
 2;F4;eighth note;299;False
-2;Pause;unknown;300;False
 2;A5;eighth note;300;False
-2;Pause;unknown;301;False
 2;C5;eighth note;301;False
-2;Pause;unknown;302;False
 2;E5;eighth note;302;False
-2;Pause;unknown;303;False
 2;F4;eighth note;303;False
-2;Pause;unknown;304;False
 2;A5;eighth note;304;False
-2;Pause;unknown;305;False
 2;C5;eighth note;305;False
-2;Pause;unknown;306;False
 2;D5;eighth note;306;False
-2;Pause;unknown;307;False
 2;F4;eighth note;307;False
-2;Pause;unknown;308;False
 2;A5;eighth note;308;False
-2;Pause;unknown;309;False
 2;C5;eighth note;309;False
-2;Pause;unknown;310;False
 2;B5;eighth note;310;False
-2;Pause;unknown;311;False
 2;C4;eighth note;311;False
-2;Pause;unknown;312;False
 2;E4;eighth note;312;False
-2;Pause;unknown;313;False
 2;G4;eighth note;313;False
-2;Pause;unknown;314;False
 2;B5;eighth note;314;False
-2;Pause;unknown;315;False
 2;C4;eighth note;315;False
-2;Pause;unknown;316;False
 2;E4;eighth note;316;False
-2;Pause;unknown;317;False
 2;G4;eighth note;317;False
-2;Pause;unknown;318;False
 2;B5;eighth note;318;False
-2;Pause;unknown;319;False
 2;C4;eighth note;319;False
-2;Pause;unknown;320;False
 2;E4;eighth note;320;False
-2;Pause;unknown;321;False
 2;G4;eighth note;321;False
-2;Pause;unknown;322;False
 2;B5;eighth note;322;False
-2;Pause;unknown;323;False
 2;C4;eighth note;323;False
-2;Pause;unknown;324;False
 2;E4;eighth note;324;False
-2;Pause;unknown;325;False
 2;G4;eighth note;325;False
-2;Pause;unknown;326;False
 2;B5;eighth note;326;False
-2;Pause;unknown;327;False
 2;B4;eighth note;327;False
-2;Pause;unknown;328;False
 2;D4;eighth note;328;False
-2;Pause;unknown;329;False
 2;G4;eighth note;329;False
-2;Pause;unknown;330;False
 2;B5;eighth note;330;False
-2;Pause;unknown;331;False
 2;B4;eighth note;331;False
-2;Pause;unknown;332;False
 2;D4;eighth note;332;False
-2;Pause;unknown;333;False
 2;G4;eighth note;333;False
-2;Pause;unknown;334;False
 2;B5;eighth note;334;False
-2;Pause;unknown;335;False
 2;B4;eighth note;335;False
-2;Pause;unknown;336;False
 2;D4;eighth note;336;False
-2;Pause;unknown;337;False
 2;G4;eighth note;337;False
-2;Pause;unknown;338;False
 2;B5;eighth note;338;False
-2;Pause;unknown;339;False
 2;B4;eighth note;339;False
-2;Pause;unknown;340;False
 2;D4;eighth note;340;False
-2;Pause;unknown;341;False
 2;G4;eighth note;341;False
-2;Pause;unknown;342;False
 2;B5;eighth note;342;False
-2;Pause;unknown;343;False
 2;F4;eighth note;343;False
-2;Pause;unknown;344;False
 2;A5;eighth note;344;False
-2;Pause;unknown;345;False
 2;C5;eighth note;345;False
-2;Pause;unknown;346;False
 2;E5;eighth note;346;False
-2;Pause;unknown;347;False
 2;F4;eighth note;347;False
-2;Pause;unknown;348;False
 2;A5;eighth note;348;False
-2;Pause;unknown;349;False
 2;C5;eighth note;349;False
-2;Pause;unknown;350;False
 2;E5;eighth note;350;False
-2;Pause;unknown;351;False
 2;F4;eighth note;351;False
-2;Pause;unknown;352;False
 2;A5;eighth note;352;False
-2;Pause;unknown;353;False
 2;C5;eighth note;353;False
-2;Pause;unknown;354;False
 2;G5;eighth note;354;False
-2;Pause;unknown;355;False
 2;F4;eighth note;355;False
-2;Pause;unknown;356;False
 2;A5;eighth note;356;False
-2;Pause;unknown;357;False
 2;F5;eighth note;357;False
-2;Pause;unknown;358;False
 2;E5;eighth note;358;False
-2;Pause;unknown;359;False
 2;F4;eighth note;359;False
-2;Pause;unknown;360;False
 2;A5;eighth note;360;False
-2;Pause;unknown;361;False
 2;C5;eighth note;361;False
-2;Pause;unknown;362;False
 2;E5;eighth note;362;False
-2;Pause;unknown;363;False
 2;F4;eighth note;363;False
-2;Pause;unknown;364;False
 2;A5;eighth note;364;False
-2;Pause;unknown;365;False
 2;C5;eighth note;365;False
-2;Pause;unknown;366;False
 2;E5;eighth note;366;False
-2;Pause;unknown;367;False
 2;F4;eighth note;367;False
-2;Pause;unknown;368;False
 2;A5;eighth note;368;False
-2;Pause;unknown;369;False
 2;C5;eighth note;369;False
-2;Pause;unknown;370;False
 2;D5;eighth note;370;False
-2;Pause;unknown;371;False
 2;F4;eighth note;371;False
-2;Pause;unknown;372;False
 2;A5;eighth note;372;False
-2;Pause;unknown;373;False
 2;C5;eighth note;373;False
-2;Pause;unknown;374;False
 2;B5;eighth note;374;False
-2;Pause;unknown;375;False
 2;C4;eighth note;375;False
-2;Pause;unknown;376;False
 2;E4;eighth note;376;False
-2;Pause;unknown;377;False
 2;G4;eighth note;377;False
-2;Pause;unknown;378;False
 2;B5;eighth note;378;False
-2;Pause;unknown;379;False
 2;C4;eighth note;379;False
-2;Pause;unknown;380;False
 2;E4;eighth note;380;False
-2;Pause;unknown;381;False
 2;G4;eighth note;381;False
-2;Pause;unknown;382;False
 2;B5;eighth note;382;False
-2;Pause;unknown;383;False
 2;C4;eighth note;383;False
-2;Pause;unknown;384;False
 2;E4;eighth note;384;False
-2;Pause;unknown;385;False
 2;G4;eighth note;385;False
-2;Pause;unknown;386;False
 2;B5;eighth note;386;False
-2;Pause;unknown;387;False
 2;C4;eighth note;387;False
-2;Pause;unknown;388;False
 2;E4;eighth note;388;False
-2;Pause;unknown;389;False
 2;G4;eighth note;389;False
-2;Pause;unknown;390;False
 2;B5;eighth note;390;False
-2;Pause;unknown;391;False
 2;B4;eighth note;391;False
-2;Pause;unknown;392;False
 2;D4;eighth note;392;False
-2;Pause;unknown;393;False
 2;G4;eighth note;393;False
-2;Pause;unknown;394;False
 2;B5;eighth note;394;False
-2;Pause;unknown;395;False
 2;B4;eighth note;395;False
-2;Pause;unknown;396;False
 2;D4;eighth note;396;False
-2;Pause;unknown;397;False
 2;G4;eighth note;397;False
-2;Pause;unknown;398;False
 2;B5;eighth note;398;False
-2;Pause;unknown;399;False
 2;G3;eighth note;399;False
-2;Pause;unknown;400;False
 2;D4;eighth note;400;False
-2;Pause;unknown;401;False
 2;G4;eighth note;401;False
-2;Pause;unknown;402;False
 2;G3;eighth note;402;False
-2;Pause;unknown;403;False
 2;F#3;eighth note;403;False
-2;Pause;unknown;404;False
 2;D4;eighth note;404;False
-2;Pause;unknown;405;False
 2;G4;eighth note;405;False
-2;Pause;unknown;406;False
 2;D4;eighth note;406;False
-2;Pause;unknown;407;False
 2;F4;eighth note;407;False
-2;Pause;unknown;408;False
 2;A5;eighth note;408;False
-2;Pause;unknown;409;False
 2;C5;eighth note;409;False
-2;Pause;unknown;410;False
 2;E5;eighth note;410;False
-2;Pause;unknown;411;False
 2;F4;eighth note;411;False
-2;Pause;unknown;412;False
 2;A5;eighth note;412;False
-2;Pause;unknown;413;False
 2;C5;eighth note;413;False
-2;Pause;unknown;414;False
 2;E5;eighth note;414;False
-2;Pause;unknown;415;False
 2;F4;eighth note;415;False
-2;Pause;unknown;416;False
 2;A5;eighth note;416;False
-2;Pause;unknown;417;False
 2;C5;eighth note;417;False
-2;Pause;unknown;418;False
 2;G5;eighth note;418;False
-2;Pause;unknown;419;False
 2;F4;eighth note;419;False
-2;Pause;unknown;420;False
 2;A5;eighth note;420;False
-2;Pause;unknown;421;False
 2;F5;eighth note;421;False
-2;Pause;unknown;422;False
 2;G5;eighth note;422;False
-2;Pause;unknown;423;False
 2;F4;eighth note;423;False
-2;Pause;unknown;424;False
 2;A5;eighth note;424;False
-2;Pause;unknown;425;False
 2;B5;eighth note;425;False
-2;Pause;unknown;426;False
 2;F5;eighth note;426;False
-2;Pause;unknown;427;False
 2;F4;eighth note;427;False
-2;Pause;unknown;428;False
 2;A5;eighth note;428;False
-2;Pause;unknown;429;False
 2;B5;eighth note;429;False
-2;Pause;unknown;430;False
 2;E5;eighth note;430;False
-2;Pause;unknown;431;False
 2;F4;eighth note;431;False
-2;Pause;unknown;432;False
 2;A5;eighth note;432;False
-2;Pause;unknown;433;False
 2;B5;eighth note;433;False
-2;Pause;unknown;434;False
 2;D5;eighth note;434;False
-2;Pause;unknown;435;False
 2;F4;eighth note;435;False
-2;Pause;unknown;436;False
 2;A5;eighth note;436;False
-2;Pause;unknown;437;False
 2;C5;eighth note;437;False
-2;Pause;unknown;438;False
 2;B5;eighth note;438;False
-2;Pause;unknown;439;False
 2;C4;eighth note;439;False
-2;Pause;unknown;440;False
 2;E4;eighth note;440;False
-2;Pause;unknown;441;False
 2;G4;eighth note;441;False
-2;Pause;unknown;442;False
 2;B5;eighth note;442;False
-2;Pause;unknown;443;False
 2;C4;eighth note;443;False
-2;Pause;unknown;444;False
 2;E4;eighth note;444;False
-2;Pause;unknown;445;False
 2;G4;eighth note;445;False
-2;Pause;unknown;446;False
 2;B5;eighth note;446;False
-2;Pause;unknown;447;False
 2;C4;eighth note;447;False
-2;Pause;unknown;448;False
 2;E4;eighth note;448;False
-2;Pause;unknown;449;False
 2;G4;eighth note;449;False
-2;Pause;unknown;450;False
 2;B5;eighth note;450;False
-2;Pause;unknown;451;False
 2;C4;eighth note;451;False
-2;Pause;unknown;452;False
 2;E4;eighth note;452;False
-2;Pause;unknown;453;False
 2;G4;eighth note;453;False
-2;Pause;unknown;454;False
 2;B5;eighth note;454;False
-2;Pause;unknown;455;False
 2;B4;eighth note;455;False
-2;Pause;unknown;456;False
 2;D4;eighth note;456;False
-2;Pause;unknown;457;False
 2;G4;eighth note;457;False
-2;Pause;unknown;458;False
 2;B5;eighth note;458;False
-2;Pause;unknown;459;False
 2;B4;eighth note;459;False
-2;Pause;unknown;460;False
 2;D4;eighth note;460;False
-2;Pause;unknown;461;False
 2;G4;eighth note;461;False
-2;Pause;unknown;462;False
 2;B5;eighth note;462;False
-2;Pause;unknown;463;False
 2;B4;eighth note;463;False
-2;Pause;unknown;464;False
 2;D4;eighth note;464;False
-2;Pause;unknown;465;False
 2;G4;eighth note;465;False
-2;Pause;unknown;466;False
 2;B5;eighth note;466;False
-2;Pause;unknown;467;False
 2;B4;eighth note;467;False
-2;Pause;unknown;468;False
 2;D4;eighth note;468;False
-2;Pause;unknown;469;False
 2;G4;eighth note;469;False
-2;Pause;unknown;470;False
 2;B5;eighth note;470;False
-2;Pause;unknown;471;False
 2;F4;eighth note;471;False
-2;Pause;unknown;472;False
 2;A5;eighth note;472;False
-2;Pause;unknown;473;False
 2;C5;eighth note;473;False
-2;Pause;unknown;474;False
 2;E5;eighth note;474;False
-2;Pause;unknown;475;False
 2;F4;eighth note;475;False
-2;Pause;unknown;476;False
 2;A5;eighth note;476;False
-2;Pause;unknown;477;False
 2;C5;eighth note;477;False
-2;Pause;unknown;478;False
 2;E5;eighth note;478;False
-2;Pause;unknown;479;False
 2;F4;eighth note;479;False
-2;Pause;unknown;480;False
 2;A5;eighth note;480;False
-2;Pause;unknown;481;False
 2;C5;eighth note;481;False
-2;Pause;unknown;482;False
 2;G5;eighth note;482;False
-2;Pause;unknown;483;False
 2;F4;eighth note;483;False
-2;Pause;unknown;484;False
 2;A5;eighth note;484;False
-2;Pause;unknown;485;False
 2;F5;eighth note;485;False
-2;Pause;unknown;486;False
 2;G5;eighth note;486;False
-2;Pause;unknown;487;False
 2;F4;eighth note;487;False
-2;Pause;unknown;488;False
 2;A5;eighth note;488;False
-2;Pause;unknown;489;False
 2;B5;eighth note;489;False
-2;Pause;unknown;490;False
 2;F5;eighth note;490;False
-2;Pause;unknown;491;False
 2;F4;eighth note;491;False
-2;Pause;unknown;492;False
 2;A5;eighth note;492;False
-2;Pause;unknown;493;False
 2;B5;eighth note;493;False
-2;Pause;unknown;494;False
 2;E5;eighth note;494;False
-2;Pause;unknown;495;False
 2;F4;eighth note;495;False
-2;Pause;unknown;496;False
 2;A5;eighth note;496;False
-2;Pause;unknown;497;False
 2;B5;eighth note;497;False
-2;Pause;unknown;498;False
 2;D5;eighth note;498;False
-2;Pause;unknown;499;False
 2;F4;eighth note;499;False
-2;Pause;unknown;500;False
 2;A5;eighth note;500;False
-2;Pause;unknown;501;False
 2;C5;eighth note;501;False
-2;Pause;unknown;502;False
 2;B5;eighth note;502;False
-2;Pause;unknown;503;False
 2;C4;eighth note;503;False
-2;Pause;unknown;504;False
 2;E4;eighth note;504;False
-2;Pause;unknown;505;False
 2;G4;eighth note;505;False
-2;Pause;unknown;506;False
 2;B5;eighth note;506;False
-2;Pause;unknown;507;False
 2;C4;eighth note;507;False
-2;Pause;unknown;508;False
 2;E4;eighth note;508;False
-2;Pause;unknown;509;False
 2;G4;eighth note;509;False
-2;Pause;unknown;510;False
 2;B5;eighth note;510;False
-2;Pause;unknown;511;False
 2;C4;eighth note;511;False
-2;Pause;unknown;512;False
 2;E4;eighth note;512;False
-2;Pause;unknown;513;False
 2;G4;eighth note;513;False
-2;Pause;unknown;514;False
 2;B5;eighth note;514;False
-2;Pause;unknown;515;False
 2;C4;eighth note;515;False
-2;Pause;unknown;516;False
 2;E4;eighth note;516;False
-2;Pause;unknown;517;False
 2;G4;eighth note;517;False
-2;Pause;unknown;518;False
 2;B5;eighth note;518;False
-2;Pause;unknown;519;False
 2;B4;eighth note;519;False
-2;Pause;unknown;520;False
 2;D4;eighth note;520;False
-2;Pause;unknown;521;False
 2;G4;eighth note;521;False
-2;Pause;unknown;522;False
 2;B5;eighth note;522;False
-2;Pause;unknown;523;False
 2;B4;eighth note;523;False
-2;Pause;unknown;524;False
 2;D4;eighth note;524;False
-2;Pause;unknown;525;False
 2;G4;eighth note;525;False
-2;Pause;unknown;526;False
 2;B5;eighth note;526;False
-2;Pause;unknown;527;False
 2;G3;eighth note;527;False
-2;Pause;unknown;528;False
 2;D4;eighth note;528;False
-2;Pause;unknown;529;False
 2;G4;eighth note;529;False
-2;Pause;unknown;530;False
 2;G3;eighth note;530;False
-2;Pause;unknown;531;False
 2;F#3;eighth note;531;False
-2;Pause;unknown;532;False
 2;D4;eighth note;532;False
-2;Pause;unknown;533;False
 2;G4;eighth note;533;False
-2;Pause;unknown;534;False
 2;F#3;eighth note;534;False
-2;Pause;unknown;535;False
 2;B4;eighth note;535;False
-2;Pause;unknown;536;False
 2;D4;eighth note;536;False
-2;Pause;unknown;537;False
 2;G4;eighth note;537;False
-2;Pause;unknown;538;False
 2;B5;eighth note;538;False
-2;Pause;unknown;539;False
 2;B4;eighth note;539;False
-2;Pause;unknown;540;False
 2;D4;eighth note;540;False
-2;Pause;unknown;541;False
 2;G4;eighth note;541;False
-2;Pause;unknown;542;False
 2;B5;eighth note;542;False
-2;Pause;unknown;543;False
 2;B4;eighth note;543;False
-2;Pause;unknown;544;False
 2;D4;eighth note;544;False
-2;Pause;unknown;545;False
 2;G4;eighth note;545;False
-2;Pause;unknown;546;False
 2;B5;eighth note;546;False
-2;Pause;unknown;547;False
 2;B4;eighth note;547;False
-2;Pause;unknown;548;False
 2;D4;eighth note;548;False
-2;Pause;unknown;549;False
 2;G4;eighth note;549;False
-2;Pause;unknown;550;False
 2;B5;eighth note;550;False
-2;Pause;unknown;551;False
 2;B4;eighth note;551;False
-2;Pause;unknown;552;False
 2;D4;eighth note;552;False
-2;Pause;unknown;553;False
 2;G4;eighth note;553;False
-2;Pause;unknown;554;False
 2;B5;eighth note;554;False
-2;Pause;unknown;555;False
 2;B4;eighth note;555;False
-2;Pause;unknown;556;False
 2;D4;eighth note;556;False
-2;Pause;unknown;557;False
 2;G4;eighth note;557;False
-2;Pause;unknown;558;False
 2;B5;eighth note;558;False
-2;Pause;unknown;559;False
 2;Pause;eighth note;560;False
 2;Pause;eighth note;561;False
 2;Pause;eighth note;562;False
@@ -1131,188 +574,99 @@ Case_ID;Event;Type;Order;Is_Chord
 2;G#4;eighth note;561;False
 2;D5;eighth note;562;False
 2;E5;half note;563;False
-2;Pause;unknown;564;False
 2;B5;quarter note;564;True
 2;F5;quarter note;564;True
 2;G#5;quarter note;564;True
 2;D6;quarter note;564;True
 2;Pause;dotted quarter note;565;False
 2;C4;eighth note;565;False
-2;Pause;unknown;566;False
 2;E4;eighth note;566;False
-2;Pause;unknown;567;False
 2;A5;eighth note;567;False
-2;Pause;unknown;568;False
 2;C5;eighth note;568;False
-2;Pause;unknown;569;False
 2;C4;eighth note;569;False
-2;Pause;unknown;570;False
 2;E4;eighth note;570;False
-2;Pause;unknown;571;False
 2;A5;eighth note;571;False
-2;Pause;unknown;572;False
 2;C5;eighth note;572;False
-2;Pause;unknown;573;False
 2;C4;eighth note;573;False
-2;Pause;unknown;574;False
 2;E4;eighth note;574;False
-2;Pause;unknown;575;False
 2;A5;eighth note;575;False
-2;Pause;unknown;576;False
 2;B5;eighth note;576;False
-2;Pause;unknown;577;False
 2;C4;eighth note;577;False
-2;Pause;unknown;578;False
 2;E4;eighth note;578;False
-2;Pause;unknown;579;False
 2;A5;eighth note;579;False
-2;Pause;unknown;580;False
 2;B5;eighth note;580;False
-2;Pause;unknown;581;False
 2;C4;eighth note;581;False
-2;Pause;unknown;582;False
 2;E4;eighth note;582;False
-2;Pause;unknown;583;False
 2;A5;eighth note;583;False
-2;Pause;unknown;584;False
 2;C5;eighth note;584;False
-2;Pause;unknown;585;False
 2;C4;eighth note;585;False
-2;Pause;unknown;586;False
 2;E4;eighth note;586;False
-2;Pause;unknown;587;False
 2;A5;eighth note;587;False
-2;Pause;unknown;588;False
 2;C5;eighth note;588;False
-2;Pause;unknown;589;False
 2;C4;eighth note;589;False
-2;Pause;unknown;590;False
 2;E4;eighth note;590;False
-2;Pause;unknown;591;False
 2;A5;eighth note;591;False
-2;Pause;unknown;592;False
 2;B5;eighth note;592;False
-2;Pause;unknown;593;False
 2;C4;eighth note;593;False
-2;Pause;unknown;594;False
 2;E4;eighth note;594;False
-2;Pause;unknown;595;False
 2;A5;eighth note;595;False
-2;Pause;unknown;596;False
 2;B5;eighth note;596;False
-2;Pause;unknown;597;False
 2;B4;eighth note;597;False
-2;Pause;unknown;598;False
 2;D4;eighth note;598;False
-2;Pause;unknown;599;False
 2;G4;eighth note;599;False
-2;Pause;unknown;600;False
 2;B5;eighth note;600;False
-2;Pause;unknown;601;False
 2;B4;eighth note;601;False
-2;Pause;unknown;602;False
 2;D4;eighth note;602;False
-2;Pause;unknown;603;False
 2;G4;eighth note;603;False
-2;Pause;unknown;604;False
 2;B5;eighth note;604;False
-2;Pause;unknown;605;False
 2;B4;eighth note;605;False
-2;Pause;unknown;606;False
 2;D4;eighth note;606;False
-2;Pause;unknown;607;False
 2;G4;eighth note;607;False
-2;Pause;unknown;608;False
 2;C5;eighth note;608;False
-2;Pause;unknown;609;False
 2;B4;eighth note;609;False
-2;Pause;unknown;610;False
 2;D4;eighth note;610;False
-2;Pause;unknown;611;False
 2;G4;eighth note;611;False
-2;Pause;unknown;612;False
 2;B5;eighth note;612;False
-2;Pause;unknown;613;False
 2;E4;eighth note;613;False
-2;Pause;unknown;614;False
 2;G4;eighth note;614;False
-2;Pause;unknown;615;False
 2;B5;eighth note;615;False
-2;Pause;unknown;616;False
 2;B5;eighth note;616;False
-2;Pause;unknown;617;False
 2;E4;eighth note;617;False
-2;Pause;unknown;618;False
 2;G4;eighth note;618;False
-2;Pause;unknown;619;False
 2;B5;eighth note;619;False
-2;Pause;unknown;620;False
 2;B5;eighth note;620;False
-2;Pause;unknown;621;False
 2;E4;eighth note;621;False
-2;Pause;unknown;622;False
 2;G4;eighth note;622;False
-2;Pause;unknown;623;False
 2;B5;eighth note;623;False
-2;Pause;unknown;624;False
 2;B5;eighth note;624;False
-2;Pause;unknown;625;False
 2;E4;eighth note;625;False
-2;Pause;unknown;626;False
 2;G4;eighth note;626;False
-2;Pause;unknown;627;False
 2;B5;eighth note;627;False
-2;Pause;unknown;628;False
 2;C5;eighth note;628;False
-2;Pause;unknown;629;False
 2;C4;eighth note;629;False
-2;Pause;unknown;630;False
 2;E4;eighth note;630;False
-2;Pause;unknown;631;False
 2;A5;eighth note;631;False
-2;Pause;unknown;632;False
 2;C5;eighth note;632;False
-2;Pause;unknown;633;False
 2;C4;eighth note;633;False
-2;Pause;unknown;634;False
 2;E4;eighth note;634;False
-2;Pause;unknown;635;False
 2;A5;eighth note;635;False
-2;Pause;unknown;636;False
 2;C5;eighth note;636;False
-2;Pause;unknown;637;False
 2;C4;eighth note;637;False
-2;Pause;unknown;638;False
 2;E4;eighth note;638;False
-2;Pause;unknown;639;False
 2;A5;eighth note;639;False
-2;Pause;unknown;640;False
 2;C5;eighth note;640;False
-2;Pause;unknown;641;False
 2;C4;eighth note;641;False
-2;Pause;unknown;642;False
 2;E4;eighth note;642;False
-2;Pause;unknown;643;False
 2;A5;eighth note;643;False
-2;Pause;unknown;644;False
 2;C5;eighth note;644;False
-2;Pause;unknown;645;False
 2;C4;eighth note;645;False
-2;Pause;unknown;646;False
 2;E4;eighth note;646;False
-2;Pause;unknown;647;False
 2;A5;eighth note;647;False
-2;Pause;unknown;648;False
 2;C5;eighth note;648;False
-2;Pause;unknown;649;False
 2;C4;eighth note;649;False
-2;Pause;unknown;650;False
 2;E4;eighth note;650;False
-2;Pause;unknown;651;False
 2;A5;eighth note;651;False
-2;Pause;unknown;652;False
 2;C5;eighth note;652;False
-2;Pause;unknown;653;False
 2;Pause;eighth note;654;False
 2;Pause;eighth note;655;False
 2;Pause;eighth note;656;False
