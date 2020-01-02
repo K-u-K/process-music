@@ -1,7 +1,14 @@
 import numpy as np
 
-NOTE_UPPER_BOUND = 6.0
-NOTE_LOWER_BOUND = 0.045703125
+SIGNATURE_UNIT = {
+    2: "half note",
+    4: "quarter note",
+    8: "eighth note",
+    16: "sixteenth note",
+    32: "thirty-second note",
+    64: "sixty-fourth note",
+    128: "a hundred and twenty-eighth note"
+}
 
 NOTES = [
     "whole note",
@@ -14,27 +21,21 @@ NOTES = [
     "a hundred and twenty-eighth note"
 ]
 
-NOTE_TYPES = {}
+BASE_RATIO = 4.0
+DEVIATION  = 0.1
+BASE       = np.array([BASE_RATIO - DEVIATION, BASE_RATIO + DEVIATION])
 
-BASE = np.array([3.9, 4.1])
-NOTE_TYPES[f"double dotted whole note"]  = (BASE * 1.75).tolist()
-NOTE_TYPES[f"dotted whole note"]         = (BASE * 1.5).tolist()
+NOTE_TYPES = {}
+NOTE_TYPES[f"double dotted whole note"]  = BASE * 1.75
+NOTE_TYPES[f"dotted whole note"]         = BASE * 1.5
 
 for i, note in enumerate(NOTES):
-    bounds = (BASE * (0.5 ** i))
+    bounds                = (BASE * (0.5 ** i))
+    NOTE_TYPES[f"{note}"] = bounds
     if (i + 1) == len(NOTES):
         break
 
-    NOTE_TYPES[f"{note}"]                      = bounds.tolist()
-    NOTE_TYPES[f"double dotted {NOTES[i+1]}"]  = (bounds * 0.875).tolist()
-    NOTE_TYPES[f"dotted {NOTES[i+1]}"]         = (bounds * 0.75).tolist()
+    NOTE_TYPES[f"double dotted {NOTES[i+1]}"]  = bounds * 0.875
+    NOTE_TYPES[f"dotted {NOTES[i+1]}"]         = bounds * 0.75
 
-SIGNATURE_UNIT = {
-    2: "half note",
-    4: "quarter note",
-    8: "eighth note",
-    16: "sixteenth note",
-    32: "thirty-second note",
-    64: "sixty-fourth note",
-    128: "a hundred and twenty-eighth note"
-}
+NOTE_LOWER_BOUND = np.min(list(NOTE_TYPES.values()))
