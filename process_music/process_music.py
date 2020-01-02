@@ -64,7 +64,6 @@ if __name__ == '__main__':
             # multiple time_signatures are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
                 ticks_lower, ticks_upper = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
-                
             continue
 
         # process main tracks
@@ -93,7 +92,7 @@ if __name__ == '__main__':
                     })
 
             ticks = ticks + msg.time
-            if ticks_lower <= ticks <= ticks_upper:
+            if ticks_lower <= ticks:
                 case_number = case_number + 1
                 ticks       = 0
 
