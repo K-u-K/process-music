@@ -1,3 +1,3 @@
 docker build -t github.com/k-u-k/process-music .
-docker run --rm --name -v $(pwd):/app process-music github.com/k-u-k/process-music
-docker run --rm --name -v $(pwd):/app process-music github.com/k-u-k/process-music process_music.py some_midi_file.mid
+docker run --rm --name process-music -v $(pwd):/app github.com/k-u-k/process-music
+docker run --rm --name process-music -v $(pwd):/app github.com/k-u-k/process-music -O process_music/process_music.py some_midi_file.mid
