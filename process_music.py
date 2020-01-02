@@ -10,7 +10,6 @@ from mido import MidiFile
 # TODO: consider rests as own entries
 # TODO: search for further bugs
 # TODO: code documentation
-# TODO: multiple tracks foo
 # TODO: measure not properly defined
 
 NOTE_UPPER_BOUND = 6.0
