@@ -6,6 +6,7 @@ import sys
 import mido
 from mido import MidiFile
 
+import constants
 import utils
 import xes
 
@@ -18,6 +19,10 @@ if __name__ == '__main__':
     filename   = sys.argv[1] if len(sys.argv) > 1 else ""
     measures   = sys.argv[2] if len(sys.argv) > 2 else 1
     output_dir = sys.argv[3] if len(sys.argv) > 3 else ""
+
+    # import json
+    # print(json.dumps(constants.NOTE_TYPES, indent="\t"))
+    # sys.exit(1)
 
     if not os.path.exists(filename):
         print(f"file '{filename}' not found")

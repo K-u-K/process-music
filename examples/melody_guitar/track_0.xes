@@ -52,19 +52,16 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="C3"/>
-      <string key="org:type" value="eighth note"/>
-      <int key="org:order" value="1"/>
-      <boolean key="org:is_chord" value="True"/>
-    </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="2"/>
-    <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="6"/>
       <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="eighth note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
       <string key="concept:name" value="C5"/>
@@ -72,6 +69,9 @@
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="2"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="whole note"/>
@@ -117,9 +117,6 @@
       <int key="org:order" value="14"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="4"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -132,6 +129,9 @@
       <int key="org:order" value="16"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="4"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -156,9 +156,6 @@
       <int key="org:order" value="20"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="5"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -183,6 +180,9 @@
       <int key="org:order" value="24"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="5"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -195,9 +195,6 @@
       <int key="org:order" value="26"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="6"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -236,7 +233,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="7"/>
+    <int key="concept:name" value="6"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -273,9 +270,6 @@
       <int key="org:order" value="38"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="8"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -288,6 +282,9 @@
       <int key="org:order" value="40"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="7"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -312,9 +309,6 @@
       <int key="org:order" value="44"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="9"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -339,6 +333,9 @@
       <int key="org:order" value="48"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="8"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -351,9 +348,6 @@
       <int key="org:order" value="50"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="10"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -392,7 +386,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="11"/>
+    <int key="concept:name" value="9"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -429,9 +423,6 @@
       <int key="org:order" value="62"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="12"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -444,6 +435,9 @@
       <int key="org:order" value="64"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="10"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -468,9 +462,6 @@
       <int key="org:order" value="68"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="13"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -495,6 +486,9 @@
       <int key="org:order" value="72"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="11"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -507,9 +501,6 @@
       <int key="org:order" value="74"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="14"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -548,7 +539,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="15"/>
+    <int key="concept:name" value="12"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -585,9 +576,6 @@
       <int key="org:order" value="86"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="16"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -600,6 +588,9 @@
       <int key="org:order" value="88"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="13"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -624,9 +615,6 @@
       <int key="org:order" value="92"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="17"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -651,6 +639,9 @@
       <int key="org:order" value="96"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="14"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -663,9 +654,6 @@
       <int key="org:order" value="98"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="18"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -704,7 +692,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="19"/>
+    <int key="concept:name" value="15"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -741,9 +729,6 @@
       <int key="org:order" value="110"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="20"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -756,6 +741,9 @@
       <int key="org:order" value="112"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="16"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -780,9 +768,6 @@
       <int key="org:order" value="116"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="21"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -807,6 +792,9 @@
       <int key="org:order" value="120"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="17"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -819,9 +807,6 @@
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="22"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -860,7 +845,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="23"/>
+    <int key="concept:name" value="18"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -897,9 +882,6 @@
       <int key="org:order" value="134"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="24"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -912,6 +894,9 @@
       <int key="org:order" value="136"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="19"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -936,9 +921,6 @@
       <int key="org:order" value="140"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="25"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -963,6 +945,9 @@
       <int key="org:order" value="144"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="20"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -975,9 +960,6 @@
       <int key="org:order" value="146"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="26"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -1016,7 +998,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="27"/>
+    <int key="concept:name" value="21"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -1053,9 +1035,6 @@
       <int key="org:order" value="158"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="28"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -1068,6 +1047,9 @@
       <int key="org:order" value="160"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="22"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -1092,9 +1074,6 @@
       <int key="org:order" value="164"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="29"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -1119,6 +1098,9 @@
       <int key="org:order" value="168"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="23"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -1131,9 +1113,6 @@
       <int key="org:order" value="170"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="30"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -1172,7 +1151,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="31"/>
+    <int key="concept:name" value="24"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -1209,9 +1188,6 @@
       <int key="org:order" value="182"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="32"/>
     <event>
       <string key="concept:name" value="D5"/>
       <string key="org:type" value="eighth note"/>
@@ -1224,6 +1200,9 @@
       <int key="org:order" value="184"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="25"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1248,9 +1227,6 @@
       <int key="org:order" value="188"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="33"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1275,6 +1251,9 @@
       <int key="org:order" value="192"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="26"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1287,9 +1266,6 @@
       <int key="org:order" value="194"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="34"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -1328,7 +1304,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="35"/>
+    <int key="concept:name" value="27"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1365,9 +1341,6 @@
       <int key="org:order" value="206"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="36"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -1380,6 +1353,9 @@
       <int key="org:order" value="208"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="28"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1404,9 +1380,6 @@
       <int key="org:order" value="212"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="37"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1431,6 +1404,9 @@
       <int key="org:order" value="216"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="29"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -1443,9 +1419,6 @@
       <int key="org:order" value="218"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="38"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -1484,7 +1457,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="39"/>
+    <int key="concept:name" value="30"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -1521,9 +1494,6 @@
       <int key="org:order" value="230"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="40"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -1536,6 +1506,9 @@
       <int key="org:order" value="232"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="31"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -1560,9 +1533,6 @@
       <int key="org:order" value="236"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="41"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -1587,6 +1557,9 @@
       <int key="org:order" value="240"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="32"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -1599,9 +1572,6 @@
       <int key="org:order" value="242"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="42"/>
     <event>
       <string key="concept:name" value="E5"/>
       <string key="org:type" value="eighth note"/>
@@ -1640,7 +1610,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="43"/>
+    <int key="concept:name" value="33"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1677,9 +1647,6 @@
       <int key="org:order" value="254"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="44"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -1692,6 +1659,9 @@
       <int key="org:order" value="256"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="34"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1716,9 +1686,6 @@
       <int key="org:order" value="260"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="45"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1743,6 +1710,9 @@
       <int key="org:order" value="264"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="35"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1755,9 +1725,6 @@
       <int key="org:order" value="266"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="46"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -1796,7 +1763,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="47"/>
+    <int key="concept:name" value="36"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -1829,7 +1796,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="48"/>
+    <int key="concept:name" value="37"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
@@ -1856,7 +1823,7 @@
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="dotted quarter note"/>
+      <string key="org:type" value="quarter note"/>
       <int key="org:order" value="279"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
@@ -1872,9 +1839,6 @@
       <int key="org:order" value="280"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="49"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -1887,6 +1851,9 @@
       <int key="org:order" value="282"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="38"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -1911,9 +1878,6 @@
       <int key="org:order" value="286"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="50"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -1938,6 +1902,9 @@
       <int key="org:order" value="290"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="39"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -1950,9 +1917,6 @@
       <int key="org:order" value="292"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="51"/>
     <event>
       <string key="concept:name" value="F5"/>
       <string key="org:type" value="eighth note"/>
@@ -1991,7 +1955,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="52"/>
+    <int key="concept:name" value="40"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2028,9 +1992,6 @@
       <int key="org:order" value="304"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="53"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -2043,6 +2004,9 @@
       <int key="org:order" value="306"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="41"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2067,9 +2031,6 @@
       <int key="org:order" value="310"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="54"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2094,6 +2055,9 @@
       <int key="org:order" value="314"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="42"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2106,9 +2070,6 @@
       <int key="org:order" value="316"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="55"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2147,7 +2108,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="56"/>
+    <int key="concept:name" value="43"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2184,9 +2145,6 @@
       <int key="org:order" value="328"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="57"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2199,6 +2157,9 @@
       <int key="org:order" value="330"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="44"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -2223,9 +2184,6 @@
       <int key="org:order" value="334"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="58"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -2250,6 +2208,9 @@
       <int key="org:order" value="338"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="45"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -2262,9 +2223,6 @@
       <int key="org:order" value="340"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="59"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2303,7 +2261,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="60"/>
+    <int key="concept:name" value="46"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2340,9 +2298,6 @@
       <int key="org:order" value="352"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="61"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -2355,6 +2310,9 @@
       <int key="org:order" value="354"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="47"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2379,9 +2337,6 @@
       <int key="org:order" value="358"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="62"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2406,6 +2361,9 @@
       <int key="org:order" value="362"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="48"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2418,9 +2376,6 @@
       <int key="org:order" value="364"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="63"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -2459,7 +2414,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="64"/>
+    <int key="concept:name" value="49"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2496,9 +2451,6 @@
       <int key="org:order" value="376"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="65"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2511,6 +2463,9 @@
       <int key="org:order" value="378"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="50"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2535,9 +2490,6 @@
       <int key="org:order" value="382"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="66"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2562,6 +2514,9 @@
       <int key="org:order" value="386"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="51"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2574,9 +2529,6 @@
       <int key="org:order" value="388"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="67"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2615,7 +2567,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="68"/>
+    <int key="concept:name" value="52"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -2652,9 +2604,6 @@
       <int key="org:order" value="400"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="69"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2667,6 +2616,9 @@
       <int key="org:order" value="402"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="53"/>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
@@ -2691,9 +2643,6 @@
       <int key="org:order" value="406"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="70"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2718,6 +2667,9 @@
       <int key="org:order" value="410"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="54"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2730,9 +2682,6 @@
       <int key="org:order" value="412"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="71"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -2771,7 +2720,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="72"/>
+    <int key="concept:name" value="55"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2808,9 +2757,6 @@
       <int key="org:order" value="424"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="73"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -2823,6 +2769,9 @@
       <int key="org:order" value="426"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="56"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2847,9 +2796,6 @@
       <int key="org:order" value="430"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="74"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2874,6 +2820,9 @@
       <int key="org:order" value="434"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="57"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -2886,9 +2835,6 @@
       <int key="org:order" value="436"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="75"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -2927,7 +2873,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="76"/>
+    <int key="concept:name" value="58"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -2964,9 +2910,6 @@
       <int key="org:order" value="448"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="77"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -2979,6 +2922,9 @@
       <int key="org:order" value="450"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="59"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3003,9 +2949,6 @@
       <int key="org:order" value="454"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="78"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3030,6 +2973,9 @@
       <int key="org:order" value="458"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="60"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3042,9 +2988,6 @@
       <int key="org:order" value="460"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="79"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3083,7 +3026,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="80"/>
+    <int key="concept:name" value="61"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3120,9 +3063,6 @@
       <int key="org:order" value="472"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="81"/>
     <event>
       <string key="concept:name" value="C5"/>
       <string key="org:type" value="eighth note"/>
@@ -3135,6 +3075,9 @@
       <int key="org:order" value="474"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="62"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -3159,9 +3102,6 @@
       <int key="org:order" value="478"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="82"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -3186,6 +3126,9 @@
       <int key="org:order" value="482"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="63"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -3198,9 +3141,6 @@
       <int key="org:order" value="484"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="83"/>
     <event>
       <string key="concept:name" value="F5"/>
       <string key="org:type" value="eighth note"/>
@@ -3239,7 +3179,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="84"/>
+    <int key="concept:name" value="64"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -3276,9 +3216,6 @@
       <int key="org:order" value="496"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="85"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -3291,6 +3228,9 @@
       <int key="org:order" value="498"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="65"/>
     <event>
       <string key="concept:name" value="F4"/>
       <string key="org:type" value="eighth note"/>
@@ -3315,9 +3255,6 @@
       <int key="org:order" value="502"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="86"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3342,6 +3279,9 @@
       <int key="org:order" value="506"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="66"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3354,9 +3294,6 @@
       <int key="org:order" value="508"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="87"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3395,7 +3332,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="88"/>
+    <int key="concept:name" value="67"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3432,9 +3369,6 @@
       <int key="org:order" value="520"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="89"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3447,6 +3381,9 @@
       <int key="org:order" value="522"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="68"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3471,9 +3408,6 @@
       <int key="org:order" value="526"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="90"/>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
@@ -3498,6 +3432,9 @@
       <int key="org:order" value="530"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="69"/>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
@@ -3510,9 +3447,6 @@
       <int key="org:order" value="532"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="91"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3551,7 +3485,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="92"/>
+    <int key="concept:name" value="70"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3588,9 +3522,6 @@
       <int key="org:order" value="544"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="93"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3603,6 +3534,9 @@
       <int key="org:order" value="546"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="71"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3627,9 +3561,6 @@
       <int key="org:order" value="550"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="94"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3654,6 +3585,9 @@
       <int key="org:order" value="554"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="72"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -3666,9 +3600,6 @@
       <int key="org:order" value="556"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="95"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -3731,7 +3662,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="96"/>
+    <int key="concept:name" value="73"/>
     <event>
       <string key="concept:name" value="E5"/>
       <string key="org:type" value="half note"/>
@@ -3740,7 +3671,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="97"/>
+    <int key="concept:name" value="74"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="quarter note"/>
@@ -3767,7 +3698,7 @@
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="dotted quarter note"/>
+      <string key="org:type" value="quarter note"/>
       <int key="org:order" value="565"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
@@ -3783,9 +3714,6 @@
       <int key="org:order" value="566"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="98"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -3798,6 +3726,9 @@
       <int key="org:order" value="568"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="75"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3822,9 +3753,6 @@
       <int key="org:order" value="572"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="99"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3849,6 +3777,9 @@
       <int key="org:order" value="576"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="76"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3861,9 +3792,6 @@
       <int key="org:order" value="578"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="100"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -3902,7 +3830,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="101"/>
+    <int key="concept:name" value="77"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3939,9 +3867,6 @@
       <int key="org:order" value="590"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="102"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -3954,6 +3879,9 @@
       <int key="org:order" value="592"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="78"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -3978,9 +3906,6 @@
       <int key="org:order" value="596"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="103"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -4005,6 +3930,9 @@
       <int key="org:order" value="600"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="79"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -4017,9 +3945,6 @@
       <int key="org:order" value="602"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="104"/>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="eighth note"/>
@@ -4058,7 +3983,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="105"/>
+    <int key="concept:name" value="80"/>
     <event>
       <string key="concept:name" value="B4"/>
       <string key="org:type" value="eighth note"/>
@@ -4095,9 +4020,6 @@
       <int key="org:order" value="614"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="106"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -4110,6 +4032,9 @@
       <int key="org:order" value="616"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="81"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -4134,9 +4059,6 @@
       <int key="org:order" value="620"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="107"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -4161,6 +4083,9 @@
       <int key="org:order" value="624"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="82"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
@@ -4173,9 +4098,6 @@
       <int key="org:order" value="626"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="108"/>
     <event>
       <string key="concept:name" value="B5"/>
       <string key="org:type" value="eighth note"/>
@@ -4214,7 +4136,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="109"/>
+    <int key="concept:name" value="83"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -4251,9 +4173,6 @@
       <int key="org:order" value="638"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="110"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -4266,6 +4185,9 @@
       <int key="org:order" value="640"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="84"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -4290,9 +4212,6 @@
       <int key="org:order" value="644"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="111"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -4317,6 +4236,9 @@
       <int key="org:order" value="648"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="85"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
@@ -4329,9 +4251,6 @@
       <int key="org:order" value="650"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="112"/>
     <event>
       <string key="concept:name" value="A5"/>
       <string key="org:type" value="eighth note"/>
@@ -4394,7 +4313,7 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="113"/>
+    <int key="concept:name" value="86"/>
     <event>
       <string key="concept:name" value="Pause"/>
       <string key="org:type" value="eighth note"/>
