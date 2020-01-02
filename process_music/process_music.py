@@ -10,10 +10,10 @@ import constants
 import utils
 import xes
 
-# TODO: add double dotted notes
-# TODO: search for further bugs
 # TODO: code documentation
-# TODO: measure not properly defined
+# TODO: dynamic deviation adaptation in ratio / upper / lower bound
+# TODO: use argparse instead of sys.argv
+# TODO: create man page <3
 
 if __name__ == '__main__':
     filename   = sys.argv[1] if len(sys.argv) > 1 else ""
@@ -99,7 +99,7 @@ if __name__ == '__main__':
             ticks = ticks + msg.time
             if ticks_lower <= ticks:
                 case_number = case_number + 1
-                ticks       = 0
+                ticks       = ticks % ticks_lower
 
             if msg.velocity == 0 or msg.type == 'note_off':
                 key  = utils.get_key(msg.note)
