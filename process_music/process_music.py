@@ -52,8 +52,8 @@ if __name__ == '__main__':
 
             # multiple time_signatures are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
-                 ticks_lower, ticks_upper = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
-                 
+                ticks_lower, ticks_upper = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
+                
             continue
 
         # process main tracks
@@ -68,7 +68,7 @@ if __name__ == '__main__':
                 continue
 
             # prepend pauses
-            if msg.type == "note_on" and msg.time != 0:
+            if msg.type == "note_on" and msg.time != 0 and msg.velocity != 0:
                 results.append({
                     "case":     case_number,
                     "key":      "Pause",
