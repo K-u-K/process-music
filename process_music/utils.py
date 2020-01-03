@@ -17,10 +17,12 @@ def get_note_type(ticks, ticks_per_beat):
         # adjust tick ratio 
         if i > len(constants.NOTE_TYPES):
             tick_diff = ticks_per_beat - ticks
+            old_ratio = ratio
+            ratio     = (ticks + tick_diff) / ticks_per_beat
+            i         = 1
+
             if __debug__:
-                print(f"adapt tick-ratio for ticks_per_beat={ticks_per_beat}, ticks={ticks} => tick_diff={tick_diff}")
-            ratio = (ticks + tick_diff) / ticks_per_beat
-            i = 1
+                print(f"adapt tick-ratio old_ratio={old_ratio} new_ratio={ratio} tick_diff={tick_diff}")
 
 def get_key(note):
     note -= 21
