@@ -70,13 +70,14 @@ def main(args):
         is_first    = True
 
         # assume default time signature is 4/4
+        # threshold defines the number of ticks for each case
         threshold = utils.get_default_time_signature_ticks(mid.ticks_per_beat, measures)
 
         # analyse meta tracks in terms of time_signature / set_tempo
         if all([msg.is_meta for msg in track]):
             time_signatures = [*filter(lambda msg: msg.type == "time_signature", track)]
 
-            # multiple time_signatures are uncommon but technically possible (take the last ticks)
+            # multiple time_signatures in a meta track are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
                 threshold = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
             continue

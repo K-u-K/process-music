@@ -38,10 +38,7 @@ def get_time_signature_ticks(time_signature, ticks_per_beat, measures):
     unit        = constants.SIGNATURE_UNIT[denominator]
     ratio_lower = constants.NOTE_TYPES[unit][0]
 
-    #ticks_upper = ticks_per_beat * ratio_upper * numerator * measures
-    threshold = ticks_per_beat * ratio_lower * numerator * measures
-
-    return threshold
+    return ticks_per_beat * ratio_lower * numerator * measures
 
 def get_default_time_signature_ticks(ticks_per_beat, measures):
     meta = mido.MetaMessage("time_signature", numerator=4, denominator=4)
