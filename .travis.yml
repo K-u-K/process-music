@@ -8,8 +8,4 @@ install:
     - pip install -r requirements.txt
 
 script:
-<<<<<<< HEAD
-    bash -c "for midi in examples/*.mid; do python -O process_music/process_music.py ${midi}; done"
-=======
     FILES="examples/*.mid" && for f in ${FILES}; do python -O process_music/process_music.py ${f}; done
->>>>>>> 5e295f459a2592d977bfb299b9501a8e41c39755
