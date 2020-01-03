@@ -1,41 +1,50 @@
 import numpy as np
 
+NOTE_WHOLE                            = "whole note"
+NOTE_HALF                             = "half note"
+NOTE_QUARTER                          = "quater note"
+NOTE_EIGHTH                           = "eighth note"
+NOTE_SIXTEENTH                        = "sixteenth note"
+NOTE_THIRTY_SECOND                    = "thirty-second note"
+NOTE_SIXTY_FOURTH                     = "sixty-fourth note"
+NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE = "a hundred and twenty-eighth note"
+
 SIGNATURE_UNIT = {
-    2: "half note",
-    4: "quarter note",
-    8: "eighth note",
-    16: "sixteenth note",
-    32: "thirty-second note",
-    64: "sixty-fourth note",
-    128: "a hundred and twenty-eighth note"
+    1:   NOTE_WHOLE
+    2:   NOTE_HALF,
+    4:   NOTE_QUARTER,
+    8:   NOTE_EIGHTH,
+    16:  NOTE_SIXTEENTH,
+    32:  NOTE_THIRTY_SECOND,
+    64:  NOTE_SIXTY_FOURTH,
+    128: NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE
 }
 
 NOTES = [
-    "whole note",
-    "half note",
-    "quarter note",
-    "eighth note",
-    "sixteenth note",
-    "thirty-second note",
-    "sixty-fourth note",
-    "a hundred and twenty-eighth note"
+    NOTE_WHOLE,
+    NOTE_HALF,
+    NOTE_QUARTER,
+    NOTE_EIGHTH,
+    NOTE_SIXTEENTH,
+    NOTE_THIRTY_SECOND,
+    NOTE_SIXTY_FOURTH,
+    NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE
 ]
 
+# base ratio between MIDI's ticks_per_beat (in quarter notes) and a whole note
 BASE_RATIO = 4.0
+
+# deviation is for things like MuseScore's strange tick numbering
 DEVIATION  = 0.025
 BASE       = np.array([BASE_RATIO - DEVIATION, BASE_RATIO + DEVIATION])
 
+# calculate all ratios and include dotted + double dotted type notes
 NOTE_TYPES = {}
-NOTE_TYPES[f"double dotted whole note"]  = BASE * 1.75
-NOTE_TYPES[f"dotted whole note"]         = BASE * 1.5
-
 for i, note in enumerate(NOTES):
-    bounds                = (BASE * (0.5 ** i))
-    NOTE_TYPES[f"{note}"] = bounds
-    if (i + 1) == len(NOTES):
-        break
+    bounds = (BASE * (0.5 ** i))
 
-    NOTE_TYPES[f"double dotted {NOTES[i+1]}"]  = bounds * 0.875
-    NOTE_TYPES[f"dotted {NOTES[i+1]}"]         = bounds * 0.75
-
+    NOTE_TYPES[f"double dotted {note}"] = bounds * 1.75
+    NOTE_TYPES[f"dotted {note}"]        = bounds * 1.5
+    NOTE_TYPES[f"{note}"]               = bounds
+    
 NOTE_LOWER_BOUND = np.min(list(NOTE_TYPES.values()))
