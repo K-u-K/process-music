@@ -14,6 +14,11 @@ def get_note_type(ticks, ticks_per_beat):
             return (f"{i}-times " if i > 1 else "") + typez[0]
 
         i = i + 1
+        if i > len(constants.NOTE_TYPES):
+            tick_diff = ticks_per_beat - ticks
+            print(f"adapt tick-ratio for ticks_per_beat={ticks_per_beat}, ticks={ticks} => tick_diff={tick_diff}")
+            ratio = ratio + tick_diff
+            i = 1
 
 def get_key(note):
     note -= 21
@@ -30,13 +35,13 @@ def get_time_signature_ticks(time_signature, ticks_per_beat, measures):
         print(f"invalid denominator / signature: {time_signature}")
         sys.exit(1)
 
-    unit                     = constants.SIGNATURE_UNIT[denominator]
-    ratio_lower, ratio_upper = constants.NOTE_TYPES[unit]
+    unit        = constants.SIGNATURE_UNIT[denominator]
+    ratio_lower = constants.NOTE_TYPES[unit][0]
 
-    ticks_upper = ticks_per_beat * ratio_upper * numerator * measures
-    ticks_lower = ticks_per_beat * ratio_lower * numerator * measures
+    #ticks_upper = ticks_per_beat * ratio_upper * numerator * measures
+    threshold = ticks_per_beat * ratio_lower * numerator * measures
 
-    return [ticks_lower, ticks_upper]
+    return threshold
 
 def get_default_time_signature_ticks(ticks_per_beat, measures):
     meta = mido.MetaMessage("time_signature", numerator=4, denominator=4)

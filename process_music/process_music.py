@@ -70,7 +70,7 @@ def main(args):
         is_first    = True
 
         # assume default time signature is 4/4
-        ticks_lower, ticks_upper = utils.get_default_time_signature_ticks(mid.ticks_per_beat, measures)
+        threshold = utils.get_default_time_signature_ticks(mid.ticks_per_beat, measures)
 
         # analyse meta tracks in terms of time_signature / set_tempo
         if all([msg.is_meta for msg in track]):
@@ -78,13 +78,13 @@ def main(args):
 
             # multiple time_signatures are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
-                ticks_lower, ticks_upper = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
+                threshold = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
             continue
 
         # process main tracks
         for msg in track:
             if msg.type == "time_signature":
-                ticks_lower, ticks_upper = utils.get_time_signature_ticks(msg, mid.ticks_per_beat, measures)
+                threshold = utils.get_time_signature_ticks(msg, mid.ticks_per_beat, measures)
 
             if msg.type not in ['note_on', 'note_off']:
                 continue
@@ -106,10 +106,12 @@ def main(args):
                         "is_chord": False,
                     })
 
+            # if summed up ticks reach the threshold increment case number
+            # => e.g. if one bar is the timespan for a case increase case number after each bar
             ticks = ticks + msg.time
-            if ticks_lower <= ticks:
+            if threshold <= ticks:
                 case_number = case_number + 1
-                ticks       = ticks % ticks_lower
+                ticks       = ticks % threshold
 
             if msg.velocity == 0 or msg.type == 'note_off':
                 key  = utils.get_key(msg.note)
