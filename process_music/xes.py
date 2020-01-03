@@ -19,5 +19,7 @@ def export_to_xes(filename):
         "Is_Chord": "org:is_chord"
     })
 
+    # create internal XES log from pandas dataframe
     log = conversion_factory.apply(df)
+    # save XES log
     xes_exporter.export_log(log, f"{output}.xes")
