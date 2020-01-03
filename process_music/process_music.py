@@ -91,7 +91,7 @@ def main(args):
                 continue
 
             if __debug__:
-                print(msg)
+                print(f"Message type={msg.type} note={utils.get_key(msg.note)} velocity={msg.velocity} time={msg.time}")
 
             # prepend pauses
             if msg.type == "note_on" and msg.time != 0 and msg.velocity != 0:

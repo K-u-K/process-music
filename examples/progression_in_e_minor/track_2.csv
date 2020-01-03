@@ -1,0 +1,21 @@
+Case_ID;Event;Type;Order;Is_Chord
+1;Pause;whole note;1;False
+2;E1;quarter note;1;True
+2;E2;quarter note;1;True
+2;B3;quarter note;1;True
+2;E3;quarter note;1;True
+3;Pause;quarter note;2;False
+4;F#1;quarter note;2;True
+4;F#2;quarter note;2;True
+4;C3;quarter note;2;True
+4;F#3;quarter note;2;True
+5;Pause;quarter note;3;False
+6;G1;quarter note;3;True
+6;G2;quarter note;3;True
+6;D3;quarter note;3;True
+6;G3;quarter note;3;True
+7;Pause;quarter note;4;False
+8;D#1;quarter note;4;True
+8;D#2;quarter note;4;True
+8;A3;quarter note;4;True
+8;D#3;quarter note;4;True

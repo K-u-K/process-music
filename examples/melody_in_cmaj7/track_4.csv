@@ -1,0 +1,16 @@
+Case_ID;Event;Type;Order;Is_Chord
+1;Pause;23-times whole note;1;False
+2;E5;dotted quarter note;1;False
+2;D5;dotted quarter note;2;False
+2;C5;quarter note;3;False
+3;B5;whole note;4;False
+4;Pause;4-times dotted whole note;5;False
+5;E5;dotted quarter note;5;False
+5;D5;dotted quarter note;6;False
+5;C5;quarter note;7;False
+6;B5;whole note;8;False
+7;Pause;4-times dotted whole note;9;False
+8;E5;dotted quarter note;9;False
+8;D5;dotted quarter note;10;False
+9;C5;quarter note;11;False
+9;B5;whole note;12;False

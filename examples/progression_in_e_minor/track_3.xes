@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <string key="origin" value="csv"/>
+  <trace>
+    <int key="concept:name" value="1"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="8-times whole note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="2"/>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="dotted half note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="eighth note"/>
+      <int key="org:order" value="2"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="3-times dotted quarter note"/>
+      <int key="org:order" value="3"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+</log>

@@ -18,7 +18,7 @@ def get_note_type(ticks, ticks_per_beat):
             tick_diff = ticks_per_beat - ticks
             if __debug__:
                 print(f"adapt tick-ratio for ticks_per_beat={ticks_per_beat}, ticks={ticks} => tick_diff={tick_diff}")
-            ratio = ratio + tick_diff
+            ratio = (ticks + tick_diff) / ticks_per_beat
             i = 1
 
 def get_key(note):

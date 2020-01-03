@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <string key="origin" value="csv"/>
+  <trace>
+    <int key="concept:name" value="1"/>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A5"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="1"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="2"/>
+    <event>
+      <string key="concept:name" value="B3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="2"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="2"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="2"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="2"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="3"/>
+    <event>
+      <string key="concept:name" value="A3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="3"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="3"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="3"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="3"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="4"/>
+    <event>
+      <string key="concept:name" value="G2"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="4"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="4"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="4"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="4"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="5"/>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="5"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="5"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="5"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A5"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="5"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="6"/>
+    <event>
+      <string key="concept:name" value="B3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="6"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="6"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="6"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="6"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="7"/>
+    <event>
+      <string key="concept:name" value="A3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="7"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="7"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="7"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="7"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="8"/>
+    <event>
+      <string key="concept:name" value="G2"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="8"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="8"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="8"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="8"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="9"/>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="9"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="9"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="9"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A5"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="9"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="10"/>
+    <event>
+      <string key="concept:name" value="B3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="10"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="10"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="10"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="10"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="11"/>
+    <event>
+      <string key="concept:name" value="A3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="11"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="11"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="11"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="11"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="12"/>
+    <event>
+      <string key="concept:name" value="G2"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="12"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="12"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="12"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="12"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="13"/>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="13"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="13"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="13"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A5"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="13"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="14"/>
+    <event>
+      <string key="concept:name" value="B3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="14"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="14"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="14"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="14"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="15"/>
+    <event>
+      <string key="concept:name" value="A3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="15"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="15"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="15"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="15"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="16"/>
+    <event>
+      <string key="concept:name" value="G2"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="16"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="16"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="16"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="16"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="17"/>
+    <event>
+      <string key="concept:name" value="C3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="17"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="17"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="17"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A5"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="17"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="18"/>
+    <event>
+      <string key="concept:name" value="B3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="18"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="A4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="18"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="18"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="18"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="19"/>
+    <event>
+      <string key="concept:name" value="A3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="19"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="G3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="19"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="19"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="19"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="20"/>
+    <event>
+      <string key="concept:name" value="G2"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="20"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="F#3"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="20"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="20"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+    <event>
+      <string key="concept:name" value="E4"/>
+      <string key="org:type" value="2-times whole note"/>
+      <int key="org:order" value="20"/>
+      <boolean key="org:is_chord" value="True"/>
+    </event>
+  </trace>
+</log>
