@@ -14,6 +14,7 @@ def get_note_type(ticks, ticks_per_beat):
             return (f"{i}-times " if i > 1 else "") + typez[0]
 
         i = i + 1
+        # adjust tick ratio 
         if i > len(constants.NOTE_TYPES):
             tick_diff = ticks_per_beat - ticks
             if __debug__:
