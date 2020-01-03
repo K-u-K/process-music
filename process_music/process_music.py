@@ -1,44 +1,50 @@
 #!/usr/bin/env python3
 
-import os
-import sys
+"""Process Music. Explorative analysis of songs and music from the perspective of a log file
 
+Usage:
+    process_music.py [--measures MEASURES] [--output_dir OUTPUT_DIR] MIDI_FILE
+    process_music.py (-h | --help)
+    process_music.py (-v | --version)
+
+Options:
+    -h --help               Show help.
+    -v --version            Show version information.
+    --measures MEASURES     The number of measures you want to define for a case [default: 1].
+    --output_dir OUTPUT_DIR The output directory where the final XES logs of each track are stored [default: pm_tracks].
+
+Copyright:
+    (c) by K-u-K (Keller Patrick & Kocaj Alen) 2020
+"""
+from docopt import docopt
+from schema import Schema, And, Use, Or, SchemaError
 import mido
-from mido import MidiFile
 
 import constants
 import utils
 import xes
 
+import os
+import sys
+
 # TODO: code documentation
 # TODO: dynamic deviation adaptation in ratio / upper / lower bound
-# TODO: use argparse instead of sys.argv
 # TODO: create man page <3
 # TODO: chord & interval names instead of an own entry for each note in a chord
 # TODO: implement triplets, quintuplets, etc.
 # TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
 #       how should it be implemented in the log 
 
-if __name__ == '__main__':
-    filename   = sys.argv[1] if len(sys.argv) > 1 else ""
-    measures   = sys.argv[2] if len(sys.argv) > 2 else 1
-    output_dir = sys.argv[3] if len(sys.argv) > 3 else ""
+def main(args):
+    filename, measures, output_dir = args["MIDI_FILE"], args["--measures"], args["--output_dir"]
 
-    # import json
-    # print(json.dumps(constants.NOTE_TYPES, indent="\t"))
-    # sys.exit(1)
-
-    if not os.path.exists(filename):
-        print(f"file '{filename}' not found")
-        sys.exit(1)
-
-    if output_dir == "":
+    if output_dir is None:
         output_dir = os.path.splitext(filename)[0].lower()
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
-    mid = MidiFile(filename, clip=True)
+    mid = mido.MidiFile(filename, clip=True)
 
     for i, track in enumerate(mid.tracks):
         if __debug__:
@@ -171,3 +177,22 @@ if __name__ == '__main__':
         xes.export_to_xes(output)
 
     print(f"Midi file '{filename}' processed. Track logfiles and event streams generated in directory '{output_dir}'")
+
+if __name__ == '__main__':
+    args   = docopt(__doc__, version="0.2.0")
+    schema = Schema({
+        "MIDI_FILE":  And(os.path.exists, error="MIDI_FILE should exist"),
+        "--measures": And(Use(int), lambda x: int(x) > 0, error="Measure should be a positive non-zero number"),
+        "--output_dir": Or(None, str),
+        "--version": bool,
+        "--help": bool
+    })
+
+    try:
+        args = schema.validate(args)
+    except SchemaError as e:
+        print("Warning: invalid arguments given", e, "\n")
+        print(__doc__)
+        sys.exit(1)
+
+    main(args)
