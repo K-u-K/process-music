@@ -117,8 +117,6 @@ def main(args):
 
                     msg.time = 0    
 
-                    print(">>> PAUSE", results[-1])
-
             # if summed up ticks reach the threshold increment case number
             # => e.g. if one bar is the timespan for a case increase case number after each bar
             ticks = ticks + msg.time

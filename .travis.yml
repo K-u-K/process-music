@@ -8,4 +8,4 @@ install:
     - pip install -r requirements.txt
 
 script:
-    FILES="examples/*.mid" && for f in ${FILES}; do python -O process_music/process_music.py ${f}; done
+    bash test.sh
