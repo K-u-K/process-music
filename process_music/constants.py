@@ -39,7 +39,7 @@ def calculate_signature_denominators(base_ratio, notes):
 # base ratio between MIDI's ticks_per_beat (in quarter notes) and a whole note
 # deviation is for things like MuseScore's strange tick numbering
 BASE_RATIO = 4.0
-DEVIATION  = 0.025
+DEVIATION  = 0.01
 
 # calculate all ratios and include dotted + double dotted type notes
 NOTE_TYPES       = calculate_ratios(BASE_RATIO, DEVIATION, NOTES)

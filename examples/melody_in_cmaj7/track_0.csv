@@ -120,7 +120,7 @@ Case_ID;Event;Type;Order;Is_Chord
 21;C4;quarter note;107;False
 21;A2;eighth note;108;False
 21;G3;eighth note;109;False
-22;C4;eighth note;110;False
+21;C4;eighth note;110;False
 22;A2;quarter note;111;False
 22;G3;eighth note;112;False
 22;F#4;quarter note;113;False
@@ -150,7 +150,7 @@ Case_ID;Event;Type;Order;Is_Chord
 25;E4;quarter note;125;False
 25;C3;eighth note;126;False
 25;B3;eighth note;127;False
-26;E4;eighth note;128;False
+25;E4;eighth note;128;False
 26;C3;quarter note;129;False
 26;B3;eighth note;130;False
 26;E4;quarter note;131;False
@@ -161,7 +161,7 @@ Case_ID;Event;Type;Order;Is_Chord
 27;D4;quarter note;136;False
 27;B2;eighth note;137;False
 27;A3;eighth note;138;False
-28;D4;eighth note;139;False
+27;D4;eighth note;139;False
 28;B2;quarter note;140;False
 28;A3;eighth note;141;False
 28;D4;quarter note;142;False
@@ -172,7 +172,7 @@ Case_ID;Event;Type;Order;Is_Chord
 29;C4;quarter note;147;False
 29;A2;eighth note;148;False
 29;G3;eighth note;149;False
-30;C4;eighth note;150;False
+29;C4;eighth note;150;False
 30;A2;quarter note;151;False
 30;G3;eighth note;152;False
 30;C4;quarter note;153;False
@@ -197,7 +197,7 @@ Case_ID;Event;Type;Order;Is_Chord
 33;E4;quarter note;166;False
 33;C3;eighth note;167;False
 33;B3;eighth note;168;False
-34;E4;eighth note;169;False
+33;E4;eighth note;169;False
 34;C3;quarter note;170;False
 34;B3;eighth note;171;False
 34;A4;quarter note;172;False
@@ -208,7 +208,7 @@ Case_ID;Event;Type;Order;Is_Chord
 35;D4;quarter note;177;False
 35;B2;eighth note;178;False
 35;A3;eighth note;179;False
-36;D4;eighth note;180;False
+35;D4;eighth note;180;False
 36;B2;quarter note;181;False
 36;A3;eighth note;182;False
 36;G4;quarter note;183;False
@@ -219,7 +219,7 @@ Case_ID;Event;Type;Order;Is_Chord
 37;C4;quarter note;188;False
 37;A2;eighth note;189;False
 37;G3;eighth note;190;False
-38;C4;eighth note;191;False
+37;C4;eighth note;191;False
 38;A2;quarter note;192;False
 38;G3;eighth note;193;False
 38;F#4;quarter note;194;False

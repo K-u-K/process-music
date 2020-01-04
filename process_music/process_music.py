@@ -3,7 +3,7 @@
 """Process Music. Explorative analysis of songs and music from the perspective of a log file
 
 Usage:
-    process_music.py [--measures MEASURES] [--output_dir OUTPUT_DIR] MIDI_FILE
+    process_music.py [--measures MEASURES] [--output_dir OUTPUT_DIR] [--tracks TRACKS...] MIDI_FILE
     process_music.py (-h | --help)
     process_music.py (-v | --version)
 
@@ -12,9 +12,10 @@ Options:
     -v --version            Show version information.
     --measures MEASURES     The number of measures you want to define for a case [default: 1].
     --output_dir OUTPUT_DIR The output directory where the final XES logs of each track are stored [default: pm_tracks].
+    --tracks TRACKS....     The tracks [default: -1]
 
 Copyright:
-    (c) by K-u-K (Keller Patrick & Kocaj Alen) 2020
+    (c) by K-u-K (imperial Keller Patrick & royal Kocaj Alen) 2020
 """
 from docopt import docopt
 from schema import Schema, And, Use, Or, SchemaError
@@ -36,7 +37,10 @@ import sys
 #       how should it be implemented in the log 
 
 def main(args):
-    filename, measures, output_dir = args["MIDI_FILE"], args["--measures"], args["--output_dir"]
+    filename    = args["MIDI_FILE"]
+    measures    = args["--measures"]
+    output_dir  = args["--output_dir"]
+    tracks      = args["--tracks"]
 
     if output_dir is None:
         output_dir = os.path.splitext(filename)[0].lower()
@@ -45,8 +49,15 @@ def main(args):
         os.makedirs(output_dir)
     
     mid = mido.MidiFile(filename, clip=True)
+    if tracks[0] == -1:
+        tracks = [*range(len(mid.tracks))]
 
-    for i, track in enumerate(mid.tracks):
+    if max(tracks) >= len(mid.tracks):
+        print("Highest tracks does not exist in MIDI file")
+        sys.exit(1) 
+
+    for i in tracks:
+        track = mid.tracks[i]
         if __debug__:
             print(f"Processing track {i} '{track.name}'")
 
@@ -197,6 +208,7 @@ if __name__ == '__main__':
     schema = Schema({
         "MIDI_FILE":  And(os.path.exists, error="MIDI_FILE should exist"),
         "--measures": And(Use(int), lambda x: int(x) > 0, error="Measure should be a positive non-zero number"),
+        "--tracks": And(Use(lambda x: [*map(lambda a: int(a), x)]), lambda x: sum(x) >= -1, error="Tracks to examine should be a positive number or all by using -1"),
         "--output_dir": Or(None, str),
         "--version": bool,
         "--help": bool

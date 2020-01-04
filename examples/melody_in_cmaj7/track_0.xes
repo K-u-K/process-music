@@ -789,15 +789,15 @@
       <int key="org:order" value="109"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="22"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="110"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="22"/>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
@@ -981,15 +981,15 @@
       <int key="org:order" value="127"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="26"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="128"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="26"/>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="quarter note"/>
@@ -1053,15 +1053,15 @@
       <int key="org:order" value="138"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="28"/>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="139"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="28"/>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
@@ -1125,15 +1125,15 @@
       <int key="org:order" value="149"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="30"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="150"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="30"/>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
@@ -1287,15 +1287,15 @@
       <int key="org:order" value="168"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="34"/>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="169"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="34"/>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="quarter note"/>
@@ -1359,15 +1359,15 @@
       <int key="org:order" value="179"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="36"/>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="180"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="36"/>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
@@ -1431,15 +1431,15 @@
       <int key="org:order" value="190"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="38"/>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="191"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="38"/>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>

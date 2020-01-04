@@ -182,18 +182,18 @@ Case_ID;Event;Type;Order;Is_Chord
 20;E3;eighth note;113;True
 20;B3;eighth note;113;True
 20;F#4;eighth note;113;True
-21;E3;eighth note;114;True
-21;B3;eighth note;114;True
-21;F#4;eighth note;114;True
+20;E3;eighth note;114;True
+20;B3;eighth note;114;True
+20;F#4;eighth note;114;True
 21;E3;half note;115;True
 21;E4;half note;115;True
 21;B4;half note;115;True
 21;E3;dotted quarter note;116;True
 21;E4;dotted quarter note;116;True
 21;B4;dotted quarter note;116;True
-22;E3;quarter note;117;True
-22;D4;quarter note;117;True
-22;A4;quarter note;117;True
+21;E3;quarter note;117;True
+21;D4;quarter note;117;True
+21;A4;quarter note;117;True
 22;E3;eighth note;118;True
 22;D4;eighth note;118;True
 22;A4;eighth note;118;True
@@ -209,18 +209,18 @@ Case_ID;Event;Type;Order;Is_Chord
 22;E3;eighth note;122;True
 22;D4;eighth note;122;True
 22;A4;eighth note;122;True
-23;E3;eighth note;123;True
-23;D4;eighth note;123;True
-23;A4;eighth note;123;True
+22;E3;eighth note;123;True
+22;D4;eighth note;123;True
+22;A4;eighth note;123;True
 23;E3;half note;124;True
 23;C4;half note;124;True
 23;G4;half note;124;True
 23;E3;dotted quarter note;125;True
 23;C4;dotted quarter note;125;True
 23;G4;dotted quarter note;125;True
-24;E3;quarter note;126;True
-24;B3;quarter note;126;True
-24;F#4;quarter note;126;True
+23;E3;quarter note;126;True
+23;B3;quarter note;126;True
+23;F#4;quarter note;126;True
 24;E3;eighth note;127;True
 24;B3;eighth note;127;True
 24;F#4;eighth note;127;True
@@ -236,15 +236,15 @@ Case_ID;Event;Type;Order;Is_Chord
 24;E3;eighth note;131;True
 24;B3;eighth note;131;True
 24;F#4;eighth note;131;True
-25;E3;eighth note;132;True
-25;B3;eighth note;132;True
-25;F#4;eighth note;132;True
+24;E3;eighth note;132;True
+24;B3;eighth note;132;True
+24;F#4;eighth note;132;True
 25;E3;half note;133;True
 25;E4;half note;133;True
 25;E3;dotted quarter note;134;True
 25;E4;dotted quarter note;134;True
-26;E3;quarter note;135;True
-26;D4;quarter note;135;True
+25;E3;quarter note;135;True
+25;D4;quarter note;135;True
 26;E3;eighth note;136;True
 26;D4;eighth note;136;True
 26;E3;quarter note;137;True
@@ -255,8 +255,8 @@ Case_ID;Event;Type;Order;Is_Chord
 26;D4;eighth note;139;True
 26;E3;eighth note;140;True
 26;D4;eighth note;140;True
-27;E3;eighth note;141;True
-27;D4;eighth note;141;True
+26;E3;eighth note;141;True
+26;D4;eighth note;141;True
 27;E3;quarter note;142;True
 27;C4;quarter note;142;True
 27;E3;quarter note;143;True
@@ -265,10 +265,10 @@ Case_ID;Event;Type;Order;Is_Chord
 27;C4;eighth note;144;True
 27;E3;quarter note;145;True
 27;D4;quarter note;145;True
-28;E3;quarter note;146;True
-28;B3;quarter note;146;True
-28;F4;quarter note;146;True
-28;G#4;quarter note;146;True
+27;E3;quarter note;146;True
+27;B3;quarter note;146;True
+27;F4;quarter note;146;True
+27;G#4;quarter note;146;True
 28;E3;eighth note;147;True
 28;B3;eighth note;147;True
 28;F4;eighth note;147;True
@@ -289,19 +289,19 @@ Case_ID;Event;Type;Order;Is_Chord
 28;B3;eighth note;151;True
 28;F4;eighth note;151;True
 28;G#4;eighth note;151;True
-29;E3;eighth note;152;True
-29;B3;eighth note;152;True
-29;F4;eighth note;152;True
-29;G#4;eighth note;152;True
+28;E3;eighth note;152;True
+28;B3;eighth note;152;True
+28;F4;eighth note;152;True
+28;G#4;eighth note;152;True
 29;E3;half note;153;True
 29;E4;half note;153;True
 29;B4;half note;153;True
 29;E3;dotted quarter note;154;True
 29;E4;dotted quarter note;154;True
 29;B4;dotted quarter note;154;True
-30;E3;quarter note;155;True
-30;D4;quarter note;155;True
-30;A4;quarter note;155;True
+29;E3;quarter note;155;True
+29;D4;quarter note;155;True
+29;A4;quarter note;155;True
 30;E3;eighth note;156;True
 30;D4;eighth note;156;True
 30;A4;eighth note;156;True
@@ -317,9 +317,9 @@ Case_ID;Event;Type;Order;Is_Chord
 30;E3;eighth note;160;True
 30;D4;eighth note;160;True
 30;A4;eighth note;160;True
-31;E3;eighth note;161;True
-31;D4;eighth note;161;True
-31;A4;eighth note;161;True
+30;E3;eighth note;161;True
+30;D4;eighth note;161;True
+30;A4;eighth note;161;True
 31;E3;quarter note;162;True
 31;C4;quarter note;162;True
 31;G4;quarter note;162;True
@@ -332,11 +332,11 @@ Case_ID;Event;Type;Order;Is_Chord
 31;E3;quarter note;165;True
 31;D4;quarter note;165;True
 31;A4;quarter note;165;True
-32;E3;19 thirty-second note;166;True
-32;B3;19 thirty-second note;166;True
-32;E4;19 thirty-second note;166;True
-32;G4;19 thirty-second note;166;True
-32;B4;19 thirty-second note;166;True
+31;E3;19 thirty-second note;166;True
+31;B3;19 thirty-second note;166;True
+31;E4;19 thirty-second note;166;True
+31;G4;19 thirty-second note;166;True
+31;B4;19 thirty-second note;166;True
 32;Pause;thirty-second note;167;False
 32;Pause;double dotted thirty-second note;169;False
 32;Pause;double dotted thirty-second note;170;False

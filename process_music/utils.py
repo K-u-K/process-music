@@ -43,41 +43,6 @@ def _get_note_type(ticks, ticks_per_beat, note_types):
             i       = 1
             continue
 
-            # # find the differences to all ratios of ticks by factoring them with the average bound per note
-            # differences = np.array([*map(lambda bounds: (((bounds[0] + bounds[1]) / 2) * ticks_per_beat) - ticks, bounds)])
-
-            # # the difference should be lower than the smallest lower bound
-            # candidates  = np.where(np.logical_and(0 < differences, differences < (ticks_per_beat * constants.NOTE_LOWER_BOUND)))[0]
-
-            # if len(candidates) == 0:
-            #     print(ticks_per_beat * constants.NOTE_LOWER_BOUND)
-            #     print(ticks)
-            #     print(ratio)
-            #     print(differences)
-            #     sys.exit(1)
-            #     if ratio < constants.NOTE_LOWER_BOUND:
-            #         print(f"this case should not occur")
-            #         sys.exit(1)
-
-            #     j = j + 1
-            #     i = 1
-            #     ticks = ticks / (j + 1)
-            #     ratio = ticks / ticks_per_beat
-            #     continue
-            
-            # candidate = candidates[0]
-            # ticks     = ticks_per_beat * ((bounds[candidate][0] + bounds[candidate][1]) / 2)
-
-            # old_ratio = ratio
-            # ratio     = ticks / ticks_per_beat
-            
-            # i = 1
-            # j = 0
-
-            # if __debug__:
-            #     print(f"adapt tick-ratio old_ratio={old_ratio} new_ratio={ratio} new_ticks={ticks}")
-
-
 def get_note_type(ticks, ticks_per_beat):
     return _get_note_type(ticks, ticks_per_beat, constants.NOTE_TYPES)
 

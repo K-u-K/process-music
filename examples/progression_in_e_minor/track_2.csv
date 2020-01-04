@@ -1,19 +1,19 @@
 Case_ID;Event;Type;Order;Is_Chord
 1;Pause;whole note;1;False
-2;E1;61 thirty-second note;2;True
-2;E2;61 thirty-second note;2;True
-2;B2;61 thirty-second note;2;True
-2;E3;61 thirty-second note;2;True
+2;E1;double dotted whole note;2;True
+2;E2;double dotted whole note;2;True
+2;B2;double dotted whole note;2;True
+2;E3;double dotted whole note;2;True
 3;Pause;double dotted sixteenth note;3;False
-4;F#1;61 thirty-second note;4;True
-4;F#2;61 thirty-second note;4;True
-4;C3;61 thirty-second note;4;True
-4;F#3;61 thirty-second note;4;True
+4;F#1;double dotted whole note;4;True
+4;F#2;double dotted whole note;4;True
+4;C3;double dotted whole note;4;True
+4;F#3;double dotted whole note;4;True
 5;Pause;double dotted sixteenth note;5;False
-6;G1;61 thirty-second note;6;True
-6;G2;61 thirty-second note;6;True
-6;D3;61 thirty-second note;6;True
-6;G3;61 thirty-second note;6;True
+6;G1;double dotted whole note;6;True
+6;G2;double dotted whole note;6;True
+6;D3;double dotted whole note;6;True
+6;G3;double dotted whole note;6;True
 7;Pause;double dotted sixteenth note;7;False
 8;D#1;whole note;8;True
 8;D#2;whole note;8;True
