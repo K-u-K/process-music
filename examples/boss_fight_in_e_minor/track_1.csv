@@ -1,0 +1,124 @@
+Case_ID;Event;Type;Order;Is_Chord
+1;Pause;eighth note;1;False
+1;E4;quarter note;2;False
+1;E4;quarter note;3;False
+1;E4;quarter note;4;False
+1;E4;quarter note;5;False
+2;E4;quarter note;6;False
+2;E4;5 eighth note;7;False
+3;Pause;eighth note;8;False
+3;E4;quarter note;9;False
+3;E4;quarter note;10;False
+3;E4;quarter note;11;False
+3;E4;quarter note;12;False
+4;E4;quarter note;13;False
+4;E4;5 eighth note;14;False
+5;Pause;eighth note;15;False
+5;E4;quarter note;16;False
+5;E4;quarter note;17;False
+5;E4;quarter note;18;False
+5;E4;quarter note;19;False
+6;E4;quarter note;20;False
+6;E4;quarter note;21;False
+6;E4;quarter note;22;False
+6;E4;quarter note;23;False
+7;E4;quarter note;24;False
+7;E4;quarter note;25;False
+7;E4;quarter note;26;False
+7;E4;5 eighth note;27;False
+8;Pause;eighth note;28;False
+8;E4;quarter note;29;False
+8;E4;eighth note;30;False
+9;Pause;eighth note;31;False
+9;E4;quarter note;32;False
+9;E4;quarter note;33;False
+9;E4;quarter note;34;False
+9;E4;quarter note;35;False
+10;E4;quarter note;36;False
+10;E4;5 eighth note;37;False
+11;Pause;eighth note;38;False
+11;E4;quarter note;39;False
+11;E4;quarter note;40;False
+11;E4;quarter note;41;False
+11;E4;quarter note;42;False
+12;E4;quarter note;43;False
+12;E4;5 eighth note;44;False
+13;Pause;eighth note;45;False
+13;E4;quarter note;46;False
+13;E4;quarter note;47;False
+13;E4;quarter note;48;False
+13;E4;5 eighth note;49;False
+14;Pause;eighth note;50;False
+14;E4;quarter note;51;False
+14;E4;eighth note;52;False
+15;Pause;eighth note;53;False
+15;E4;quarter note;54;False
+15;E4;quarter note;55;False
+15;E4;quarter note;56;False
+15;E4;quarter note;57;False
+16;E4;quarter note;58;False
+16;E4;quarter note;59;False
+16;E4;quarter note;60;False
+16;E4;eighth note;61;False
+17;Pause;eighth note;62;False
+17;E4;quarter note;63;False
+17;E4;quarter note;64;False
+17;E4;quarter note;65;False
+17;E4;quarter note;66;False
+18;E4;quarter note;67;False
+18;E4;quarter note;68;False
+18;E4;quarter note;69;False
+18;E4;quarter note;70;False
+19;E4;quarter note;71;False
+19;E4;quarter note;72;False
+19;E4;quarter note;73;False
+19;E4;quarter note;74;False
+20;E4;quarter note;75;False
+20;E4;quarter note;76;False
+20;E4;quarter note;77;False
+20;E4;quarter note;78;False
+21;E4;quarter note;79;False
+21;E4;quarter note;80;False
+21;E4;quarter note;81;False
+21;E4;quarter note;82;False
+22;E4;quarter note;83;False
+22;E4;quarter note;84;False
+22;E4;quarter note;85;False
+22;E4;quarter note;86;False
+23;E4;quarter note;87;False
+23;E4;quarter note;88;False
+23;E4;quarter note;89;False
+23;E4;quarter note;90;False
+24;E4;quarter note;91;False
+24;E4;quarter note;92;False
+24;E4;quarter note;93;False
+24;E4;eighth note;94;False
+25;Pause;eighth note;95;False
+25;E4;quarter note;96;False
+25;E4;quarter note;97;False
+25;E4;quarter note;98;False
+25;E4;quarter note;99;False
+26;E4;quarter note;100;False
+26;E4;5 eighth note;101;False
+27;Pause;eighth note;102;False
+27;E4;quarter note;103;False
+27;E4;quarter note;104;False
+27;E4;quarter note;105;False
+27;E4;quarter note;106;False
+28;E4;quarter note;107;False
+28;E4;5 eighth note;108;False
+29;Pause;eighth note;109;False
+29;E4;quarter note;110;False
+29;E4;quarter note;111;False
+29;E4;quarter note;112;False
+29;E4;quarter note;113;False
+30;E4;quarter note;114;False
+30;E4;5 eighth note;115;False
+31;Pause;eighth note;116;False
+31;E4;quarter note;117;False
+31;E4;quarter note;118;False
+31;E4;quarter note;119;False
+31;E4;quarter note;120;False
+32;E4;quarter note;121;False
+32;E4;eighth note;122;False
+32;E4;5 half note;123;False
