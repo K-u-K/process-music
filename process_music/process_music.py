@@ -91,21 +91,33 @@ def main(args):
                 continue
 
             if __debug__:
-                print(f"Message type={msg.type} note={utils.get_key(msg.note)} velocity={msg.velocity} time={msg.time}")
+                print(f"Message type={msg.type} note={utils.get_key(msg.note)} ({msg.note}) velocity={msg.velocity} time={msg.time}")
 
             # prepend pauses
             if msg.type == "note_on" and msg.time != 0 and msg.velocity != 0:
-                note_type = utils.get_note_type(msg.time, mid.ticks_per_beat)
+                times, note_type = utils.get_note_type_pause(msg.time, mid.ticks_per_beat)
                 
                 # ignore invalid pauses (MuseScore defines strange note_on message with sufficiently low ticks) 
-                if note_type != "unknown":        
-                    results.append({
-                        "case":     case_number,
-                        "key":      "Pause",
-                        "type":     note_type,
-                        "order":    order,
-                        "is_chord": False,
-                    })
+                if note_type != "unknown":
+                    msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
+                        
+                    for _ in range(times):    
+                        results.append({
+                            "case":     case_number,
+                            "key":      "Pause",
+                            "type":     note_type,
+                            "order":    order,
+                            "is_chord": False,
+                        })
+                        order = order + 1
+                        ticks = ticks + msg.time
+                        if threshold <= ticks:
+                            case_number = case_number + 1
+                            ticks       = ticks % threshold
+
+                    msg.time = 0    
+
+                    print(">>> PAUSE", results[-1])
 
             # if summed up ticks reach the threshold increment case number
             # => e.g. if one bar is the timespan for a case increase case number after each bar
@@ -130,7 +142,8 @@ def main(args):
                     if time == 0:
                         time = prev_note_off["msg"].time
                 
-                state[key]["type"] = utils.get_note_type(time, mid.ticks_per_beat)
+                times, note_type   = utils.get_note_type(time, mid.ticks_per_beat)
+                state[key]["type"] = (f"{times} " if times > 1 else "") + note_type
                 results.append(state[key])
 
                 prev_note_on  = default()

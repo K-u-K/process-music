@@ -16,8 +16,8 @@ NOTES = [
     NOTE_EIGHTH,
     NOTE_SIXTEENTH,
     NOTE_THIRTY_SECOND,
-    NOTE_SIXTY_FOURTH,
-    NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE
+    # NOTE_SIXTY_FOURTH,
+    # NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE
 ]
 
 def calculate_ratios(base_ratio, deviation, notes):
@@ -47,3 +47,5 @@ NOTE_LOWER_BOUND = np.min(list(NOTE_TYPES.values()))
 
 # calculate time signature lookup
 SIGNATURE_UNIT = calculate_signature_denominators(BASE_RATIO, NOTES)
+
+MAX_ATTEMPTS_ADAPTATION = 100 
