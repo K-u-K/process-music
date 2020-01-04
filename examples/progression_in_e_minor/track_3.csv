@@ -1,5 +1,12 @@
 Case_ID;Event;Type;Order;Is_Chord
-1;Pause;8-times whole note;1;False
-2;E4;dotted half note;1;False
-2;C4;eighth note;2;False
-2;D4;3-times dotted quarter note;3;False
+1;Pause;whole note;1;False
+2;Pause;whole note;2;False
+3;Pause;whole note;3;False
+4;Pause;whole note;4;False
+5;Pause;whole note;5;False
+6;Pause;whole note;6;False
+7;Pause;whole note;7;False
+8;Pause;whole note;8;False
+9;E4;dotted half note;9;False
+9;C4;eighth note;10;False
+9;D4;3 dotted quarter note;11;False

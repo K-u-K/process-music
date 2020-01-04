@@ -1,86 +1,93 @@
 Case_ID;Event;Type;Order;Is_Chord
-1;Pause;8-times whole note;1;False
-2;B4;dotted quarter note;1;False
-2;B4;dotted quarter note;2;False
-2;B4;quarter note;3;False
-3;B4;dotted quarter note;4;False
-3;C4;dotted quarter note;5;False
-3;B4;quarter note;6;False
-4;A4;dotted half note;7;False
-4;A4;quarter note;8;False
-5;A4;dotted quarter note;9;False
-5;A4;dotted quarter note;10;False
-5;A4;quarter note;11;False
-6;G3;dotted half note;12;False
-6;G3;quarter note;13;False
-7;G3;dotted quarter note;14;False
-7;A4;dotted quarter note;15;False
-7;G3;quarter note;16;False
-8;F#3;dotted half note;17;False
-8;F#3;quarter note;18;False
-9;F#3;dotted quarter note;19;False
-9;G3;dotted quarter note;20;False
-9;A4;quarter note;21;False
-10;B4;dotted quarter note;22;False
-10;B4;dotted quarter note;23;False
-10;B4;quarter note;24;False
-11;B4;dotted quarter note;25;False
-11;C4;dotted quarter note;26;False
-11;B4;quarter note;27;False
-12;A4;dotted half note;28;False
-12;A4;quarter note;29;False
-13;A4;dotted quarter note;30;False
-13;A4;dotted quarter note;31;False
-13;A4;quarter note;32;False
-14;G3;dotted half note;33;False
-14;G3;quarter note;34;False
-15;G3;dotted quarter note;35;False
-15;A4;dotted quarter note;36;False
-15;G3;quarter note;37;False
-16;F#3;dotted half note;38;False
-16;F#3;quarter note;39;False
-17;F#3;dotted quarter note;40;False
-17;G3;dotted quarter note;41;False
-17;A4;quarter note;42;False
-18;B4;dotted quarter note;43;False
-18;B4;dotted quarter note;44;False
-18;B4;quarter note;45;False
-19;B4;dotted quarter note;46;False
-19;C4;dotted quarter note;47;False
-19;B4;quarter note;48;False
-20;A4;dotted half note;49;False
-20;A4;quarter note;50;False
-21;A4;dotted quarter note;51;False
-21;A4;dotted quarter note;52;False
-21;A4;quarter note;53;False
-22;G3;dotted half note;54;False
-22;G3;quarter note;55;False
-23;G3;dotted quarter note;56;False
-23;A4;dotted quarter note;57;False
-23;G3;quarter note;58;False
-24;F#3;dotted half note;59;False
-24;F#3;quarter note;60;False
-25;F#3;dotted quarter note;61;False
-25;G3;dotted quarter note;62;False
-25;A4;quarter note;63;False
-26;B4;dotted quarter note;64;False
-26;B4;dotted quarter note;65;False
-26;B4;quarter note;66;False
-27;B4;dotted quarter note;67;False
-27;C4;dotted quarter note;68;False
-27;B4;quarter note;69;False
-28;A4;dotted half note;70;False
-28;A4;quarter note;71;False
-29;A4;dotted quarter note;72;False
-29;A4;dotted quarter note;73;False
-29;A4;quarter note;74;False
-30;G3;dotted half note;75;False
-30;G3;quarter note;76;False
-31;G3;dotted quarter note;77;False
-31;A4;dotted quarter note;78;False
-31;G3;quarter note;79;False
-32;F#3;dotted half note;80;False
-32;F#3;quarter note;81;False
-33;F#3;dotted quarter note;82;False
-33;G3;dotted quarter note;83;False
-33;A4;quarter note;84;False
+1;Pause;whole note;1;False
+2;Pause;whole note;2;False
+3;Pause;whole note;3;False
+4;Pause;whole note;4;False
+5;Pause;whole note;5;False
+6;Pause;whole note;6;False
+7;Pause;whole note;7;False
+8;Pause;whole note;8;False
+9;B3;dotted quarter note;9;False
+9;B3;dotted quarter note;10;False
+9;B3;quarter note;11;False
+10;B3;dotted quarter note;12;False
+10;C4;dotted quarter note;13;False
+10;B3;quarter note;14;False
+11;A3;dotted half note;15;False
+11;A3;quarter note;16;False
+12;A3;dotted quarter note;17;False
+12;A3;dotted quarter note;18;False
+12;A3;quarter note;19;False
+13;G3;dotted half note;20;False
+13;G3;quarter note;21;False
+14;G3;dotted quarter note;22;False
+14;A3;dotted quarter note;23;False
+14;G3;quarter note;24;False
+15;F#3;dotted half note;25;False
+15;F#3;quarter note;26;False
+16;F#3;dotted quarter note;27;False
+16;G3;dotted quarter note;28;False
+16;A3;quarter note;29;False
+17;B3;dotted quarter note;30;False
+17;B3;dotted quarter note;31;False
+17;B3;quarter note;32;False
+18;B3;dotted quarter note;33;False
+18;C4;dotted quarter note;34;False
+18;B3;quarter note;35;False
+19;A3;dotted half note;36;False
+19;A3;quarter note;37;False
+20;A3;dotted quarter note;38;False
+20;A3;dotted quarter note;39;False
+20;A3;quarter note;40;False
+21;G3;dotted half note;41;False
+21;G3;quarter note;42;False
+22;G3;dotted quarter note;43;False
+22;A3;dotted quarter note;44;False
+22;G3;quarter note;45;False
+23;F#3;dotted half note;46;False
+23;F#3;quarter note;47;False
+24;F#3;dotted quarter note;48;False
+24;G3;dotted quarter note;49;False
+24;A3;quarter note;50;False
+25;B3;dotted quarter note;51;False
+25;B3;dotted quarter note;52;False
+25;B3;quarter note;53;False
+26;B3;dotted quarter note;54;False
+26;C4;dotted quarter note;55;False
+26;B3;quarter note;56;False
+27;A3;dotted half note;57;False
+27;A3;quarter note;58;False
+28;A3;dotted quarter note;59;False
+28;A3;dotted quarter note;60;False
+28;A3;quarter note;61;False
+29;G3;dotted half note;62;False
+29;G3;quarter note;63;False
+30;G3;dotted quarter note;64;False
+30;A3;dotted quarter note;65;False
+30;G3;quarter note;66;False
+31;F#3;dotted half note;67;False
+31;F#3;quarter note;68;False
+32;F#3;dotted quarter note;69;False
+32;G3;dotted quarter note;70;False
+32;A3;quarter note;71;False
+33;B3;dotted quarter note;72;False
+33;B3;dotted quarter note;73;False
+33;B3;quarter note;74;False
+34;B3;dotted quarter note;75;False
+34;C4;dotted quarter note;76;False
+34;B3;quarter note;77;False
+35;A3;dotted half note;78;False
+35;A3;quarter note;79;False
+36;A3;dotted quarter note;80;False
+36;A3;dotted quarter note;81;False
+36;A3;quarter note;82;False
+37;G3;dotted half note;83;False
+37;G3;quarter note;84;False
+38;G3;dotted quarter note;85;False
+38;A3;dotted quarter note;86;False
+38;G3;quarter note;87;False
+39;F#3;dotted half note;88;False
+39;F#3;quarter note;89;False
+40;F#3;dotted quarter note;90;False
+40;G3;dotted quarter note;91;False
+40;A3;quarter note;92;False

@@ -10,7 +10,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="2"/>
       <boolean key="org:is_chord" value="False"/>
@@ -28,7 +28,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="5"/>
       <boolean key="org:is_chord" value="False"/>
@@ -49,7 +49,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="8"/>
       <boolean key="org:is_chord" value="False"/>
@@ -61,7 +61,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="10"/>
       <boolean key="org:is_chord" value="False"/>
@@ -76,13 +76,13 @@
   <trace>
     <int key="concept:name" value="3"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="12"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="13"/>
       <boolean key="org:is_chord" value="False"/>
@@ -94,13 +94,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="15"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="16"/>
       <boolean key="org:is_chord" value="False"/>
@@ -115,13 +115,13 @@
   <trace>
     <int key="concept:name" value="4"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="18"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="19"/>
       <boolean key="org:is_chord" value="False"/>
@@ -133,13 +133,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="21"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="22"/>
       <boolean key="org:is_chord" value="False"/>
@@ -148,7 +148,7 @@
   <trace>
     <int key="concept:name" value="5"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="23"/>
       <boolean key="org:is_chord" value="False"/>
@@ -166,7 +166,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="26"/>
       <boolean key="org:is_chord" value="False"/>
@@ -187,7 +187,7 @@
   <trace>
     <int key="concept:name" value="6"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="29"/>
       <boolean key="org:is_chord" value="False"/>
@@ -211,7 +211,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="33"/>
       <boolean key="org:is_chord" value="False"/>
@@ -232,7 +232,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="36"/>
       <boolean key="org:is_chord" value="False"/>
@@ -265,13 +265,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="39"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="40"/>
       <boolean key="org:is_chord" value="True"/>
@@ -289,13 +289,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="41"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="41"/>
       <boolean key="org:is_chord" value="True"/>
@@ -316,7 +316,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="43"/>
       <boolean key="org:is_chord" value="False"/>
@@ -334,7 +334,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="46"/>
       <boolean key="org:is_chord" value="False"/>
@@ -355,7 +355,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="49"/>
       <boolean key="org:is_chord" value="False"/>
@@ -367,7 +367,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="51"/>
       <boolean key="org:is_chord" value="False"/>
@@ -382,13 +382,13 @@
   <trace>
     <int key="concept:name" value="11"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="53"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="54"/>
       <boolean key="org:is_chord" value="False"/>
@@ -400,13 +400,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="56"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="57"/>
       <boolean key="org:is_chord" value="False"/>
@@ -421,13 +421,13 @@
   <trace>
     <int key="concept:name" value="12"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="59"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="60"/>
       <boolean key="org:is_chord" value="False"/>
@@ -439,13 +439,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="62"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="63"/>
       <boolean key="org:is_chord" value="False"/>
@@ -454,7 +454,7 @@
   <trace>
     <int key="concept:name" value="13"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="64"/>
       <boolean key="org:is_chord" value="False"/>
@@ -472,7 +472,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="67"/>
       <boolean key="org:is_chord" value="False"/>
@@ -493,7 +493,7 @@
   <trace>
     <int key="concept:name" value="14"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="70"/>
       <boolean key="org:is_chord" value="False"/>
@@ -517,7 +517,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="74"/>
       <boolean key="org:is_chord" value="False"/>
@@ -538,7 +538,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="77"/>
       <boolean key="org:is_chord" value="False"/>
@@ -571,13 +571,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="80"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="81"/>
       <boolean key="org:is_chord" value="True"/>
@@ -595,13 +595,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="82"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="82"/>
       <boolean key="org:is_chord" value="True"/>
@@ -622,7 +622,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="84"/>
       <boolean key="org:is_chord" value="False"/>
@@ -640,7 +640,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="87"/>
       <boolean key="org:is_chord" value="False"/>
@@ -661,13 +661,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="90"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A5"/>
+      <string key="concept:name" value="A4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="91"/>
       <boolean key="org:is_chord" value="False"/>
@@ -679,7 +679,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="93"/>
       <boolean key="org:is_chord" value="False"/>
@@ -688,13 +688,13 @@
   <trace>
     <int key="concept:name" value="19"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="94"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="95"/>
       <boolean key="org:is_chord" value="False"/>
@@ -706,13 +706,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="97"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="98"/>
       <boolean key="org:is_chord" value="False"/>
@@ -727,13 +727,13 @@
   <trace>
     <int key="concept:name" value="20"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="100"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="101"/>
       <boolean key="org:is_chord" value="False"/>
@@ -751,7 +751,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="104"/>
       <boolean key="org:is_chord" value="False"/>
@@ -760,7 +760,7 @@
   <trace>
     <int key="concept:name" value="21"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="105"/>
       <boolean key="org:is_chord" value="False"/>
@@ -778,7 +778,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="108"/>
       <boolean key="org:is_chord" value="False"/>
@@ -799,7 +799,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="111"/>
       <boolean key="org:is_chord" value="False"/>
@@ -856,7 +856,7 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="118"/>
       <boolean key="org:is_chord" value="True"/>
@@ -880,7 +880,7 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="119"/>
       <boolean key="org:is_chord" value="True"/>
@@ -907,13 +907,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="120"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="121"/>
       <boolean key="org:is_chord" value="True"/>
@@ -931,13 +931,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="True"/>
@@ -958,7 +958,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="124"/>
       <boolean key="org:is_chord" value="False"/>
@@ -976,7 +976,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="127"/>
       <boolean key="org:is_chord" value="False"/>
@@ -997,7 +997,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="130"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1009,7 +1009,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="132"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1024,13 +1024,13 @@
   <trace>
     <int key="concept:name" value="27"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="134"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="135"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1042,13 +1042,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="137"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="138"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1063,13 +1063,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="140"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="141"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1081,13 +1081,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="143"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="144"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1096,7 +1096,7 @@
   <trace>
     <int key="concept:name" value="29"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="145"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1114,7 +1114,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="148"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1135,7 +1135,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="151"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1159,7 +1159,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="155"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1180,7 +1180,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="158"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1213,13 +1213,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="161"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="162"/>
       <boolean key="org:is_chord" value="True"/>
@@ -1237,13 +1237,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="163"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="163"/>
       <boolean key="org:is_chord" value="True"/>
@@ -1264,7 +1264,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="165"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1282,7 +1282,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="168"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1303,13 +1303,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="171"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A5"/>
+      <string key="concept:name" value="A4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="172"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1321,7 +1321,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="174"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1330,13 +1330,13 @@
   <trace>
     <int key="concept:name" value="35"/>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="175"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="176"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1348,13 +1348,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="178"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="179"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1369,13 +1369,13 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="181"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="182"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1393,7 +1393,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="185"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1402,7 +1402,7 @@
   <trace>
     <int key="concept:name" value="37"/>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="186"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1420,7 +1420,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="189"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1441,7 +1441,7 @@
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="192"/>
       <boolean key="org:is_chord" value="False"/>
@@ -1498,7 +1498,7 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="199"/>
       <boolean key="org:is_chord" value="True"/>
@@ -1522,7 +1522,7 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="200"/>
       <boolean key="org:is_chord" value="True"/>
@@ -1549,13 +1549,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B4"/>
+      <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="201"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A3"/>
+      <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="202"/>
       <boolean key="org:is_chord" value="True"/>
@@ -1573,13 +1573,13 @@
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="B3"/>
+      <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="203"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
-      <string key="concept:name" value="A4"/>
+      <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="203"/>
       <boolean key="org:is_chord" value="True"/>

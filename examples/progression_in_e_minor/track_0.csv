@@ -1,59 +1,59 @@
 Case_ID;Event;Type;Order;Is_Chord
-1;B4;eighth note;1;False
+1;B3;eighth note;1;False
 1;E4;eighth note;2;False
 1;G4;eighth note;3;False
-1;B4;eighth note;4;False
+1;B3;eighth note;4;False
 1;E4;eighth note;5;False
 1;G4;eighth note;6;False
-1;B4;eighth note;7;False
+1;B3;eighth note;7;False
 1;E4;eighth note;8;False
 2;G4;eighth note;9;False
-2;B4;eighth note;10;False
+2;B3;eighth note;10;False
 2;E4;eighth note;11;False
 2;G4;eighth note;12;False
-2;B4;eighth note;13;False
+2;B3;eighth note;13;False
 2;E4;eighth note;14;False
 2;G4;quarter note;15;False
 3;C4;eighth note;16;False
 3;F#4;eighth note;17;False
-3;A5;eighth note;18;False
+3;A4;eighth note;18;False
 3;C4;eighth note;19;False
 3;F#4;eighth note;20;False
-3;A5;eighth note;21;False
+3;A4;eighth note;21;False
 3;C4;eighth note;22;False
 3;F#4;eighth note;23;False
-4;A5;eighth note;24;False
+4;A4;eighth note;24;False
 4;C4;eighth note;25;False
 4;F#4;eighth note;26;False
-4;A5;eighth note;27;False
+4;A4;eighth note;27;False
 4;C4;eighth note;28;False
 4;F#4;eighth note;29;False
-4;A5;quarter note;30;False
+4;A4;quarter note;30;False
 5;D4;eighth note;31;False
 5;G4;eighth note;32;False
-5;B5;eighth note;33;False
+5;B4;eighth note;33;False
 5;D4;eighth note;34;False
 5;G4;eighth note;35;False
-5;B5;eighth note;36;False
+5;B4;eighth note;36;False
 5;D4;eighth note;37;False
 5;G4;eighth note;38;False
-6;B5;eighth note;39;False
+6;B4;eighth note;39;False
 6;D4;eighth note;40;False
 6;G4;eighth note;41;False
-6;B5;eighth note;42;False
+6;B4;eighth note;42;False
 6;D4;eighth note;43;False
 6;G4;eighth note;44;False
-6;B5;quarter note;45;False
-7;B4;eighth note;46;False
+6;B4;quarter note;45;False
+7;B3;eighth note;46;False
 7;E4;eighth note;47;False
 7;G4;eighth note;48;False
-7;B4;eighth note;49;False
+7;B3;eighth note;49;False
 7;E4;eighth note;50;False
 7;G4;eighth note;51;False
-7;A4;eighth note;52;False
+7;A3;eighth note;52;False
 7;D#4;eighth note;53;False
 8;F#4;eighth note;54;False
-8;A4;eighth note;55;False
+8;A3;eighth note;55;False
 8;D#4;eighth note;56;False
 8;F#4;eighth note;57;False
 8;G3;eighth note;58;False
@@ -82,19 +82,19 @@ Case_ID;Event;Type;Order;Is_Chord
 11;E2;dotted quarter note;71;True
 11;C3;dotted quarter note;71;True
 11;E2;quarter note;72;True
-11;B3;quarter note;72;True
+11;B2;quarter note;72;True
 12;E2;eighth note;73;True
-12;B3;eighth note;73;True
+12;B2;eighth note;73;True
 12;E2;quarter note;74;True
-12;B3;quarter note;74;True
+12;B2;quarter note;74;True
 12;E2;eighth note;75;True
-12;B3;eighth note;75;True
+12;B2;eighth note;75;True
 12;E2;eighth note;76;True
-12;B3;eighth note;76;True
+12;B2;eighth note;76;True
 12;E2;eighth note;77;True
-12;B3;eighth note;77;True
+12;B2;eighth note;77;True
 12;E2;eighth note;78;True
-12;B3;eighth note;78;True
+12;B2;eighth note;78;True
 13;E2;half note;79;True
 13;E3;half note;79;True
 13;E2;dotted quarter note;80;True
@@ -118,316 +118,316 @@ Case_ID;Event;Type;Order;Is_Chord
 15;E2;dotted quarter note;89;True
 15;C3;dotted quarter note;89;True
 15;E2;quarter note;90;True
-15;B3;quarter note;90;True
+15;B2;quarter note;90;True
 16;E2;eighth note;91;True
-16;B3;eighth note;91;True
+16;B2;eighth note;91;True
 16;E2;quarter note;92;True
-16;B3;quarter note;92;True
+16;B2;quarter note;92;True
 16;E2;eighth note;93;True
-16;B3;eighth note;93;True
+16;B2;eighth note;93;True
 16;E2;eighth note;94;True
-16;B3;eighth note;94;True
+16;B2;eighth note;94;True
 16;E2;eighth note;95;True
-16;B3;eighth note;95;True
+16;B2;eighth note;95;True
 16;E2;eighth note;96;True
-16;B3;eighth note;96;True
+16;B2;eighth note;96;True
 17;E2;half note;97;True
 17;E3;half note;97;True
-17;B4;half note;97;True
+17;B3;half note;97;True
 17;C5;half note;97;True
 17;E2;dotted quarter note;98;True
 17;E3;dotted quarter note;98;True
-17;B4;dotted quarter note;98;True
+17;B3;dotted quarter note;98;True
 17;C5;dotted quarter note;98;True
 17;E2;quarter note;99;True
 17;D3;quarter note;99;True
-17;A4;quarter note;99;True
-17;B5;quarter note;99;True
+17;A3;quarter note;99;True
+17;B4;quarter note;99;True
 18;E2;eighth note;100;True
 18;D3;eighth note;100;True
-18;A4;eighth note;100;True
-18;B5;eighth note;100;True
+18;A3;eighth note;100;True
+18;B4;eighth note;100;True
 18;E2;quarter note;101;True
 18;D3;quarter note;101;True
-18;A4;quarter note;101;True
-18;B5;quarter note;101;True
+18;A3;quarter note;101;True
+18;B4;quarter note;101;True
 18;E2;eighth note;102;True
 18;D3;eighth note;102;True
-18;A4;eighth note;102;True
-18;B5;eighth note;102;True
+18;A3;eighth note;102;True
+18;B4;eighth note;102;True
 18;E2;eighth note;103;True
 18;D3;eighth note;103;True
-18;A4;eighth note;103;True
-18;B5;eighth note;103;True
+18;A3;eighth note;103;True
+18;B4;eighth note;103;True
 18;E2;eighth note;104;True
 18;D3;eighth note;104;True
-18;A4;eighth note;104;True
-18;B5;eighth note;104;True
+18;A3;eighth note;104;True
+18;B4;eighth note;104;True
 18;E2;eighth note;105;True
 18;D3;eighth note;105;True
-18;A4;eighth note;105;True
-18;B5;eighth note;105;True
+18;A3;eighth note;105;True
+18;B4;eighth note;105;True
 19;E2;half note;106;True
 19;C3;half note;106;True
 19;G3;half note;106;True
-19;A5;half note;106;True
+19;A4;half note;106;True
 19;E2;dotted quarter note;107;True
 19;C3;dotted quarter note;107;True
 19;G3;dotted quarter note;107;True
-19;A5;dotted quarter note;107;True
+19;A4;dotted quarter note;107;True
 19;E2;quarter note;108;True
-19;B3;quarter note;108;True
+19;B2;quarter note;108;True
 19;F#3;quarter note;108;True
 19;G4;quarter note;108;True
 20;E2;eighth note;109;True
-20;B3;eighth note;109;True
+20;B2;eighth note;109;True
 20;F#3;eighth note;109;True
 20;G4;eighth note;109;True
 20;E2;quarter note;110;True
-20;B3;quarter note;110;True
+20;B2;quarter note;110;True
 20;F#3;quarter note;110;True
 20;G4;quarter note;110;True
 20;E2;eighth note;111;True
-20;B3;eighth note;111;True
+20;B2;eighth note;111;True
 20;F#3;eighth note;111;True
 20;G4;eighth note;111;True
 20;E2;eighth note;112;True
-20;B3;eighth note;112;True
+20;B2;eighth note;112;True
 20;F#3;eighth note;112;True
 20;G4;eighth note;112;True
 20;E2;eighth note;113;True
-20;B3;eighth note;113;True
+20;B2;eighth note;113;True
 20;F#3;eighth note;113;True
 20;G4;eighth note;113;True
 21;E2;eighth note;114;True
-21;B3;eighth note;114;True
+21;B2;eighth note;114;True
 21;F#3;eighth note;114;True
 21;G4;eighth note;114;True
 21;E2;half note;115;True
 21;E3;half note;115;True
-21;B4;half note;115;True
+21;B3;half note;115;True
 21;C5;half note;115;True
 21;E2;dotted quarter note;116;True
 21;E3;dotted quarter note;116;True
-21;B4;dotted quarter note;116;True
+21;B3;dotted quarter note;116;True
 21;C5;dotted quarter note;116;True
 22;E2;quarter note;117;True
 22;D3;quarter note;117;True
-22;A4;quarter note;117;True
-22;B5;quarter note;117;True
+22;A3;quarter note;117;True
+22;B4;quarter note;117;True
 22;E2;eighth note;118;True
 22;D3;eighth note;118;True
-22;A4;eighth note;118;True
-22;B5;eighth note;118;True
+22;A3;eighth note;118;True
+22;B4;eighth note;118;True
 22;E2;quarter note;119;True
 22;D3;quarter note;119;True
-22;A4;quarter note;119;True
-22;B5;quarter note;119;True
+22;A3;quarter note;119;True
+22;B4;quarter note;119;True
 22;E2;eighth note;120;True
 22;D3;eighth note;120;True
-22;A4;eighth note;120;True
-22;B5;eighth note;120;True
+22;A3;eighth note;120;True
+22;B4;eighth note;120;True
 22;E2;eighth note;121;True
 22;D3;eighth note;121;True
-22;A4;eighth note;121;True
-22;B5;eighth note;121;True
+22;A3;eighth note;121;True
+22;B4;eighth note;121;True
 22;E2;eighth note;122;True
 22;D3;eighth note;122;True
-22;A4;eighth note;122;True
-22;B5;eighth note;122;True
+22;A3;eighth note;122;True
+22;B4;eighth note;122;True
 23;E2;eighth note;123;True
 23;D3;eighth note;123;True
-23;A4;eighth note;123;True
-23;B5;eighth note;123;True
+23;A3;eighth note;123;True
+23;B4;eighth note;123;True
 23;E2;half note;124;True
 23;C3;half note;124;True
 23;G3;half note;124;True
-23;A5;half note;124;True
+23;A4;half note;124;True
 23;E2;dotted quarter note;125;True
 23;C3;dotted quarter note;125;True
 23;G3;dotted quarter note;125;True
-23;A5;dotted quarter note;125;True
+23;A4;dotted quarter note;125;True
 24;E2;quarter note;126;True
-24;B3;quarter note;126;True
+24;B2;quarter note;126;True
 24;F#3;quarter note;126;True
 24;G4;quarter note;126;True
 24;E2;eighth note;127;True
-24;B3;eighth note;127;True
+24;B2;eighth note;127;True
 24;F#3;eighth note;127;True
 24;G4;eighth note;127;True
 24;E2;quarter note;128;True
-24;B3;quarter note;128;True
+24;B2;quarter note;128;True
 24;F#3;quarter note;128;True
 24;G4;quarter note;128;True
 24;E2;eighth note;129;True
-24;B3;eighth note;129;True
+24;B2;eighth note;129;True
 24;F#3;eighth note;129;True
 24;G4;eighth note;129;True
 24;E2;eighth note;130;True
-24;B3;eighth note;130;True
+24;B2;eighth note;130;True
 24;F#3;eighth note;130;True
 24;G4;eighth note;130;True
 24;E2;eighth note;131;True
-24;B3;eighth note;131;True
+24;B2;eighth note;131;True
 24;F#3;eighth note;131;True
 24;G4;eighth note;131;True
 25;E2;eighth note;132;True
-25;B3;eighth note;132;True
+25;B2;eighth note;132;True
 25;F#3;eighth note;132;True
 25;G4;eighth note;132;True
 25;E2;half note;133;True
 25;E3;half note;133;True
-25;B4;half note;133;True
+25;B3;half note;133;True
 25;C5;half note;133;True
 25;E2;dotted quarter note;134;True
 25;E3;dotted quarter note;134;True
-25;B4;dotted quarter note;134;True
+25;B3;dotted quarter note;134;True
 25;C5;dotted quarter note;134;True
 26;E2;quarter note;135;True
 26;D3;quarter note;135;True
-26;A4;quarter note;135;True
-26;B5;quarter note;135;True
+26;A3;quarter note;135;True
+26;B4;quarter note;135;True
 26;E2;eighth note;136;True
 26;D3;eighth note;136;True
-26;A4;eighth note;136;True
-26;B5;eighth note;136;True
+26;A3;eighth note;136;True
+26;B4;eighth note;136;True
 26;E2;quarter note;137;True
 26;D3;quarter note;137;True
-26;A4;quarter note;137;True
-26;B5;quarter note;137;True
+26;A3;quarter note;137;True
+26;B4;quarter note;137;True
 26;E2;eighth note;138;True
 26;D3;eighth note;138;True
-26;A4;eighth note;138;True
-26;B5;eighth note;138;True
+26;A3;eighth note;138;True
+26;B4;eighth note;138;True
 26;E2;eighth note;139;True
 26;D3;eighth note;139;True
-26;A4;eighth note;139;True
-26;B5;eighth note;139;True
+26;A3;eighth note;139;True
+26;B4;eighth note;139;True
 26;E2;eighth note;140;True
 26;D3;eighth note;140;True
-26;A4;eighth note;140;True
-26;B5;eighth note;140;True
+26;A3;eighth note;140;True
+26;B4;eighth note;140;True
 27;E2;eighth note;141;True
 27;D3;eighth note;141;True
-27;A4;eighth note;141;True
-27;B5;eighth note;141;True
+27;A3;eighth note;141;True
+27;B4;eighth note;141;True
 27;E2;quarter note;142;True
 27;C3;quarter note;142;True
 27;G3;quarter note;142;True
-27;A5;quarter note;142;True
+27;A4;quarter note;142;True
 27;E2;quarter note;143;True
 27;D3;quarter note;143;True
-27;A4;quarter note;143;True
-27;B5;quarter note;143;True
+27;A3;quarter note;143;True
+27;B4;quarter note;143;True
 27;E2;eighth note;144;True
 27;C3;eighth note;144;True
 27;G3;eighth note;144;True
-27;A5;eighth note;144;True
+27;A4;eighth note;144;True
 27;E2;quarter note;145;True
 27;D3;quarter note;145;True
-27;A4;quarter note;145;True
-27;B5;quarter note;145;True
+27;A3;quarter note;145;True
+27;B4;quarter note;145;True
 28;E2;quarter note;146;True
-28;B3;quarter note;146;True
+28;B2;quarter note;146;True
 28;F3;quarter note;146;True
 28;G#3;quarter note;146;True
 28;D4;quarter note;146;True
 28;E2;eighth note;147;True
-28;B3;eighth note;147;True
+28;B2;eighth note;147;True
 28;F3;eighth note;147;True
 28;G#3;eighth note;147;True
 28;D4;eighth note;147;True
 28;E2;quarter note;148;True
-28;B3;quarter note;148;True
+28;B2;quarter note;148;True
 28;F3;quarter note;148;True
 28;G#3;quarter note;148;True
 28;D4;quarter note;148;True
 28;E2;eighth note;149;True
-28;B3;eighth note;149;True
+28;B2;eighth note;149;True
 28;F3;eighth note;149;True
 28;G#3;eighth note;149;True
 28;E4;eighth note;149;True
 28;E2;eighth note;150;True
-28;B3;eighth note;150;True
+28;B2;eighth note;150;True
 28;F3;eighth note;150;True
 28;G#3;eighth note;150;True
 28;E4;eighth note;150;True
 28;E2;eighth note;151;True
-28;B3;eighth note;151;True
+28;B2;eighth note;151;True
 28;F3;eighth note;151;True
 28;G#3;eighth note;151;True
 28;E4;eighth note;151;True
 29;E2;eighth note;152;True
-29;B3;eighth note;152;True
+29;B2;eighth note;152;True
 29;F3;eighth note;152;True
 29;G#3;eighth note;152;True
 29;E4;eighth note;152;True
 29;E2;half note;153;True
 29;E3;half note;153;True
-29;B4;half note;153;True
+29;B3;half note;153;True
 29;C5;half note;153;True
 29;E2;dotted quarter note;154;True
 29;E3;dotted quarter note;154;True
-29;B4;dotted quarter note;154;True
+29;B3;dotted quarter note;154;True
 29;C5;dotted quarter note;154;True
 30;E2;quarter note;155;True
 30;D3;quarter note;155;True
-30;A4;quarter note;155;True
-30;B5;quarter note;155;True
+30;A3;quarter note;155;True
+30;B4;quarter note;155;True
 30;E2;eighth note;156;True
 30;D3;eighth note;156;True
-30;A4;eighth note;156;True
-30;B5;eighth note;156;True
+30;A3;eighth note;156;True
+30;B4;eighth note;156;True
 30;E2;quarter note;157;True
 30;D3;quarter note;157;True
-30;A4;quarter note;157;True
-30;B5;quarter note;157;True
+30;A3;quarter note;157;True
+30;B4;quarter note;157;True
 30;E2;eighth note;158;True
 30;D3;eighth note;158;True
-30;A4;eighth note;158;True
-30;B5;eighth note;158;True
+30;A3;eighth note;158;True
+30;B4;eighth note;158;True
 30;E2;eighth note;159;True
 30;D3;eighth note;159;True
-30;A4;eighth note;159;True
-30;B5;eighth note;159;True
+30;A3;eighth note;159;True
+30;B4;eighth note;159;True
 30;E2;eighth note;160;True
 30;D3;eighth note;160;True
-30;A4;eighth note;160;True
-30;B5;eighth note;160;True
+30;A3;eighth note;160;True
+30;B4;eighth note;160;True
 31;E2;eighth note;161;True
 31;D3;eighth note;161;True
-31;A4;eighth note;161;True
-31;B5;eighth note;161;True
+31;A3;eighth note;161;True
+31;B4;eighth note;161;True
 31;E2;quarter note;162;True
 31;C3;quarter note;162;True
 31;G3;quarter note;162;True
-31;A5;quarter note;162;True
+31;A4;quarter note;162;True
 31;E2;quarter note;163;True
 31;D3;quarter note;163;True
-31;A4;quarter note;163;True
-31;B5;quarter note;163;True
+31;A3;quarter note;163;True
+31;B4;quarter note;163;True
 31;E2;eighth note;164;True
 31;C3;eighth note;164;True
 31;G3;eighth note;164;True
-31;A5;eighth note;164;True
+31;A4;eighth note;164;True
 31;E2;quarter note;165;True
 31;D3;quarter note;165;True
-31;A4;quarter note;165;True
-31;B5;quarter note;165;True
-32;E2;5-times eighth note;166;True
-32;B3;5-times eighth note;166;True
-32;E3;5-times eighth note;166;True
-32;G3;5-times eighth note;166;True
-32;B4;5-times eighth note;166;True
-32;E4;5-times eighth note;166;True
-32;Pause;quarter note;168;False
-32;Pause;quarter note;169;False
-32;Pause;quarter note;170;False
-32;Pause;quarter note;171;False
-32;Pause;quarter note;172;False
-32;B3;eighth note;168;False
-32;E3;eighth note;169;False
-32;G3;unknown;170;False
-32;B4;unknown;171;False
-32;E4;unknown;172;False
-32;E2;unknown;167;False
+31;A3;quarter note;165;True
+31;B4;quarter note;165;True
+32;E2;5 eighth note;166;True
+32;B2;5 eighth note;166;True
+32;E3;5 eighth note;166;True
+32;G3;5 eighth note;166;True
+32;B3;5 eighth note;166;True
+32;E4;5 eighth note;166;True
+32;Pause;double dotted thirty-second note;168;False
+32;Pause;double dotted thirty-second note;169;False
+32;Pause;double dotted thirty-second note;170;False
+32;Pause;double dotted thirty-second note;171;False
+32;Pause;double dotted thirty-second note;172;False
+32;B2;eighth note;168;True
+32;E3;eighth note;169;True
+32;G3;eighth note;170;True
+32;B3;eighth note;171;True
+32;E4;eighth note;172;True
+32;E2;unknown;167;True

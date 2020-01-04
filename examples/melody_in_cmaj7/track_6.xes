@@ -5,7 +5,7 @@
     <int key="concept:name" value="1"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="23-times whole note"/>
+      <string key="org:type" value="whole note"/>
       <int key="org:order" value="1"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
@@ -13,30 +13,18 @@
   <trace>
     <int key="concept:name" value="2"/>
     <event>
-      <string key="concept:name" value="E5"/>
-      <string key="org:type" value="dotted quarter note"/>
-      <int key="org:order" value="1"/>
-      <boolean key="org:is_chord" value="False"/>
-    </event>
-    <event>
-      <string key="concept:name" value="D5"/>
-      <string key="org:type" value="dotted quarter note"/>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
       <int key="org:order" value="2"/>
-      <boolean key="org:is_chord" value="False"/>
-    </event>
-    <event>
-      <string key="concept:name" value="C5"/>
-      <string key="org:type" value="quarter note"/>
-      <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
   <trace>
     <int key="concept:name" value="3"/>
     <event>
-      <string key="concept:name" value="B5"/>
+      <string key="concept:name" value="Pause"/>
       <string key="org:type" value="whole note"/>
-      <int key="org:order" value="4"/>
+      <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
@@ -44,38 +32,26 @@
     <int key="concept:name" value="4"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="4-times dotted whole note"/>
-      <int key="org:order" value="5"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="4"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
   <trace>
     <int key="concept:name" value="5"/>
     <event>
-      <string key="concept:name" value="E5"/>
-      <string key="org:type" value="dotted quarter note"/>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
       <int key="org:order" value="5"/>
-      <boolean key="org:is_chord" value="False"/>
-    </event>
-    <event>
-      <string key="concept:name" value="D5"/>
-      <string key="org:type" value="dotted quarter note"/>
-      <int key="org:order" value="6"/>
-      <boolean key="org:is_chord" value="False"/>
-    </event>
-    <event>
-      <string key="concept:name" value="C5"/>
-      <string key="org:type" value="quarter note"/>
-      <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
   <trace>
     <int key="concept:name" value="6"/>
     <event>
-      <string key="concept:name" value="B5"/>
+      <string key="concept:name" value="Pause"/>
       <string key="org:type" value="whole note"/>
-      <int key="org:order" value="8"/>
+      <int key="org:order" value="6"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
@@ -83,38 +59,350 @@
     <int key="concept:name" value="7"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="4-times dotted whole note"/>
-      <int key="org:order" value="9"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
   <trace>
     <int key="concept:name" value="8"/>
     <event>
-      <string key="concept:name" value="E5"/>
-      <string key="org:type" value="dotted quarter note"/>
-      <int key="org:order" value="9"/>
-      <boolean key="org:is_chord" value="False"/>
-    </event>
-    <event>
-      <string key="concept:name" value="D5"/>
-      <string key="org:type" value="dotted quarter note"/>
-      <int key="org:order" value="10"/>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="8"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
   <trace>
     <int key="concept:name" value="9"/>
     <event>
-      <string key="concept:name" value="C5"/>
-      <string key="org:type" value="quarter note"/>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="9"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="10"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="10"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="11"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
       <int key="org:order" value="11"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="12"/>
     <event>
-      <string key="concept:name" value="B5"/>
+      <string key="concept:name" value="Pause"/>
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="12"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="13"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="13"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="14"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="14"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="15"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="15"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="16"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="16"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="17"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="17"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="18"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="18"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="19"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="19"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="20"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="20"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="21"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="21"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="22"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="22"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="23"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="23"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="24"/>
+    <event>
+      <string key="concept:name" value="E5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="24"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="25"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C5"/>
+      <string key="org:type" value="quarter note"/>
+      <int key="org:order" value="26"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="25"/>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="27"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="26"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="28"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="27"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="29"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="28"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="30"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="29"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="31"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="30"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="32"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="31"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="33"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="32"/>
+    <event>
+      <string key="concept:name" value="E5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="34"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="35"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C5"/>
+      <string key="org:type" value="quarter note"/>
+      <int key="org:order" value="36"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="33"/>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="37"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="34"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="38"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="35"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="39"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="36"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="40"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="37"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="41"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="38"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="42"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="39"/>
+    <event>
+      <string key="concept:name" value="Pause"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="43"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="40"/>
+    <event>
+      <string key="concept:name" value="E5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="44"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="D5"/>
+      <string key="org:type" value="dotted quarter note"/>
+      <int key="org:order" value="45"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+    <event>
+      <string key="concept:name" value="C5"/>
+      <string key="org:type" value="quarter note"/>
+      <int key="org:order" value="46"/>
+      <boolean key="org:is_chord" value="False"/>
+    </event>
+  </trace>
+  <trace>
+    <int key="concept:name" value="41"/>
+    <event>
+      <string key="concept:name" value="B4"/>
+      <string key="org:type" value="whole note"/>
+      <int key="org:order" value="47"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
   </trace>
