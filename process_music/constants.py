@@ -15,9 +15,41 @@ NOTES = [
     NOTE_QUARTER,
     NOTE_EIGHTH,
     NOTE_SIXTEENTH,
-    NOTE_THIRTY_SECOND,
-    # NOTE_SIXTY_FOURTH,
-    # NOTE_A_HUNDRED_AND_TWENTY_EIGHTH_NOTE
+    NOTE_THIRTY_SECOND
+]
+
+PITCH_C         = "C"
+PITCH_C_SHARP   = "C#"
+PITCH_D_FLAT    = "Db"
+PITCH_D         = "D"
+PITCH_D_SHARP   = "D#"
+PITCH_E_FLAT    = "Eb"
+PITCH_E         = "E"
+PITCH_F_FLAT    = "Fb"
+PITCH_F         = "F"
+PITCH_F_SHARP   = "F#"
+PITCH_G_FLAT    = "Gb"
+PITCH_G         = "G"
+PITCH_G_SHARP   = "G#"
+PITCH_A_FLAT    = "Ab"
+PITCH_A         = "A"
+PITCH_A_SHARP   = "A#"
+PITCH_B_FLAT    = "Bb"
+PITCH_B         = "B"
+
+PITCHES = [
+    PITCH_C,
+    PITCH_C_SHARP,
+    PITCH_D,
+    PITCH_D_SHARP,
+    PITCH_E,
+    PITCH_F,
+    PITCH_F_SHARP,
+    PITCH_G,
+    PITCH_G_SHARP,
+    PITCH_A,
+    PITCH_A_SHARP,
+    PITCH_B
 ]
 
 def calculate_ratios(base_ratio, deviation, notes):

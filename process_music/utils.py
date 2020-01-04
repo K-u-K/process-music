@@ -23,7 +23,7 @@ def _get_note_type(ticks, ticks_per_beat, note_types):
         # adjust tick ratio 
         if i > constants.MAX_ATTEMPTS_ADAPTATION:
             if adapted == True:
-                print("could not adapt ratio correctly")
+                print(f"could not adapt ratio correctly for ratio {ratio}")
                 sys.exit(1)
 
             bounds    = list(note_types.values())
@@ -55,11 +55,10 @@ def get_note_type_pause(ticks, ticks_per_beat):
     return _get_note_type(ticks, ticks_per_beat, note_types)
 
 def get_key(note):
-    notes   = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
-    name    = notes[note % 12]
-
     # int implicitely floors the value
+    name    = constants.PITCHES[note % 12]
     octave  = int(note / 12) - 1
+    
     return f"{name}{octave}"
 
 def get_time_signature_ticks(time_signature, ticks_per_beat, measures):
