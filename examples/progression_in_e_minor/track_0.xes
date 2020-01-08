@@ -2624,31 +2624,31 @@
     <int key="concept:name" value="32"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="168"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="169"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="170"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="171"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="172"/>
       <boolean key="org:is_chord" value="False"/>
     </event>

@@ -2132,49 +2132,49 @@
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="169"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="170"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="171"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted thirty-second note"/>
+      <string key="org:type" value="dotted thirty-second note"/>
       <int key="org:order" value="172"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
-      <string key="org:type" value="dotted eighth note"/>
+      <string key="org:type" value="triplet half note"/>
       <int key="org:order" value="169"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
-      <string key="org:type" value="dotted eighth note"/>
+      <string key="org:type" value="triplet half note"/>
       <int key="org:order" value="170"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
       <string key="concept:name" value="G4"/>
-      <string key="org:type" value="dotted eighth note"/>
+      <string key="org:type" value="triplet half note"/>
       <int key="org:order" value="171"/>
       <boolean key="org:is_chord" value="True"/>
     </event>
     <event>
       <string key="concept:name" value="B4"/>
-      <string key="org:type" value="dotted eighth note"/>
+      <string key="org:type" value="triplet half note"/>
       <int key="org:order" value="172"/>
       <boolean key="org:is_chord" value="True"/>
     </event>

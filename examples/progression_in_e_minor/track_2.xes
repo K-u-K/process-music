@@ -41,7 +41,7 @@
     <int key="concept:name" value="3"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted sixteenth note"/>
+      <string key="org:type" value="dotted sixteenth note"/>
       <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
@@ -77,13 +77,10 @@
     <int key="concept:name" value="5"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted sixteenth note"/>
+      <string key="org:type" value="dotted sixteenth note"/>
       <int key="org:order" value="5"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="6"/>
     <event>
       <string key="concept:name" value="G1"/>
       <string key="org:type" value="double dotted whole note"/>
@@ -110,16 +107,13 @@
     </event>
   </trace>
   <trace>
-    <int key="concept:name" value="7"/>
+    <int key="concept:name" value="6"/>
     <event>
       <string key="concept:name" value="Pause"/>
-      <string key="org:type" value="double dotted sixteenth note"/>
+      <string key="org:type" value="dotted sixteenth note"/>
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
     </event>
-  </trace>
-  <trace>
-    <int key="concept:name" value="8"/>
     <event>
       <string key="concept:name" value="D#1"/>
       <string key="org:type" value="whole note"/>

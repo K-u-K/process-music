@@ -29,10 +29,13 @@ import os
 import sys
 
 # TODO: code documentation
-# TODO: dynamic deviation adaptation in ratio / upper / lower bound
 # TODO: create man page <3
 # TODO: chord & interval names instead of an own entry for each note in a chord
 # TODO: implement triplets, quintuplets, etc.
+# TODO: footprint matrix
+# TODO: add actual time column
+# TODO: fill up missing chords with pauses in other tracks
+# TODO: option for measure option to consider everything as one case
 # TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
 #       how should it be implemented in the log 
 

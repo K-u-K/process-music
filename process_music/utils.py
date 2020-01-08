@@ -30,11 +30,15 @@ def _get_note_type(ticks, ticks_per_beat, note_types):
             old_ticks = ticks
             old_ratio = ratio 
 
+            middles = []
             for bound in bounds:
                 middle = (bound[0] + bound[1]) / 2
                 if middle * 0.9 <= ratio <= middle * 1.1:
-                    ticks = ticks_per_beat * middle
-                    ratio = ticks / ticks_per_beat
+                    middles.append(middle)
+            if len(middles) > 0:
+                minimum_difference = np.argmin(np.abs(np.array(middles) - ratio))
+                ticks              = ticks_per_beat * middles[minimum_difference]
+                ratio              = ticks / ticks_per_beat
 
             if __debug__:
                 print(f"adapt tick-ratio [old, new] \t tracks [{old_ratio}, {ratio}] \t ticks [{old_ticks}, {ticks}]")

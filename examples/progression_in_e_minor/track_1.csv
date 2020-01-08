@@ -338,12 +338,12 @@ Case_ID;Event;Type;Order;Is_Chord
 31;G4;19 thirty-second note;166;True
 31;B4;19 thirty-second note;166;True
 32;Pause;thirty-second note;167;False
-32;Pause;double dotted thirty-second note;169;False
-32;Pause;double dotted thirty-second note;170;False
-32;Pause;double dotted thirty-second note;171;False
-32;Pause;double dotted thirty-second note;172;False
-32;B3;dotted eighth note;169;True
-32;E4;dotted eighth note;170;True
-32;G4;dotted eighth note;171;True
-32;B4;dotted eighth note;172;True
+32;Pause;dotted thirty-second note;169;False
+32;Pause;dotted thirty-second note;170;False
+32;Pause;dotted thirty-second note;171;False
+32;Pause;dotted thirty-second note;172;False
+32;B3;triplet half note;169;True
+32;E4;triplet half note;170;True
+32;G4;triplet half note;171;True
+32;B4;triplet half note;172;True
 32;E3;unknown;168;True

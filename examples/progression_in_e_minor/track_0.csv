@@ -420,11 +420,11 @@ Case_ID;Event;Type;Order;Is_Chord
 31;G3;5 eighth note;166;True
 31;B3;5 eighth note;166;True
 31;E4;5 eighth note;166;True
-32;Pause;double dotted thirty-second note;168;False
-32;Pause;double dotted thirty-second note;169;False
-32;Pause;double dotted thirty-second note;170;False
-32;Pause;double dotted thirty-second note;171;False
-32;Pause;double dotted thirty-second note;172;False
+32;Pause;dotted thirty-second note;168;False
+32;Pause;dotted thirty-second note;169;False
+32;Pause;dotted thirty-second note;170;False
+32;Pause;dotted thirty-second note;171;False
+32;Pause;dotted thirty-second note;172;False
 32;B2;eighth note;168;True
 32;E3;eighth note;169;True
 32;G3;eighth note;170;True

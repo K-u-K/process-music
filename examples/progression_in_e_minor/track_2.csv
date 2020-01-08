@@ -4,18 +4,18 @@ Case_ID;Event;Type;Order;Is_Chord
 2;E2;double dotted whole note;2;True
 2;B2;double dotted whole note;2;True
 2;E3;double dotted whole note;2;True
-3;Pause;double dotted sixteenth note;3;False
+3;Pause;dotted sixteenth note;3;False
 4;F#1;double dotted whole note;4;True
 4;F#2;double dotted whole note;4;True
 4;C3;double dotted whole note;4;True
 4;F#3;double dotted whole note;4;True
-5;Pause;double dotted sixteenth note;5;False
-6;G1;double dotted whole note;6;True
-6;G2;double dotted whole note;6;True
-6;D3;double dotted whole note;6;True
-6;G3;double dotted whole note;6;True
-7;Pause;double dotted sixteenth note;7;False
-8;D#1;whole note;8;True
-8;D#2;whole note;8;True
-8;A2;whole note;8;True
-8;D#3;whole note;8;True
+5;Pause;dotted sixteenth note;5;False
+5;G1;double dotted whole note;6;True
+5;G2;double dotted whole note;6;True
+5;D3;double dotted whole note;6;True
+5;G3;double dotted whole note;6;True
+6;Pause;dotted sixteenth note;7;False
+6;D#1;whole note;8;True
+6;D#2;whole note;8;True
+6;A2;whole note;8;True
+6;D#3;whole note;8;True
