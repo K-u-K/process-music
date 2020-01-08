@@ -10,9 +10,9 @@ Usage:
 Options:
     -h --help               Show help.
     -v --version            Show version information.
-    --measures MEASURES     The number of measures you want to define for a case [default: 1].
+    --measures MEASURES     The number of measures you want to define for a case. Zero defines everything as trace / case [default: 1].
     --output_dir OUTPUT_DIR The output directory where the final XES logs of each track are stored [default: pm_tracks].
-    --tracks TRACKS....     The tracks [default: -1]
+    --tracks TRACKS....     Which tracks to consider. Multiple values possible. A negative value of -1 takes all [default: -1]
 
 Copyright:
     (c) by K-u-K (imperial Keller Patrick & royal Kocaj Alen) 2020
@@ -22,6 +22,7 @@ from schema import Schema, And, Use, Or, SchemaError
 import mido
 
 import constants
+import footprint
 import utils
 import xes
 
@@ -31,11 +32,9 @@ import sys
 # TODO: code documentation
 # TODO: create man page <3
 # TODO: chord & interval names instead of an own entry for each note in a chord
-# TODO: implement triplets, quintuplets, etc.
-# TODO: footprint matrix
+# TODO: consider special rhythm structures, quintuplets, septuplets, etc.
 # TODO: add actual time column
 # TODO: fill up missing chords with pauses in other tracks
-# TODO: option for measure option to consider everything as one case
 # TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
 #       how should it be implemented in the log 
 
@@ -58,6 +57,9 @@ def main(args):
     if max(tracks) >= len(mid.tracks):
         print("Highest tracks does not exist in MIDI file")
         sys.exit(1) 
+
+    if measures == 0:
+        measures = sys.maxsize
 
     for i in tracks:
         track = mid.tracks[i]
@@ -204,14 +206,26 @@ def main(args):
         # export to XES
         xes.export_to_xes(output)
 
+        # generate and store footprint matrix
+        footprint_matrix = footprint.calculate_footprint_matrix(output)
+        footprint_path   = f"{output_dir}/footprint_matrix_{i}.txt"
+        with open(footprint_path, "w") as fh:
+            fh.write(footprint_matrix.to_string())
+
+        if __debug__:
+            print(footprint_matrix)
+
     print(f"Midi file '{filename}' processed. Track logfiles and event streams generated in directory '{output_dir}'")
 
 if __name__ == '__main__':
     args   = docopt(__doc__, version="0.2.0")
     schema = Schema({
         "MIDI_FILE":  And(os.path.exists, error="MIDI_FILE should exist"),
-        "--measures": And(Use(int), lambda x: int(x) > 0, error="Measure should be a positive non-zero number"),
-        "--tracks": And(Use(lambda x: [*map(lambda a: int(a), x)]), lambda x: sum(x) >= -1, error="Tracks to examine should be a positive number or all by using -1"),
+        "--measures": And(Use(int), lambda x: int(x) >= 0 , error="Measure should be a positive non-zero number"),
+        "--tracks": And(Use(
+            lambda x: [*map(lambda a: int(a), x)]), 
+            lambda x: (len(x) == 1 and -1 in x) or (sum(x) >= -1 and -1 not in x), 
+            error="Tracks to examine should be a list of positive numbers or all by using -1"),
         "--output_dir": Or(None, str),
         "--version": bool,
         "--help": bool
