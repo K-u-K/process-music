@@ -8,6 +8,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="1"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -17,6 +18,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="2"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:02.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -26,6 +28,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:04.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -35,6 +38,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="4"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:06.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -44,6 +48,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="5"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:08.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -53,6 +58,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="6"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -62,6 +68,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:12.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -71,6 +78,7 @@
       <string key="org:type" value="whole note"/>
       <int key="org:order" value="8"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.000+00:00"/>
     </event>
   </trace>
   <trace>
@@ -80,18 +88,21 @@
       <string key="org:type" value="dotted half note"/>
       <int key="org:order" value="9"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:15.500+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="10"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:15.750+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="3 dotted quarter note"/>
       <int key="org:order" value="11"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:18.000+00:00"/>
     </event>
   </trace>
 </log>

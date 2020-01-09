@@ -28,12 +28,14 @@ import xes
 
 import os
 import sys
+import datetime
 
 # TODO: code documentation
 # TODO: create man page <3
 # TODO: chord & interval names instead of an own entry for each note in a chord
 # TODO: consider special rhythm structures, quintuplets, septuplets, etc.
-# TODO: add actual time column
+# TODO: make timestamp column more accurate
+# TODO: put fixed strings into constants + refactor code (a lot). Convert to Class instead of main py
 # TODO: fill up missing chords with pauses in other tracks
 # TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
 #       how should it be implemented in the log 
@@ -85,6 +87,10 @@ def main(args):
         ticks       = 0
         is_first    = True
 
+        # define start datetime, assume default tempo is 500000us
+        now   = datetime.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+        tempo = 500000
+
         # assume default time signature is 4/4
         # threshold defines the number of ticks for each case
         threshold = utils.get_default_time_signature_ticks(mid.ticks_per_beat, measures)
@@ -92,16 +98,23 @@ def main(args):
         # analyse meta tracks in terms of time_signature / set_tempo
         if all([msg.is_meta for msg in track]):
             time_signatures = [*filter(lambda msg: msg.type == "time_signature", track)]
+            set_tempos      = [*filter(lambda msg: msg.type == "set_tempo", track)]
 
-            # multiple time_signatures in a meta track are uncommon but technically possible (take the last ticks)
+            # multiple time_signatures and set_tempo events in a meta track are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
                 threshold = utils.get_time_signature_ticks(time_signature, mid.ticks_per_beat, measures)
+            for set_tempo in set_tempos:
+                tempo = set_tempo.tempo
+
             continue
 
         # process main tracks
         for msg in track:
             if msg.type == "time_signature":
                 threshold = utils.get_time_signature_ticks(msg, mid.ticks_per_beat, measures)
+
+            if msg.type == "set_tempo":
+                tempo = msg.tempo
 
             if msg.type not in ['note_on', 'note_off']:
                 continue
@@ -117,13 +130,17 @@ def main(args):
                 if note_type != "unknown":
                     msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
                         
-                    for _ in range(times):    
+                    for _ in range(times):
+                        if len(results) > 0:                        
+                            now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(msg.time, mid.ticks_per_beat, tempo)))
+
                         results.append({
                             "case":     case_number,
                             "key":      "Pause",
                             "type":     note_type,
                             "order":    order,
                             "is_chord": False,
+                            "time":     now.isoformat()
                         })
                         order = order + 1
                         ticks = ticks + msg.time
@@ -141,8 +158,9 @@ def main(args):
                 ticks       = ticks % threshold
 
             if msg.velocity == 0 or msg.type == 'note_off':
-                key  = utils.get_key(msg.note)
-                time = msg.time
+                key         = utils.get_key(msg.note)
+                time        = msg.time
+                update_now  = False
 
                 if state[key]["is_chord"]:
                     if time == 0:
@@ -152,12 +170,21 @@ def main(args):
                             "key": key,
                             "msg": msg
                         }
+                        update_now = True
                 else:
                     if time == 0:
                         time = prev_note_off["msg"].time
+                    else:
+                        update_now = True
                 
                 times, note_type   = utils.get_note_type(time, mid.ticks_per_beat)
                 state[key]["type"] = (f"{times} " if times > 1 else "") + note_type
+
+                if update_now and len(results) > 0 and note_type != "unknown":
+                    t   = mid.ticks_per_beat * times * ((constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2)
+                    now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(t, mid.ticks_per_beat, tempo)))
+
+                state[key]["time"] = now.isoformat()
                 results.append(state[key])
 
                 prev_note_on  = default()
@@ -182,6 +209,7 @@ def main(args):
                 "type":     "",
                 "order":    order,
                 "is_chord": is_chord,
+                "time":     ""
             }
 
             prev_note_on = {
@@ -193,14 +221,15 @@ def main(args):
 
         output = f"{output_dir}/track_{i}.csv"
         with open(output, "w") as fh:
-            fh.write("Case_ID;Event;Type;Order;Is_Chord\n")
+            fh.write("Case_ID;Event;Type;Order;Is_Chord;Timestamp\n")
             for result in results:
-                fh.write("{};{};{};{};{}\n".format(
+                fh.write("{};{};{};{};{};{}\n".format(
                     result["case"],
                     result["key"],
                     result["type"],
                     result["order"],
-                    result["is_chord"]
+                    result["is_chord"],
+                    result["time"]
                 ))
         
         # export to XES

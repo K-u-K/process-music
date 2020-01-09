@@ -1,246 +1,246 @@
-Case_ID;Event;Type;Order;Is_Chord
-1;C3;quarter note;1;False
-1;B3;eighth note;2;False
-1;E4;quarter note;3;False
-1;C3;eighth note;4;False
-1;B3;eighth note;5;False
-1;E4;eighth note;6;False
-2;C3;quarter note;7;False
-2;B3;eighth note;8;False
-2;E4;quarter note;9;False
-2;B3;eighth note;10;False
-2;C3;quarter note;11;False
-3;B2;quarter note;12;False
-3;A3;eighth note;13;False
-3;D4;quarter note;14;False
-3;B2;eighth note;15;False
-3;A3;eighth note;16;False
-3;D4;eighth note;17;False
-4;B2;quarter note;18;False
-4;A3;eighth note;19;False
-4;D4;quarter note;20;False
-4;A3;eighth note;21;False
-4;B2;quarter note;22;False
-5;A2;quarter note;23;False
-5;G3;eighth note;24;False
-5;C4;quarter note;25;False
-5;A2;eighth note;26;False
-5;G3;eighth note;27;False
-5;C4;eighth note;28;False
-6;A2;quarter note;29;False
-6;G3;eighth note;30;False
-6;C4;quarter note;31;False
-6;G3;eighth note;32;False
-6;A2;quarter note;33;False
-7;G2;quarter note;34;False
-7;F#3;eighth note;35;False
-7;B3;quarter note;36;False
-7;G2;eighth note;37;False
-7;F#3;quarter note;38;False
-8;G2;dotted quarter note;39;True
-8;F#3;dotted quarter note;39;True
-8;B3;dotted quarter note;39;True
-8;A2;dotted quarter note;40;True
-8;G3;dotted quarter note;40;True
-8;C4;dotted quarter note;40;True
-8;B2;quarter note;41;True
-8;A3;quarter note;41;True
-8;D4;quarter note;41;True
-9;C3;quarter note;42;False
-9;B3;eighth note;43;False
-9;E4;quarter note;44;False
-9;C3;eighth note;45;False
-9;B3;eighth note;46;False
-9;E4;eighth note;47;False
-10;C3;quarter note;48;False
-10;B3;eighth note;49;False
-10;E4;quarter note;50;False
-10;B3;eighth note;51;False
-10;C3;quarter note;52;False
-11;B2;quarter note;53;False
-11;A3;eighth note;54;False
-11;D4;quarter note;55;False
-11;B2;eighth note;56;False
-11;A3;eighth note;57;False
-11;D4;eighth note;58;False
-12;B2;quarter note;59;False
-12;A3;eighth note;60;False
-12;D4;quarter note;61;False
-12;A3;eighth note;62;False
-12;B2;quarter note;63;False
-13;A2;quarter note;64;False
-13;G3;eighth note;65;False
-13;C4;quarter note;66;False
-13;A2;eighth note;67;False
-13;G3;eighth note;68;False
-13;C4;eighth note;69;False
-14;A2;quarter note;70;False
-14;G3;eighth note;71;False
-14;C4;quarter note;72;False
-14;G3;eighth note;73;False
-14;A2;quarter note;74;False
-15;G2;quarter note;75;False
-15;F#3;eighth note;76;False
-15;B3;quarter note;77;False
-15;G2;eighth note;78;False
-15;F#3;quarter note;79;False
-16;G2;dotted quarter note;80;True
-16;F#3;dotted quarter note;80;True
-16;B3;dotted quarter note;80;True
-16;A2;dotted quarter note;81;True
-16;G3;dotted quarter note;81;True
-16;C4;dotted quarter note;81;True
-16;B2;quarter note;82;True
-16;A3;quarter note;82;True
-16;D4;quarter note;82;True
-17;C3;quarter note;83;False
-17;B3;eighth note;84;False
-17;E4;quarter note;85;False
-17;C3;eighth note;86;False
-17;B3;eighth note;87;False
-17;E4;eighth note;88;False
-18;C3;quarter note;89;False
-18;B3;eighth note;90;False
-18;A4;quarter note;91;False
-18;E4;eighth note;92;False
-18;B3;quarter note;93;False
-19;B2;quarter note;94;False
-19;A3;eighth note;95;False
-19;D4;quarter note;96;False
-19;B2;eighth note;97;False
-19;A3;eighth note;98;False
-19;D4;eighth note;99;False
-20;B2;quarter note;100;False
-20;A3;eighth note;101;False
-20;G4;quarter note;102;False
-20;D4;eighth note;103;False
-20;A3;quarter note;104;False
-21;A2;quarter note;105;False
-21;G3;eighth note;106;False
-21;C4;quarter note;107;False
-21;A2;eighth note;108;False
-21;G3;eighth note;109;False
-21;C4;eighth note;110;False
-22;A2;quarter note;111;False
-22;G3;eighth note;112;False
-22;F#4;quarter note;113;False
-22;C4;eighth note;114;False
-22;G3;quarter note;115;False
-23;G2;quarter note;116;False
-23;F#3;eighth note;117;False
-23;G2;dotted quarter note;118;True
-23;F#3;dotted quarter note;118;True
-23;B3;dotted quarter note;118;True
-23;E4;dotted quarter note;118;True
-23;G2;quarter note;119;True
-23;F#3;quarter note;119;True
-23;B3;quarter note;119;True
-23;E4;quarter note;119;True
-24;G2;dotted quarter note;120;True
-24;F#3;dotted quarter note;120;True
-24;B3;dotted quarter note;120;True
-24;A2;dotted quarter note;121;True
-24;G3;dotted quarter note;121;True
-24;C4;dotted quarter note;121;True
-24;B2;quarter note;122;True
-24;A3;quarter note;122;True
-24;D4;quarter note;122;True
-25;C3;quarter note;123;False
-25;B3;eighth note;124;False
-25;E4;quarter note;125;False
-25;C3;eighth note;126;False
-25;B3;eighth note;127;False
-25;E4;eighth note;128;False
-26;C3;quarter note;129;False
-26;B3;eighth note;130;False
-26;E4;quarter note;131;False
-26;B3;eighth note;132;False
-26;C3;quarter note;133;False
-27;B2;quarter note;134;False
-27;A3;eighth note;135;False
-27;D4;quarter note;136;False
-27;B2;eighth note;137;False
-27;A3;eighth note;138;False
-27;D4;eighth note;139;False
-28;B2;quarter note;140;False
-28;A3;eighth note;141;False
-28;D4;quarter note;142;False
-28;A3;eighth note;143;False
-28;B2;quarter note;144;False
-29;A2;quarter note;145;False
-29;G3;eighth note;146;False
-29;C4;quarter note;147;False
-29;A2;eighth note;148;False
-29;G3;eighth note;149;False
-29;C4;eighth note;150;False
-30;A2;quarter note;151;False
-30;G3;eighth note;152;False
-30;C4;quarter note;153;False
-30;G3;eighth note;154;False
-30;A2;quarter note;155;False
-31;G2;quarter note;156;False
-31;F#3;eighth note;157;False
-31;B3;quarter note;158;False
-31;G2;eighth note;159;False
-31;F#3;quarter note;160;False
-32;G2;dotted quarter note;161;True
-32;F#3;dotted quarter note;161;True
-32;B3;dotted quarter note;161;True
-32;A2;dotted quarter note;162;True
-32;G3;dotted quarter note;162;True
-32;C4;dotted quarter note;162;True
-32;B2;quarter note;163;True
-32;A3;quarter note;163;True
-32;D4;quarter note;163;True
-33;C3;quarter note;164;False
-33;B3;eighth note;165;False
-33;E4;quarter note;166;False
-33;C3;eighth note;167;False
-33;B3;eighth note;168;False
-33;E4;eighth note;169;False
-34;C3;quarter note;170;False
-34;B3;eighth note;171;False
-34;A4;quarter note;172;False
-34;E4;eighth note;173;False
-34;B3;quarter note;174;False
-35;B2;quarter note;175;False
-35;A3;eighth note;176;False
-35;D4;quarter note;177;False
-35;B2;eighth note;178;False
-35;A3;eighth note;179;False
-35;D4;eighth note;180;False
-36;B2;quarter note;181;False
-36;A3;eighth note;182;False
-36;G4;quarter note;183;False
-36;D4;eighth note;184;False
-36;A3;quarter note;185;False
-37;A2;quarter note;186;False
-37;G3;eighth note;187;False
-37;C4;quarter note;188;False
-37;A2;eighth note;189;False
-37;G3;eighth note;190;False
-37;C4;eighth note;191;False
-38;A2;quarter note;192;False
-38;G3;eighth note;193;False
-38;F#4;quarter note;194;False
-38;C4;eighth note;195;False
-38;G3;quarter note;196;False
-39;G2;quarter note;197;False
-39;F#3;eighth note;198;False
-39;G2;dotted quarter note;199;True
-39;F#3;dotted quarter note;199;True
-39;B3;dotted quarter note;199;True
-39;E4;dotted quarter note;199;True
-39;G2;quarter note;200;True
-39;F#3;quarter note;200;True
-39;B3;quarter note;200;True
-39;E4;quarter note;200;True
-40;G2;dotted quarter note;201;True
-40;F#3;dotted quarter note;201;True
-40;B3;dotted quarter note;201;True
-40;A2;dotted quarter note;202;True
-40;G3;dotted quarter note;202;True
-40;C4;dotted quarter note;202;True
-40;B2;quarter note;203;True
-40;A3;quarter note;203;True
-40;D4;quarter note;203;True
+Case_ID;Event;Type;Order;Is_Chord;Timestamp
+1;C3;quarter note;1;False;2020-01-09T00:00:00
+1;B3;eighth note;2;False;2020-01-09T00:00:00.176470
+1;E4;quarter note;3;False;2020-01-09T00:00:00.529411
+1;C3;eighth note;4;False;2020-01-09T00:00:00.705881
+1;B3;eighth note;5;False;2020-01-09T00:00:00.882351
+1;E4;eighth note;6;False;2020-01-09T00:00:01.058821
+2;C3;quarter note;7;False;2020-01-09T00:00:01.411762
+2;B3;eighth note;8;False;2020-01-09T00:00:01.588232
+2;E4;quarter note;9;False;2020-01-09T00:00:01.941173
+2;B3;eighth note;10;False;2020-01-09T00:00:02.117643
+2;C3;quarter note;11;False;2020-01-09T00:00:02.470584
+3;B2;quarter note;12;False;2020-01-09T00:00:02.823525
+3;A3;eighth note;13;False;2020-01-09T00:00:02.999995
+3;D4;quarter note;14;False;2020-01-09T00:00:03.352936
+3;B2;eighth note;15;False;2020-01-09T00:00:03.529406
+3;A3;eighth note;16;False;2020-01-09T00:00:03.705876
+3;D4;eighth note;17;False;2020-01-09T00:00:03.882346
+4;B2;quarter note;18;False;2020-01-09T00:00:04.235287
+4;A3;eighth note;19;False;2020-01-09T00:00:04.411757
+4;D4;quarter note;20;False;2020-01-09T00:00:04.764698
+4;A3;eighth note;21;False;2020-01-09T00:00:04.941168
+4;B2;quarter note;22;False;2020-01-09T00:00:05.294109
+5;A2;quarter note;23;False;2020-01-09T00:00:05.647050
+5;G3;eighth note;24;False;2020-01-09T00:00:05.823520
+5;C4;quarter note;25;False;2020-01-09T00:00:06.176461
+5;A2;eighth note;26;False;2020-01-09T00:00:06.352931
+5;G3;eighth note;27;False;2020-01-09T00:00:06.529401
+5;C4;eighth note;28;False;2020-01-09T00:00:06.705871
+6;A2;quarter note;29;False;2020-01-09T00:00:07.058812
+6;G3;eighth note;30;False;2020-01-09T00:00:07.235282
+6;C4;quarter note;31;False;2020-01-09T00:00:07.588223
+6;G3;eighth note;32;False;2020-01-09T00:00:07.764693
+6;A2;quarter note;33;False;2020-01-09T00:00:08.117634
+7;G2;quarter note;34;False;2020-01-09T00:00:08.470575
+7;F#3;eighth note;35;False;2020-01-09T00:00:08.647045
+7;B3;quarter note;36;False;2020-01-09T00:00:08.999986
+7;G2;eighth note;37;False;2020-01-09T00:00:09.176456
+7;F#3;quarter note;38;False;2020-01-09T00:00:09.529397
+8;G2;dotted quarter note;39;True;2020-01-09T00:00:10.058808
+8;F#3;dotted quarter note;39;True;2020-01-09T00:00:10.058808
+8;B3;dotted quarter note;39;True;2020-01-09T00:00:10.058808
+8;A2;dotted quarter note;40;True;2020-01-09T00:00:10.588219
+8;G3;dotted quarter note;40;True;2020-01-09T00:00:10.588219
+8;C4;dotted quarter note;40;True;2020-01-09T00:00:10.588219
+8;B2;quarter note;41;True;2020-01-09T00:00:10.941160
+8;A3;quarter note;41;True;2020-01-09T00:00:10.941160
+8;D4;quarter note;41;True;2020-01-09T00:00:10.941160
+9;C3;quarter note;42;False;2020-01-09T00:00:11.294101
+9;B3;eighth note;43;False;2020-01-09T00:00:11.470571
+9;E4;quarter note;44;False;2020-01-09T00:00:11.823512
+9;C3;eighth note;45;False;2020-01-09T00:00:11.999982
+9;B3;eighth note;46;False;2020-01-09T00:00:12.176452
+9;E4;eighth note;47;False;2020-01-09T00:00:12.352922
+10;C3;quarter note;48;False;2020-01-09T00:00:12.705863
+10;B3;eighth note;49;False;2020-01-09T00:00:12.882333
+10;E4;quarter note;50;False;2020-01-09T00:00:13.235274
+10;B3;eighth note;51;False;2020-01-09T00:00:13.411744
+10;C3;quarter note;52;False;2020-01-09T00:00:13.764685
+11;B2;quarter note;53;False;2020-01-09T00:00:14.117626
+11;A3;eighth note;54;False;2020-01-09T00:00:14.294096
+11;D4;quarter note;55;False;2020-01-09T00:00:14.647037
+11;B2;eighth note;56;False;2020-01-09T00:00:14.823507
+11;A3;eighth note;57;False;2020-01-09T00:00:14.999977
+11;D4;eighth note;58;False;2020-01-09T00:00:15.176447
+12;B2;quarter note;59;False;2020-01-09T00:00:15.529388
+12;A3;eighth note;60;False;2020-01-09T00:00:15.705858
+12;D4;quarter note;61;False;2020-01-09T00:00:16.058799
+12;A3;eighth note;62;False;2020-01-09T00:00:16.235269
+12;B2;quarter note;63;False;2020-01-09T00:00:16.588210
+13;A2;quarter note;64;False;2020-01-09T00:00:16.941151
+13;G3;eighth note;65;False;2020-01-09T00:00:17.117621
+13;C4;quarter note;66;False;2020-01-09T00:00:17.470562
+13;A2;eighth note;67;False;2020-01-09T00:00:17.647032
+13;G3;eighth note;68;False;2020-01-09T00:00:17.823502
+13;C4;eighth note;69;False;2020-01-09T00:00:17.999972
+14;A2;quarter note;70;False;2020-01-09T00:00:18.352913
+14;G3;eighth note;71;False;2020-01-09T00:00:18.529383
+14;C4;quarter note;72;False;2020-01-09T00:00:18.882324
+14;G3;eighth note;73;False;2020-01-09T00:00:19.058794
+14;A2;quarter note;74;False;2020-01-09T00:00:19.411735
+15;G2;quarter note;75;False;2020-01-09T00:00:19.764676
+15;F#3;eighth note;76;False;2020-01-09T00:00:19.941146
+15;B3;quarter note;77;False;2020-01-09T00:00:20.294087
+15;G2;eighth note;78;False;2020-01-09T00:00:20.470557
+15;F#3;quarter note;79;False;2020-01-09T00:00:20.823498
+16;G2;dotted quarter note;80;True;2020-01-09T00:00:21.352909
+16;F#3;dotted quarter note;80;True;2020-01-09T00:00:21.352909
+16;B3;dotted quarter note;80;True;2020-01-09T00:00:21.352909
+16;A2;dotted quarter note;81;True;2020-01-09T00:00:21.882320
+16;G3;dotted quarter note;81;True;2020-01-09T00:00:21.882320
+16;C4;dotted quarter note;81;True;2020-01-09T00:00:21.882320
+16;B2;quarter note;82;True;2020-01-09T00:00:22.235261
+16;A3;quarter note;82;True;2020-01-09T00:00:22.235261
+16;D4;quarter note;82;True;2020-01-09T00:00:22.235261
+17;C3;quarter note;83;False;2020-01-09T00:00:22.588202
+17;B3;eighth note;84;False;2020-01-09T00:00:22.764672
+17;E4;quarter note;85;False;2020-01-09T00:00:23.117613
+17;C3;eighth note;86;False;2020-01-09T00:00:23.294083
+17;B3;eighth note;87;False;2020-01-09T00:00:23.470553
+17;E4;eighth note;88;False;2020-01-09T00:00:23.647023
+18;C3;quarter note;89;False;2020-01-09T00:00:23.999964
+18;B3;eighth note;90;False;2020-01-09T00:00:24.176434
+18;A4;quarter note;91;False;2020-01-09T00:00:24.529375
+18;E4;eighth note;92;False;2020-01-09T00:00:24.705845
+18;B3;quarter note;93;False;2020-01-09T00:00:25.058786
+19;B2;quarter note;94;False;2020-01-09T00:00:25.411727
+19;A3;eighth note;95;False;2020-01-09T00:00:25.588197
+19;D4;quarter note;96;False;2020-01-09T00:00:25.941138
+19;B2;eighth note;97;False;2020-01-09T00:00:26.117608
+19;A3;eighth note;98;False;2020-01-09T00:00:26.294078
+19;D4;eighth note;99;False;2020-01-09T00:00:26.470548
+20;B2;quarter note;100;False;2020-01-09T00:00:26.823489
+20;A3;eighth note;101;False;2020-01-09T00:00:26.999959
+20;G4;quarter note;102;False;2020-01-09T00:00:27.352900
+20;D4;eighth note;103;False;2020-01-09T00:00:27.529370
+20;A3;quarter note;104;False;2020-01-09T00:00:27.882311
+21;A2;quarter note;105;False;2020-01-09T00:00:28.235252
+21;G3;eighth note;106;False;2020-01-09T00:00:28.411722
+21;C4;quarter note;107;False;2020-01-09T00:00:28.764663
+21;A2;eighth note;108;False;2020-01-09T00:00:28.941133
+21;G3;eighth note;109;False;2020-01-09T00:00:29.117603
+21;C4;eighth note;110;False;2020-01-09T00:00:29.294073
+22;A2;quarter note;111;False;2020-01-09T00:00:29.647014
+22;G3;eighth note;112;False;2020-01-09T00:00:29.823484
+22;F#4;quarter note;113;False;2020-01-09T00:00:30.176425
+22;C4;eighth note;114;False;2020-01-09T00:00:30.352895
+22;G3;quarter note;115;False;2020-01-09T00:00:30.705836
+23;G2;quarter note;116;False;2020-01-09T00:00:31.058777
+23;F#3;eighth note;117;False;2020-01-09T00:00:31.235247
+23;G2;dotted quarter note;118;True;2020-01-09T00:00:31.764658
+23;F#3;dotted quarter note;118;True;2020-01-09T00:00:31.764658
+23;B3;dotted quarter note;118;True;2020-01-09T00:00:31.764658
+23;E4;dotted quarter note;118;True;2020-01-09T00:00:31.764658
+23;G2;quarter note;119;True;2020-01-09T00:00:32.117599
+23;F#3;quarter note;119;True;2020-01-09T00:00:32.117599
+23;B3;quarter note;119;True;2020-01-09T00:00:32.117599
+23;E4;quarter note;119;True;2020-01-09T00:00:32.117599
+24;G2;dotted quarter note;120;True;2020-01-09T00:00:32.647010
+24;F#3;dotted quarter note;120;True;2020-01-09T00:00:32.647010
+24;B3;dotted quarter note;120;True;2020-01-09T00:00:32.647010
+24;A2;dotted quarter note;121;True;2020-01-09T00:00:33.176421
+24;G3;dotted quarter note;121;True;2020-01-09T00:00:33.176421
+24;C4;dotted quarter note;121;True;2020-01-09T00:00:33.176421
+24;B2;quarter note;122;True;2020-01-09T00:00:33.529362
+24;A3;quarter note;122;True;2020-01-09T00:00:33.529362
+24;D4;quarter note;122;True;2020-01-09T00:00:33.529362
+25;C3;quarter note;123;False;2020-01-09T00:00:33.882303
+25;B3;eighth note;124;False;2020-01-09T00:00:34.058773
+25;E4;quarter note;125;False;2020-01-09T00:00:34.411714
+25;C3;eighth note;126;False;2020-01-09T00:00:34.588184
+25;B3;eighth note;127;False;2020-01-09T00:00:34.764654
+25;E4;eighth note;128;False;2020-01-09T00:00:34.941124
+26;C3;quarter note;129;False;2020-01-09T00:00:35.294065
+26;B3;eighth note;130;False;2020-01-09T00:00:35.470535
+26;E4;quarter note;131;False;2020-01-09T00:00:35.823476
+26;B3;eighth note;132;False;2020-01-09T00:00:35.999946
+26;C3;quarter note;133;False;2020-01-09T00:00:36.352887
+27;B2;quarter note;134;False;2020-01-09T00:00:36.705828
+27;A3;eighth note;135;False;2020-01-09T00:00:36.882298
+27;D4;quarter note;136;False;2020-01-09T00:00:37.235239
+27;B2;eighth note;137;False;2020-01-09T00:00:37.411709
+27;A3;eighth note;138;False;2020-01-09T00:00:37.588179
+27;D4;eighth note;139;False;2020-01-09T00:00:37.764649
+28;B2;quarter note;140;False;2020-01-09T00:00:38.117590
+28;A3;eighth note;141;False;2020-01-09T00:00:38.294060
+28;D4;quarter note;142;False;2020-01-09T00:00:38.647001
+28;A3;eighth note;143;False;2020-01-09T00:00:38.823471
+28;B2;quarter note;144;False;2020-01-09T00:00:39.176412
+29;A2;quarter note;145;False;2020-01-09T00:00:39.529353
+29;G3;eighth note;146;False;2020-01-09T00:00:39.705823
+29;C4;quarter note;147;False;2020-01-09T00:00:40.058764
+29;A2;eighth note;148;False;2020-01-09T00:00:40.235234
+29;G3;eighth note;149;False;2020-01-09T00:00:40.411704
+29;C4;eighth note;150;False;2020-01-09T00:00:40.588174
+30;A2;quarter note;151;False;2020-01-09T00:00:40.941115
+30;G3;eighth note;152;False;2020-01-09T00:00:41.117585
+30;C4;quarter note;153;False;2020-01-09T00:00:41.470526
+30;G3;eighth note;154;False;2020-01-09T00:00:41.646996
+30;A2;quarter note;155;False;2020-01-09T00:00:41.999937
+31;G2;quarter note;156;False;2020-01-09T00:00:42.352878
+31;F#3;eighth note;157;False;2020-01-09T00:00:42.529348
+31;B3;quarter note;158;False;2020-01-09T00:00:42.882289
+31;G2;eighth note;159;False;2020-01-09T00:00:43.058759
+31;F#3;quarter note;160;False;2020-01-09T00:00:43.411700
+32;G2;dotted quarter note;161;True;2020-01-09T00:00:43.941111
+32;F#3;dotted quarter note;161;True;2020-01-09T00:00:43.941111
+32;B3;dotted quarter note;161;True;2020-01-09T00:00:43.941111
+32;A2;dotted quarter note;162;True;2020-01-09T00:00:44.470522
+32;G3;dotted quarter note;162;True;2020-01-09T00:00:44.470522
+32;C4;dotted quarter note;162;True;2020-01-09T00:00:44.470522
+32;B2;quarter note;163;True;2020-01-09T00:00:44.823463
+32;A3;quarter note;163;True;2020-01-09T00:00:44.823463
+32;D4;quarter note;163;True;2020-01-09T00:00:44.823463
+33;C3;quarter note;164;False;2020-01-09T00:00:45.176404
+33;B3;eighth note;165;False;2020-01-09T00:00:45.352874
+33;E4;quarter note;166;False;2020-01-09T00:00:45.705815
+33;C3;eighth note;167;False;2020-01-09T00:00:45.882285
+33;B3;eighth note;168;False;2020-01-09T00:00:46.058755
+33;E4;eighth note;169;False;2020-01-09T00:00:46.235225
+34;C3;quarter note;170;False;2020-01-09T00:00:46.588166
+34;B3;eighth note;171;False;2020-01-09T00:00:46.764636
+34;A4;quarter note;172;False;2020-01-09T00:00:47.117577
+34;E4;eighth note;173;False;2020-01-09T00:00:47.294047
+34;B3;quarter note;174;False;2020-01-09T00:00:47.646988
+35;B2;quarter note;175;False;2020-01-09T00:00:47.999929
+35;A3;eighth note;176;False;2020-01-09T00:00:48.176399
+35;D4;quarter note;177;False;2020-01-09T00:00:48.529340
+35;B2;eighth note;178;False;2020-01-09T00:00:48.705810
+35;A3;eighth note;179;False;2020-01-09T00:00:48.882280
+35;D4;eighth note;180;False;2020-01-09T00:00:49.058750
+36;B2;quarter note;181;False;2020-01-09T00:00:49.411691
+36;A3;eighth note;182;False;2020-01-09T00:00:49.588161
+36;G4;quarter note;183;False;2020-01-09T00:00:49.941102
+36;D4;eighth note;184;False;2020-01-09T00:00:50.117572
+36;A3;quarter note;185;False;2020-01-09T00:00:50.470513
+37;A2;quarter note;186;False;2020-01-09T00:00:50.823454
+37;G3;eighth note;187;False;2020-01-09T00:00:50.999924
+37;C4;quarter note;188;False;2020-01-09T00:00:51.352865
+37;A2;eighth note;189;False;2020-01-09T00:00:51.529335
+37;G3;eighth note;190;False;2020-01-09T00:00:51.705805
+37;C4;eighth note;191;False;2020-01-09T00:00:51.882275
+38;A2;quarter note;192;False;2020-01-09T00:00:52.235216
+38;G3;eighth note;193;False;2020-01-09T00:00:52.411686
+38;F#4;quarter note;194;False;2020-01-09T00:00:52.764627
+38;C4;eighth note;195;False;2020-01-09T00:00:52.941097
+38;G3;quarter note;196;False;2020-01-09T00:00:53.294038
+39;G2;quarter note;197;False;2020-01-09T00:00:53.646979
+39;F#3;eighth note;198;False;2020-01-09T00:00:53.823449
+39;G2;dotted quarter note;199;True;2020-01-09T00:00:54.352860
+39;F#3;dotted quarter note;199;True;2020-01-09T00:00:54.352860
+39;B3;dotted quarter note;199;True;2020-01-09T00:00:54.352860
+39;E4;dotted quarter note;199;True;2020-01-09T00:00:54.352860
+39;G2;quarter note;200;True;2020-01-09T00:00:54.705801
+39;F#3;quarter note;200;True;2020-01-09T00:00:54.705801
+39;B3;quarter note;200;True;2020-01-09T00:00:54.705801
+39;E4;quarter note;200;True;2020-01-09T00:00:54.705801
+40;G2;dotted quarter note;201;True;2020-01-09T00:00:55.235212
+40;F#3;dotted quarter note;201;True;2020-01-09T00:00:55.235212
+40;B3;dotted quarter note;201;True;2020-01-09T00:00:55.235212
+40;A2;dotted quarter note;202;True;2020-01-09T00:00:55.764623
+40;G3;dotted quarter note;202;True;2020-01-09T00:00:55.764623
+40;C4;dotted quarter note;202;True;2020-01-09T00:00:55.764623
+40;B2;quarter note;203;True;2020-01-09T00:00:56.117564
+40;A3;quarter note;203;True;2020-01-09T00:00:56.117564
+40;D4;quarter note;203;True;2020-01-09T00:00:56.117564

@@ -8,36 +8,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="1"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.000+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="2"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="4"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="5"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:00.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="6"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:01.058+00:00"/>
     </event>
   </trace>
   <trace>
@@ -47,30 +53,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:01.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="8"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:01.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="9"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:01.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="10"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:02.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="11"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:02.470+00:00"/>
     </event>
   </trace>
   <trace>
@@ -80,36 +91,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="12"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:02.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="13"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:02.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="14"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:03.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="15"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:03.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="16"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:03.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="17"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:03.882+00:00"/>
     </event>
   </trace>
   <trace>
@@ -119,30 +136,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="18"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:04.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="19"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:04.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="20"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:04.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="21"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:04.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="22"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:05.294+00:00"/>
     </event>
   </trace>
   <trace>
@@ -152,36 +174,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="23"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:05.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="24"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:05.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="25"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:06.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="26"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:06.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="27"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:06.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="28"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:06.705+00:00"/>
     </event>
   </trace>
   <trace>
@@ -191,30 +219,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="29"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:07.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="30"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:07.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="31"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:07.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="32"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:07.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="33"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:08.117+00:00"/>
     </event>
   </trace>
   <trace>
@@ -224,30 +257,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="34"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:08.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="35"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:08.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="36"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:08.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="37"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:09.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="38"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:09.529+00:00"/>
     </event>
   </trace>
   <trace>
@@ -257,54 +295,63 @@
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="39"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="39"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="39"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="40"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="40"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="40"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="41"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="41"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="41"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:10.941+00:00"/>
     </event>
   </trace>
   <trace>
@@ -314,36 +361,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="42"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:11.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="43"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:11.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="44"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:11.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="45"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:11.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="46"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:12.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="47"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:12.352+00:00"/>
     </event>
   </trace>
   <trace>
@@ -353,30 +406,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="48"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:12.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="49"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:12.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="50"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:13.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="51"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:13.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="52"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:13.764+00:00"/>
     </event>
   </trace>
   <trace>
@@ -386,36 +444,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="53"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="54"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="55"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="56"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="57"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:14.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="58"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:15.176+00:00"/>
     </event>
   </trace>
   <trace>
@@ -425,30 +489,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="59"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:15.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="60"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:15.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="61"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:16.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="62"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:16.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="63"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:16.588+00:00"/>
     </event>
   </trace>
   <trace>
@@ -458,36 +527,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="64"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:16.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="65"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:17.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="66"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:17.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="67"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:17.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="68"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:17.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="69"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:17.999+00:00"/>
     </event>
   </trace>
   <trace>
@@ -497,30 +572,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="70"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:18.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="71"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:18.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="72"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:18.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="73"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:19.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="74"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:19.411+00:00"/>
     </event>
   </trace>
   <trace>
@@ -530,30 +610,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="75"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:19.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="76"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:19.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="77"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:20.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="78"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:20.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="79"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:20.823+00:00"/>
     </event>
   </trace>
   <trace>
@@ -563,54 +648,63 @@
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="80"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="80"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="80"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="81"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="81"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="81"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:21.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="82"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:22.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="82"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:22.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="82"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:22.235+00:00"/>
     </event>
   </trace>
   <trace>
@@ -620,36 +714,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="83"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:22.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="84"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:22.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="85"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:23.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="86"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:23.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="87"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:23.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="88"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:23.647+00:00"/>
     </event>
   </trace>
   <trace>
@@ -659,30 +759,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="89"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:23.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="90"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:24.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="91"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:24.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="92"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:24.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="93"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:25.058+00:00"/>
     </event>
   </trace>
   <trace>
@@ -692,36 +797,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="94"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:25.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="95"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:25.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="96"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:25.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="97"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:26.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="98"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:26.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="99"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:26.470+00:00"/>
     </event>
   </trace>
   <trace>
@@ -731,30 +842,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="100"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:26.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="101"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:26.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="102"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:27.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="103"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:27.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="104"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:27.882+00:00"/>
     </event>
   </trace>
   <trace>
@@ -764,36 +880,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="105"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:28.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="106"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:28.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="107"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:28.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="108"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:28.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="109"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:29.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="110"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:29.294+00:00"/>
     </event>
   </trace>
   <trace>
@@ -803,30 +925,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="111"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:29.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="112"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:29.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="113"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:30.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="114"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:30.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="115"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:30.705+00:00"/>
     </event>
   </trace>
   <trace>
@@ -836,60 +963,70 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="116"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="117"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="118"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="118"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="118"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="118"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:31.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="119"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="119"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="119"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="119"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.117+00:00"/>
     </event>
   </trace>
   <trace>
@@ -899,54 +1036,63 @@
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="120"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="120"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="120"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:32.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="121"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="121"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="121"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="122"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.529+00:00"/>
     </event>
   </trace>
   <trace>
@@ -956,36 +1102,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="123"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:33.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="124"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:34.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="125"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:34.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="126"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:34.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="127"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:34.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="128"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:34.941+00:00"/>
     </event>
   </trace>
   <trace>
@@ -995,30 +1147,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="129"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:35.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="130"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:35.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="131"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:35.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="132"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:35.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="133"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:36.352+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1028,36 +1185,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="134"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:36.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="135"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:36.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="136"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:37.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="137"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:37.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="138"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:37.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="139"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:37.764+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1067,30 +1230,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="140"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:38.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="141"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:38.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="142"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:38.647+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="143"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:38.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="144"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:39.176+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1100,36 +1268,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="145"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:39.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="146"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:39.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="147"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:40.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="148"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:40.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="149"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:40.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="150"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:40.588+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1139,30 +1313,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="151"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:40.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="152"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:41.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="153"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:41.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="154"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:41.646+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="155"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:41.999+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1172,30 +1351,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="156"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:42.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="157"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:42.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="158"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:42.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="159"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:43.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="160"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:43.411+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1205,54 +1389,63 @@
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="161"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:43.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="161"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:43.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="161"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:43.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="162"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="162"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="162"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.470+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="163"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="163"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="163"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:44.823+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1262,36 +1455,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="164"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:45.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="165"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:45.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="166"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:45.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="167"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:45.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="168"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:46.058+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="169"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:46.235+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1301,30 +1500,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="170"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:46.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="171"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:46.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="172"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:47.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="173"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:47.294+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="174"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:47.646+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1334,36 +1538,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="175"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:47.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="176"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:48.176+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="177"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:48.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="178"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:48.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="179"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:48.882+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="180"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:49.058+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1373,30 +1583,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="181"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:49.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="182"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:49.588+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="183"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:49.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="184"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:50.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="185"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:50.470+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1406,36 +1621,42 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="186"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:50.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="187"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:50.999+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="188"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:51.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="189"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:51.529+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="190"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:51.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="191"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:51.882+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1445,30 +1666,35 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="192"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:52.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="193"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:52.411+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="194"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:52.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="195"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:52.941+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="196"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:53.294+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1478,60 +1704,70 @@
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="197"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:53.646+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="198"/>
       <boolean key="org:is_chord" value="False"/>
+      <date key="Timestamp" value="2020-01-09T00:00:53.823+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="199"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="199"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="199"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="199"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.352+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="200"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="200"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="200"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.705+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="E4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="200"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:54.705+00:00"/>
     </event>
   </trace>
   <trace>
@@ -1541,54 +1777,63 @@
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="201"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="F#3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="201"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="201"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.235+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A2"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="202"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="G3"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="202"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C4"/>
       <string key="org:type" value="dotted quarter note"/>
       <int key="org:order" value="202"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:55.764+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="B2"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="203"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:56.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="A3"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="203"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:56.117+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D4"/>
       <string key="org:type" value="quarter note"/>
       <int key="org:order" value="203"/>
       <boolean key="org:is_chord" value="True"/>
+      <date key="Timestamp" value="2020-01-09T00:00:56.117+00:00"/>
     </event>
   </trace>
 </log>

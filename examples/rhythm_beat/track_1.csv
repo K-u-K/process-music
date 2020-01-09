@@ -1,9 +1,9 @@
-Case_ID;Event;Type;Order;Is_Chord
-1;C3;sixteenth note;1;False
-1;C3;sixteenth note;2;False
-1;Pause;eighth note;3;False
-1;D3;sixteenth note;4;False
-1;D3;sixteenth note;5;False
-1;Pause;eighth note;6;False
-1;C#3;sixteenth note;7;True
-1;C3;sixteenth note;7;True
+Case_ID;Event;Type;Order;Is_Chord;Timestamp
+1;C3;sixteenth note;1;False;2020-01-09T00:00:00
+1;C3;sixteenth note;2;False;2020-01-09T00:00:00.125000
+1;Pause;eighth note;3;False;2020-01-09T00:00:00.375000
+1;D3;sixteenth note;4;False;2020-01-09T00:00:00.500000
+1;D3;sixteenth note;5;False;2020-01-09T00:00:00.625000
+1;Pause;eighth note;6;False;2020-01-09T00:00:00.875000
+1;C#3;sixteenth note;7;True;2020-01-09T00:00:01
+1;C3;sixteenth note;7;True;2020-01-09T00:00:01
