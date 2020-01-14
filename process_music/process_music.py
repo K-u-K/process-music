@@ -142,7 +142,7 @@ def main(args):
                             "type":     note_type,
                             "order":    order,
                             "is_chord": False,
-                            "time":     now.isoformat()
+                            "time":     utils.adapt_iso_time(now)
                         })
                         order = order + 1
                         ticks = ticks + msg.time
@@ -186,7 +186,7 @@ def main(args):
                     t   = mid.ticks_per_beat * times * ((constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2)
                     now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(t, mid.ticks_per_beat, tempo)))
 
-                state[key]["time"] = now.isoformat()
+                state[key]["time"] = utils.adapt_iso_time(now) 
                 results.append(state[key])
 
                 prev_note_on  = default()

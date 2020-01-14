@@ -81,3 +81,11 @@ def get_time_signature_ticks(time_signature, ticks_per_beat, measures):
 def get_default_time_signature_ticks(ticks_per_beat, measures):
     meta = mido.MetaMessage("time_signature", numerator=4, denominator=4)
     return get_time_signature_ticks(meta, ticks_per_beat, measures)
+
+def adapt_iso_time(now):
+    # small bug in python: with zero microseconds, the identifier will not be printed resulting in an inconsistent
+    # timestamp. solve by using the default value
+    iso = now.isoformat()
+    if "." not in iso:
+        iso = f"{iso}.000000"
+    return iso
