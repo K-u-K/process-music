@@ -35,6 +35,8 @@ import datetime
 # TODO: chord & interval names instead of an own entry for each note in a chord
 # TODO: consider special rhythm structures, quintuplets, septuplets, etc.
 # TODO: make timestamp column more accurate
+# TODO: make calculation of note_type more precise and powerful
+# TODO: 
 # TODO: put fixed strings into constants + refactor code (a lot). Convert to Class instead of main py
 # TODO: fill up missing chords with pauses in other tracks
 # TODO: consider notes whose duration spans more than one measure (whole note starting at 2/4 to 2/4 of new measure)
@@ -96,9 +98,9 @@ def main(args):
         threshold = utils.get_default_time_signature_ticks(mid.ticks_per_beat, measures)
 
         # analyse meta tracks in terms of time_signature / set_tempo
-        if all([msg.is_meta for msg in track]):
-            time_signatures = [*filter(lambda msg: msg.type == "time_signature", track)]
-            set_tempos      = [*filter(lambda msg: msg.type == "set_tempo", track)]
+        if all([msg.is_meta or msg.type not in constants.NOTE_EVENTS for msg in track]):
+            time_signatures = [*filter(lambda msg: msg.type == constants.META_TIME_SIGNATUR, track)]
+            set_tempos      = [*filter(lambda msg: msg.type == constants.META_SET_TEMPO, track)]
 
             # multiple time_signatures and set_tempo events in a meta track are uncommon but technically possible (take the last ticks)
             for time_signature in time_signatures:
@@ -110,24 +112,24 @@ def main(args):
 
         # process main tracks
         for msg in track:
-            if msg.type == "time_signature":
+            if msg.type == constants.META_TIME_SIGNATUR:
                 threshold = utils.get_time_signature_ticks(msg, mid.ticks_per_beat, measures)
 
-            if msg.type == "set_tempo":
+            if msg.type == constants.META_SET_TEMPO:
                 tempo = msg.tempo
 
-            if msg.type not in ['note_on', 'note_off']:
+            if msg.type not in constants.NOTE_EVENTS:
                 continue
 
             if __debug__:
                 print(f"Message type={msg.type} note={utils.get_key(msg.note)} ({msg.note}) velocity={msg.velocity} time={msg.time}")
 
             # prepend pauses
-            if msg.type == "note_on" and msg.time != 0 and msg.velocity != 0:
+            if msg.type == constants.NOTE_ON and msg.time != 0 and msg.velocity != 0:
                 times, note_type = utils.get_note_type_pause(msg.time, mid.ticks_per_beat)
                 
                 # ignore invalid pauses (MuseScore defines strange note_on message with sufficiently low ticks) 
-                if note_type != "unknown":
+                if note_type != constants.UNKNOWN_NOTE_TYPE:
                     msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
                         
                     for _ in range(times):
@@ -157,7 +159,7 @@ def main(args):
                 case_number = case_number + 1
                 ticks       = ticks % threshold
 
-            if msg.velocity == 0 or msg.type == 'note_off':
+            if msg.velocity == 0 or msg.type == constants.NOTE_OFF:
                 key         = utils.get_key(msg.note)
                 time        = msg.time
                 update_now  = False
@@ -180,7 +182,7 @@ def main(args):
                 times, note_type   = utils.get_note_type(time, mid.ticks_per_beat)
                 state[key]["type"] = (f"{times} " if times > 1 else "") + note_type
 
-                if update_now and len(results) > 0 and note_type != "unknown":
+                if update_now and len(results) > 0 and note_type != constants.UNKNOWN_NOTE_TYPE:
                     t   = mid.ticks_per_beat * times * ((constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2)
                     now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(t, mid.ticks_per_beat, tempo)))
 
@@ -197,7 +199,7 @@ def main(args):
                 continue
 
             is_chord = False
-            if prev_note_on["msg"] is not None and prev_note_on["msg"].type == "note_on" and msg.time == 0 and not is_first:
+            if prev_note_on["msg"] is not None and prev_note_on["msg"].type == constants.NOTE_ON and msg.time == 0 and not is_first:
                 is_chord = True
                 state[prev_note_on["key"]]["is_chord"] = True
                 order = order - 1

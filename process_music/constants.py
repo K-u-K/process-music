@@ -1,5 +1,7 @@
 import numpy as np
 
+UNKNOWN_NOTE_TYPE = "unknown"
+
 NOTE_WHOLE                            = "whole note"
 NOTE_HALF                             = "half note"
 NOTE_QUARTER                          = "quarter note"
@@ -51,6 +53,17 @@ PITCHES = [
     PITCH_A_SHARP,
     PITCH_B
 ]
+
+NOTE_OFF = "note_off"
+NOTE_ON  = "note_on"
+
+NOTE_EVENTS = [
+    NOTE_ON,
+    NOTE_OFF
+]
+
+META_SET_TEMPO      = "set_tempo"
+META_TIME_SIGNATUR  = "time_signature"
 
 def calculate_ratios(base_ratio, deviation, notes):
     note_types = {}
