@@ -239,7 +239,7 @@ def main(args):
 
         # generate and store footprint matrix
         footprint_matrix = footprint.calculate_footprint_matrix(output)
-        footprint_path   = f"{output_dir}/footprint_matrix_{i}.txt"
+        footprint_path   = f"{output_dir}/track_{i}_footprint_matrix.txt"
         with open(footprint_path, "w") as fh:
             fh.write(footprint_matrix.to_string())
 

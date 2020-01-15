@@ -8,56 +8,56 @@
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="1"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.000+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.000+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="2"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.125+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.125+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="3"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.375+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.375+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D3"/>
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="4"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.500+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.500+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="D3"/>
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="5"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.625+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.625+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="Pause"/>
       <string key="org:type" value="eighth note"/>
       <int key="org:order" value="6"/>
       <boolean key="org:is_chord" value="False"/>
-      <date key="Timestamp" value="2020-01-14T00:00:00.875+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:00.875+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C#3"/>
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="True"/>
-      <date key="Timestamp" value="2020-01-14T00:00:01.000+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:01.000+00:00"/>
     </event>
     <event>
       <string key="concept:name" value="C3"/>
       <string key="org:type" value="sixteenth note"/>
       <int key="org:order" value="7"/>
       <boolean key="org:is_chord" value="True"/>
-      <date key="Timestamp" value="2020-01-14T00:00:01.000+00:00"/>
+      <date key="Timestamp" value="2020-01-15T00:00:01.000+00:00"/>
     </event>
   </trace>
 </log>

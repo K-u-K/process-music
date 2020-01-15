@@ -1,12 +1,12 @@
 Case_ID;Event;Type;Order;Is_Chord;Timestamp
-1;Pause;whole note;1;False;2020-01-14T00:00:00.000000
-2;Pause;whole note;2;False;2020-01-14T00:00:02.000000
-3;Pause;whole note;3;False;2020-01-14T00:00:04.000000
-4;Pause;whole note;4;False;2020-01-14T00:00:06.000000
-5;Pause;whole note;5;False;2020-01-14T00:00:08.000000
-6;Pause;whole note;6;False;2020-01-14T00:00:10.000000
-7;Pause;whole note;7;False;2020-01-14T00:00:12.000000
-8;Pause;whole note;8;False;2020-01-14T00:00:14.000000
-9;E4;dotted half note;9;False;2020-01-14T00:00:15.500000
-9;C4;eighth note;10;False;2020-01-14T00:00:15.750000
-9;D4;3 dotted quarter note;11;False;2020-01-14T00:00:18.000000
+1;Pause;whole note;1;False;2020-01-15T00:00:00.000000
+2;Pause;whole note;2;False;2020-01-15T00:00:02.000000
+3;Pause;whole note;3;False;2020-01-15T00:00:04.000000
+4;Pause;whole note;4;False;2020-01-15T00:00:06.000000
+5;Pause;whole note;5;False;2020-01-15T00:00:08.000000
+6;Pause;whole note;6;False;2020-01-15T00:00:10.000000
+7;Pause;whole note;7;False;2020-01-15T00:00:12.000000
+8;Pause;whole note;8;False;2020-01-15T00:00:14.000000
+9;E4;dotted half note;9;False;2020-01-15T00:00:15.500000
+9;C4;eighth note;10;False;2020-01-15T00:00:15.750000
+9;D4;3 dotted quarter note;11;False;2020-01-15T00:00:18.000000

@@ -1,21 +1,21 @@
 Case_ID;Event;Type;Order;Is_Chord;Timestamp
-1;Pause;whole note;1;False;2020-01-14T00:00:00.000000
-2;E1;double dotted whole note;2;True;2020-01-14T00:00:03.500000
-2;E2;double dotted whole note;2;True;2020-01-14T00:00:03.500000
-2;B2;double dotted whole note;2;True;2020-01-14T00:00:03.500000
-2;E3;double dotted whole note;2;True;2020-01-14T00:00:03.500000
-3;Pause;dotted sixteenth note;3;False;2020-01-14T00:00:03.687500
-4;F#1;double dotted whole note;4;True;2020-01-14T00:00:07.187500
-4;F#2;double dotted whole note;4;True;2020-01-14T00:00:07.187500
-4;C3;double dotted whole note;4;True;2020-01-14T00:00:07.187500
-4;F#3;double dotted whole note;4;True;2020-01-14T00:00:07.187500
-5;Pause;dotted sixteenth note;5;False;2020-01-14T00:00:07.375000
-5;G1;double dotted whole note;6;True;2020-01-14T00:00:10.875000
-5;G2;double dotted whole note;6;True;2020-01-14T00:00:10.875000
-5;D3;double dotted whole note;6;True;2020-01-14T00:00:10.875000
-5;G3;double dotted whole note;6;True;2020-01-14T00:00:10.875000
-6;Pause;dotted sixteenth note;7;False;2020-01-14T00:00:11.062500
-6;D#1;whole note;8;True;2020-01-14T00:00:13.062500
-6;D#2;whole note;8;True;2020-01-14T00:00:13.062500
-6;A2;whole note;8;True;2020-01-14T00:00:13.062500
-6;D#3;whole note;8;True;2020-01-14T00:00:13.062500
+1;Pause;whole note;1;False;2020-01-15T00:00:00.000000
+2;E1;double dotted whole note;2;True;2020-01-15T00:00:03.500000
+2;E2;double dotted whole note;2;True;2020-01-15T00:00:03.500000
+2;B2;double dotted whole note;2;True;2020-01-15T00:00:03.500000
+2;E3;double dotted whole note;2;True;2020-01-15T00:00:03.500000
+3;Pause;dotted sixteenth note;3;False;2020-01-15T00:00:03.687500
+4;F#1;double dotted whole note;4;True;2020-01-15T00:00:07.187500
+4;F#2;double dotted whole note;4;True;2020-01-15T00:00:07.187500
+4;C3;double dotted whole note;4;True;2020-01-15T00:00:07.187500
+4;F#3;double dotted whole note;4;True;2020-01-15T00:00:07.187500
+5;Pause;dotted sixteenth note;5;False;2020-01-15T00:00:07.375000
+5;G1;double dotted whole note;6;True;2020-01-15T00:00:10.875000
+5;G2;double dotted whole note;6;True;2020-01-15T00:00:10.875000
+5;D3;double dotted whole note;6;True;2020-01-15T00:00:10.875000
+5;G3;double dotted whole note;6;True;2020-01-15T00:00:10.875000
+6;Pause;dotted sixteenth note;7;False;2020-01-15T00:00:11.062500
+6;D#1;whole note;8;True;2020-01-15T00:00:13.062500
+6;D#2;whole note;8;True;2020-01-15T00:00:13.062500
+6;A2;whole note;8;True;2020-01-15T00:00:13.062500
+6;D#3;whole note;8;True;2020-01-15T00:00:13.062500

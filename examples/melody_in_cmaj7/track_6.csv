@@ -1,48 +1,48 @@
 Case_ID;Event;Type;Order;Is_Chord;Timestamp
-1;Pause;whole note;1;False;2020-01-14T00:00:00.000000
-2;Pause;whole note;2;False;2020-01-14T00:00:02.000000
-3;Pause;whole note;3;False;2020-01-14T00:00:04.000000
-4;Pause;whole note;4;False;2020-01-14T00:00:06.000000
-5;Pause;whole note;5;False;2020-01-14T00:00:08.000000
-6;Pause;whole note;6;False;2020-01-14T00:00:10.000000
-7;Pause;whole note;7;False;2020-01-14T00:00:12.000000
-8;Pause;whole note;8;False;2020-01-14T00:00:14.000000
-9;Pause;whole note;9;False;2020-01-14T00:00:16.000000
-10;Pause;whole note;10;False;2020-01-14T00:00:18.000000
-11;Pause;whole note;11;False;2020-01-14T00:00:20.000000
-12;Pause;whole note;12;False;2020-01-14T00:00:22.000000
-13;Pause;whole note;13;False;2020-01-14T00:00:24.000000
-14;Pause;whole note;14;False;2020-01-14T00:00:26.000000
-15;Pause;whole note;15;False;2020-01-14T00:00:28.000000
-16;Pause;whole note;16;False;2020-01-14T00:00:30.000000
-17;Pause;whole note;17;False;2020-01-14T00:00:32.000000
-18;Pause;whole note;18;False;2020-01-14T00:00:34.000000
-19;Pause;whole note;19;False;2020-01-14T00:00:36.000000
-20;Pause;whole note;20;False;2020-01-14T00:00:38.000000
-21;Pause;whole note;21;False;2020-01-14T00:00:40.000000
-22;Pause;whole note;22;False;2020-01-14T00:00:42.000000
-23;Pause;whole note;23;False;2020-01-14T00:00:44.000000
-24;E5;dotted quarter note;24;False;2020-01-14T00:00:44.750000
-24;D5;dotted quarter note;25;False;2020-01-14T00:00:45.500000
-24;C5;quarter note;26;False;2020-01-14T00:00:46.000000
-25;B4;whole note;27;False;2020-01-14T00:00:48.000000
-26;Pause;whole note;28;False;2020-01-14T00:00:50.000000
-27;Pause;whole note;29;False;2020-01-14T00:00:52.000000
-28;Pause;whole note;30;False;2020-01-14T00:00:54.000000
-29;Pause;whole note;31;False;2020-01-14T00:00:56.000000
-30;Pause;whole note;32;False;2020-01-14T00:00:58.000000
-31;Pause;whole note;33;False;2020-01-14T00:01:00.000000
-32;E5;dotted quarter note;34;False;2020-01-14T00:01:00.750000
-32;D5;dotted quarter note;35;False;2020-01-14T00:01:01.500000
-32;C5;quarter note;36;False;2020-01-14T00:01:02.000000
-33;B4;whole note;37;False;2020-01-14T00:01:04.000000
-34;Pause;whole note;38;False;2020-01-14T00:01:06.000000
-35;Pause;whole note;39;False;2020-01-14T00:01:08.000000
-36;Pause;whole note;40;False;2020-01-14T00:01:10.000000
-37;Pause;whole note;41;False;2020-01-14T00:01:12.000000
-38;Pause;whole note;42;False;2020-01-14T00:01:14.000000
-39;Pause;whole note;43;False;2020-01-14T00:01:16.000000
-40;E5;dotted quarter note;44;False;2020-01-14T00:01:16.750000
-40;D5;dotted quarter note;45;False;2020-01-14T00:01:17.500000
-40;C5;quarter note;46;False;2020-01-14T00:01:18.000000
-41;B4;whole note;47;False;2020-01-14T00:01:20.000000
+1;Pause;whole note;1;False;2020-01-15T00:00:00.000000
+2;Pause;whole note;2;False;2020-01-15T00:00:02.000000
+3;Pause;whole note;3;False;2020-01-15T00:00:04.000000
+4;Pause;whole note;4;False;2020-01-15T00:00:06.000000
+5;Pause;whole note;5;False;2020-01-15T00:00:08.000000
+6;Pause;whole note;6;False;2020-01-15T00:00:10.000000
+7;Pause;whole note;7;False;2020-01-15T00:00:12.000000
+8;Pause;whole note;8;False;2020-01-15T00:00:14.000000
+9;Pause;whole note;9;False;2020-01-15T00:00:16.000000
+10;Pause;whole note;10;False;2020-01-15T00:00:18.000000
+11;Pause;whole note;11;False;2020-01-15T00:00:20.000000
+12;Pause;whole note;12;False;2020-01-15T00:00:22.000000
+13;Pause;whole note;13;False;2020-01-15T00:00:24.000000
+14;Pause;whole note;14;False;2020-01-15T00:00:26.000000
+15;Pause;whole note;15;False;2020-01-15T00:00:28.000000
+16;Pause;whole note;16;False;2020-01-15T00:00:30.000000
+17;Pause;whole note;17;False;2020-01-15T00:00:32.000000
+18;Pause;whole note;18;False;2020-01-15T00:00:34.000000
+19;Pause;whole note;19;False;2020-01-15T00:00:36.000000
+20;Pause;whole note;20;False;2020-01-15T00:00:38.000000
+21;Pause;whole note;21;False;2020-01-15T00:00:40.000000
+22;Pause;whole note;22;False;2020-01-15T00:00:42.000000
+23;Pause;whole note;23;False;2020-01-15T00:00:44.000000
+24;E5;dotted quarter note;24;False;2020-01-15T00:00:44.750000
+24;D5;dotted quarter note;25;False;2020-01-15T00:00:45.500000
+24;C5;quarter note;26;False;2020-01-15T00:00:46.000000
+25;B4;whole note;27;False;2020-01-15T00:00:48.000000
+26;Pause;whole note;28;False;2020-01-15T00:00:50.000000
+27;Pause;whole note;29;False;2020-01-15T00:00:52.000000
+28;Pause;whole note;30;False;2020-01-15T00:00:54.000000
+29;Pause;whole note;31;False;2020-01-15T00:00:56.000000
+30;Pause;whole note;32;False;2020-01-15T00:00:58.000000
+31;Pause;whole note;33;False;2020-01-15T00:01:00.000000
+32;E5;dotted quarter note;34;False;2020-01-15T00:01:00.750000
+32;D5;dotted quarter note;35;False;2020-01-15T00:01:01.500000
+32;C5;quarter note;36;False;2020-01-15T00:01:02.000000
+33;B4;whole note;37;False;2020-01-15T00:01:04.000000
+34;Pause;whole note;38;False;2020-01-15T00:01:06.000000
+35;Pause;whole note;39;False;2020-01-15T00:01:08.000000
+36;Pause;whole note;40;False;2020-01-15T00:01:10.000000
+37;Pause;whole note;41;False;2020-01-15T00:01:12.000000
+38;Pause;whole note;42;False;2020-01-15T00:01:14.000000
+39;Pause;whole note;43;False;2020-01-15T00:01:16.000000
+40;E5;dotted quarter note;44;False;2020-01-15T00:01:16.750000
+40;D5;dotted quarter note;45;False;2020-01-15T00:01:17.500000
+40;C5;quarter note;46;False;2020-01-15T00:01:18.000000
+41;B4;whole note;47;False;2020-01-15T00:01:20.000000
