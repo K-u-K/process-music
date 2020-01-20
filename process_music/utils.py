@@ -18,14 +18,14 @@ def order_note_types(note_types, ticks, ticks_per_beat, threshold):
             
             if threshold <= (ticks + time):
                 target = (i, note_type, time) 
-        
+
         if target is not None:
             # append found target note and remove it from the set
             # additionally, adapt ticks by measure threshold
             note_types_ordered.append(target[1])
 
             ticks      = (ticks + target[2]) % threshold
-            note_types = note_types[0:i] + note_types[i+1:]
+            note_types = note_types[0:target[0]] + note_types[target[0]+1:]
         else:
             # when no target is found is means there is no note exceeding the measure by its own
             # this doesn't exclude a combination of such single note. therefore, take only the first
@@ -165,6 +165,28 @@ def get_note_type_pause(ticks, ticks_per_beat):
     del note_types[f"dotted {constants.NOTE_WHOLE}"]
     
     return _get_note_type_pause(ticks, ticks_per_beat, note_types)
+
+def get_note_before(note):
+    notes = np.array(constants.NOTES)
+    
+    search = np.where(notes == note)
+    if len(search) == 0:
+        return note
+
+    index = search[0][0]
+    index = max(0, index - 1)
+    return notes[index]
+
+def get_note_after(note):
+    notes = np.array(constants.NOTES)
+    
+    search = np.where(notes == note)
+    if len(search) == 0:
+        return note
+
+    index = search[0][0]
+    index = min(len(notes) - 1, index + 1)
+    return notes[index]
 
 def get_key(note):
     # int implicitely floors the value

@@ -79,7 +79,7 @@ def calculate_ratios(base_ratio, deviation, notes):
         if note in [NOTE_HALF, NOTE_QUARTER, NOTE_EIGHTH, NOTE_SIXTEENTH]:
             prev_note = NOTES[i-1]
 
-            note_types[f"triplet {prev_note}"] = note_types[prev_note] * (1/3)
+            note_types[f"triplet {note}"] = note_types[prev_note] * (1/3)
             # note_types[f"quintuplet {prev_note}"] = note_types[prev_note] * (1/5)
             # note_types[f"septuplets {prev_note}"] = note_types[prev_note] * (1/7)
 

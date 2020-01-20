@@ -130,7 +130,12 @@ def main(args):
                 
                 # ignore invalid pauses (MuseScore defines strange note_on message with sufficiently low ticks) 
                 if constants.UNKNOWN_NOTE_TYPE not in note_types:
+                    note_types = utils.order_note_types(note_types, ticks, mid.ticks_per_beat, threshold)
+
                     for note_type in note_types:
+                        if "triplet" in note_type:
+                            continue
+
                         msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
                             
                         for _ in range(times):
@@ -180,7 +185,20 @@ def main(args):
                     else:
                         update_now = True
                 
-                times, note_type   = utils.get_note_type(time, mid.ticks_per_beat)
+                times, note_type = utils.get_note_type(time, mid.ticks_per_beat)
+
+                # hack: if triplet is found, it is assumed that the full length of a triplet
+                # is seperated in one note_off and the next note_one message (behaviour was observed in MuseScore)
+                # therefore, each triplet is leveled up and the case_number is adapted accordingly
+                if (times == 1 and "triplet" in note_type):
+                    core_note_type = note_type.split("triplet ")[-1]
+                    note_type = f"triplet {utils.get_note_before(core_note_type)}"
+
+                    ticks = ticks + msg.time
+                    if threshold <= ticks:
+                        case_number        = case_number + 1
+                        ticks              = ticks % threshold
+
                 state[key]["type"] = (f"{times} " if times > 1 else "") + note_type
 
                 if update_now and len(results) > 0 and note_type != constants.UNKNOWN_NOTE_TYPE:
