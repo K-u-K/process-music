@@ -126,29 +126,30 @@ def main(args):
 
             # prepend pauses
             if msg.type == constants.NOTE_ON and msg.time != 0 and msg.velocity != 0:
-                times, note_type = utils.get_note_type_pause(msg.time, mid.ticks_per_beat)
+                note_types = utils.get_note_type_pause(msg.time, mid.ticks_per_beat)
                 
                 # ignore invalid pauses (MuseScore defines strange note_on message with sufficiently low ticks) 
-                if note_type != constants.UNKNOWN_NOTE_TYPE:
-                    msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
-                        
-                    for _ in range(times):
-                        if len(results) > 0:                        
-                            now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(msg.time, mid.ticks_per_beat, tempo)))
+                if constants.UNKNOWN_NOTE_TYPE not in note_types:
+                    for note_type in note_types:
+                        msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
+                            
+                        for _ in range(times):
+                            if len(results) > 0:                        
+                                now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(msg.time, mid.ticks_per_beat, tempo)))
 
-                        results.append({
-                            "case":     case_number,
-                            "key":      "Pause",
-                            "type":     note_type,
-                            "order":    order,
-                            "is_chord": False,
-                            "time":     utils.adapt_iso_time(now)
-                        })
-                        order = order + 1
-                        ticks = ticks + msg.time
-                        if threshold <= ticks:
-                            case_number = case_number + 1
-                            ticks       = ticks % threshold
+                            results.append({
+                                "case":     case_number,
+                                "key":      "Pause",
+                                "type":     note_type,
+                                "order":    order,
+                                "is_chord": False,
+                                "time":     utils.adapt_iso_time(now)
+                            })
+                            order = order + 1
+                            ticks = ticks + msg.time
+                            if threshold <= ticks:
+                                case_number = case_number + 1
+                                ticks       = ticks % threshold
 
                     msg.time = 0    
 

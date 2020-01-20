@@ -96,6 +96,7 @@ DEVIATION  = 0.01
 # calculate all ratios and include dotted + double dotted type notes
 NOTE_TYPES       = calculate_ratios(BASE_RATIO, DEVIATION, NOTES)
 NOTE_LOWER_BOUND = np.min(list(NOTE_TYPES.values()))
+NOTE_UPPER_BOUND = np.max(list(NOTE_TYPES.values()))
 
 # calculate time signature lookup
 SIGNATURE_UNIT = calculate_signature_denominators(BASE_RATIO, NOTES)
