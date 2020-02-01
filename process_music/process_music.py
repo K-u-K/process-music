@@ -137,24 +137,24 @@ def main(args):
                             continue
 
                         msg.time = mid.ticks_per_beat * (constants.NOTE_TYPES[note_type][0] + constants.NOTE_TYPES[note_type][1]) / 2 
-                            
-                        for _ in range(times):
-                            if len(results) > 0:                        
-                                now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(msg.time, mid.ticks_per_beat, tempo)))
+                        
+                        #for _ in range(times):
+                        if len(results) > 0:                        
+                            now = now + datetime.timedelta(microseconds=int(1e6 * mido.tick2second(msg.time, mid.ticks_per_beat, tempo)))
 
-                            results.append({
-                                "case":     case_number,
-                                "key":      "Pause",
-                                "type":     note_type,
-                                "order":    order,
-                                "is_chord": False,
-                                "time":     utils.adapt_iso_time(now)
-                            })
-                            order = order + 1
-                            ticks = ticks + msg.time
-                            if threshold <= ticks:
-                                case_number = case_number + 1
-                                ticks       = ticks % threshold
+                        results.append({
+                            "case":     case_number,
+                            "key":      "Pause",
+                            "type":     note_type,
+                            "order":    order,
+                            "is_chord": False,
+                            "time":     utils.adapt_iso_time(now)
+                        })
+                        order = order + 1
+                        ticks = ticks + msg.time
+                        if threshold <= ticks:
+                            case_number = case_number + 1
+                            ticks       = ticks % threshold
 
                     msg.time = 0    
 
